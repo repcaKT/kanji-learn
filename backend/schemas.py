@@ -19,3 +19,20 @@ class User(_UserBase):
 
     class Config:
         orm_mode = True
+
+class _VocabularyBase(BaseModel):
+    kanji: str
+    reading: str
+    translation: str
+    level: str
+
+class VocabCreate(_VocabularyBase):
+    user_id: int
+    class Config:
+        orm_mode = True
+
+class Vocabulary(_VocabularyBase):
+    id: int
+    
+    class Config:
+        orm_mode =True

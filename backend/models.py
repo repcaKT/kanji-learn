@@ -2,6 +2,7 @@ import datetime
 import sqlalchemy
 import sqlalchemy.orm as _orm
 import passlib.hash as _hash
+from sqlalchemy.sql.functions import user
 
 import database as _database
 
@@ -15,3 +16,13 @@ class User(_database.Base):
 
     def verify_password(self, password: str):
         return _hash.bcrypt.verify(password, self.user_password)
+
+
+class Vocabulary(_database.Base):
+    __tablename__="vocabulary"
+    id = sqlalchemy.Column(sqlalchemy.Integer, primary_key=True, index=True)
+    kanji = sqlalchemy.Column(sqlalchemy.String(16), index=True)
+    reading = sqlalchemy.Column(sqlalchemy.String(50), index=True)
+    translation = sqlalchemy.Column(sqlalchemy.String(50), index=True)
+    level = sqlalchemy.Column(sqlalchemy.String(16), index=True)
+    user_id = sqlalchemy.Column(sqlalchemy.Integer, sqlalchemy.ForeignKey('users.id'))
