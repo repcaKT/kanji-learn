@@ -35,7 +35,7 @@ def format_to_list(texts:str, level: str):
 
     texts_list = [vocab_element.strip() for vocab_element in texts_list if is_excluded(vocab_element)]
 
-    texts_list = [text.replace(" (", ";", 1).replace("): ", ";", 1).replace("):\xa0", ";").replace("\xa0(", ";").replace("\u200b", "").split(";", 2) for text in texts_list]
+    texts_list = [text.replace(";", ",").replace(" (", ";", 1).replace("): ", ";", 1).replace("):\xa0", ";").replace("\xa0(", ";").replace("\u200b", "").split(";", 2) for text in texts_list]
     result_list = []
     for test_text in texts_list:
         if len(test_text) == 3:

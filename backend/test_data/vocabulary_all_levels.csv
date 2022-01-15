@@ -1,3 +1,4 @@
+kanji;reading;translation;level
 浴びる;abiru;to take a shower;n5
 危ない;abunai;dangerous, risky;n5
 あげる;ageru;to give;n5
@@ -1087,7 +1088,7 @@ Ebook: Learn JLPT N4 Vocabulary;1085 pages)Preview This EbookDownload This Ebook
 愛;ai;love, affection, care;n3
 愛情;aijou;love, affection;n3
 相変わらず;aikawarazu;as ever, as usual, the same;n3
-生憎;ainiku;"unfortunately; sorry, but…";n3
+生憎;ainiku;unfortunately, sorry, but…;n3
 愛する;aisuru;to love;n3
 相手;aite;companion, partner;n3
 合図;aizu;sign, signal;n3
@@ -1435,7 +1436,7 @@ Ebook: Learn JLPT N3 Vocabulary;3373 pages)Preview This EbookDownload This Ebook
 必死;hisshi;frantic, desperate;n3
 額;hitai;forehead, brow;n3
 否定;hitei;negation, denial;n3
-人々;hitobito;"people; men and women";n3
+人々;hitobito;people, men and women;n3
 人込み;hitogomi;crowd of people;n3
 一言;hitokoto;single word, a few words;n3
 一人暮らし;hitorigurashi;living by oneself, living alone;n3
@@ -1554,7 +1555,7 @@ Ebook: Learn JLPT N3 Vocabulary;3373 pages)Preview This EbookDownload This Ebook
 実行;jikkou;execution, practice;n3
 時刻;jikoku;instant, time, moment;n3
 自慢;jiman;pride, boast;n3
-地面;jimen;"ground; earth’s surface";n3
+地面;jimen;ground, earth’s surface;n3
 事務;jimu;business, office work;n3
 事務室;jimushitsu;office (room);n3
 人物;jinbutsu;person, character, figure;n3
@@ -1987,7 +1988,7 @@ Ebook: Learn JLPT N3 Vocabulary;3373 pages)Preview This EbookDownload This Ebook
 目覚まし時計;mezamashidokei;alarm clock;n3
 身;mi;body, oneself;n3
 実;mi;fruit, nut;n3
-身につける;mi ni tsukeru;"to learn; to acquire knowledge";n3
+身につける;mi ni tsukeru;to learn, to acquire knowledge;n3
 満ちる;michiru;to be full;n3
 身近;midjika;near oneself, close to one;n3
 見事;migoto;splendid, magnificent;n3
@@ -2779,1608 +2780,1555 @@ Ebook: Learn JLPT N3 Vocabulary;3373 pages)Preview This EbookDownload This Ebook
 随分;zuibun;very, extremely;n3
 ずっと;zutto;continuously in some state;n3
 頭痛;zutsuu;headache;n3
-暴れる;abareru;"to act violently; to rage; to struggle; to be riotous";n2
-溢れる;afureru;"to overflow; to brim over; to flood";n2
-愛着;aichaku;"attachment; love; covetous affection";n2
-合間;aima;"interval; break; pause; spare moment";n2
-曖昧;aimai;"vague; ambiguous; unclear";n2
-愛らしい;airashii;"pretty; charming; lovely; adorable";n2
+暴れる;abareru;to act violently, to rage, to struggle, to be riotous;n2
+溢れる;afureru;to overflow, to brim over, to flood;n2
+愛着;aichaku;attachment, love, covetous affection;n2
+合間;aima;interval, break, pause, spare moment;n2
+曖昧;aimai;vague, ambiguous, unclear;n2
+愛らしい;airashii;pretty, charming, lovely, adorable;n2
 愛社;aisha;devotion to one’s company;n2
-相性;aishou;"affinity; compatibility";n2
-相次いで;aitsuide;"one after the other; successively";n2
-愛用;aiyou;"favorite; habitually used";n2
-味付け;ajitsuke;"seasoning; flavor";n2
-赤字;akaji;"(being in) the red; deficit; red letter; red writing; corrections (by a teacher or proofreader) written in red";n2
-飽き;aki;"weariness; boredom; tedium; tiresomeness";n2
-空き地;akichi;"vacant land; unoccupied ground; empty lot";n2
-諦め;akirame;"resignation; acceptance; consolation";n2
-悪化;akka;"(suffer) deterioration; growing worse; aggravation; degeneration; corruption";n2
-憧れ;akogare;"yearning; longing; aspiration; adoration; admiration";n2
-憧れる;akogareru;"to long for; to yearn after; to admire; to be attracted by";n2
-悪影響;akueikyou;"bad influence; negative influence";n2
-悪意;akui;"ill will; spite; evil intention; malice; bad meaning";n2
-悪条件;akujouken;"unfavorable conditions; unfavourable conditions";n2
+相性;aishou;affinity, compatibility;n2
+相次いで;aitsuide;one after the other, successively;n2
+愛用;aiyou;favorite, habitually used;n2
+味付け;ajitsuke;seasoning, flavor;n2
+赤字;akaji;(being in) the red, deficit, red letter, red writing, corrections (by a teacher or proofreader) written in red;n2
+飽き;aki;weariness, boredom, tedium, tiresomeness;n2
+空き地;akichi;vacant land, unoccupied ground, empty lot;n2
+諦め;akirame;resignation, acceptance, consolation;n2
+悪化;akka;(suffer) deterioration, growing worse, aggravation, degeneration, corruption;n2
+憧れ;akogare;yearning, longing, aspiration, adoration, admiration;n2
+憧れる;akogareru;to long for, to yearn after, to admire, to be attracted by;n2
+悪影響;akueikyou;bad influence, negative influence;n2
+悪意;akui;ill will, spite, evil intention, malice, bad meaning;n2
+悪条件;akujouken;unfavorable conditions, unfavourable conditions;n2
 雨水;amamizu/usui;rain water;n2
-甘やかす;amayakasu;"to pamper; to spoil";n2
-案外;angai;"unexpectedly; surprisingly; unexpected; unanticipated; unforeseen; surprising";n2
-安易;an’i;"easy; simple; easygoing; lighthearted; simplistic; irresponsible; careless; quick (to do)";n2
-安価;anka;"low-priced; cheap; inexpensive";n2
+甘やかす;amayakasu;to pamper, to spoil;n2
+案外;angai;unexpectedly, surprisingly, unexpected, unanticipated, unforeseen, surprising;n2
+安易;an’i;easy, simple, easygoing, lighthearted, simplistic, irresponsible, careless, quick (to do);n2
+安価;anka;low-priced, cheap, inexpensive;n2
 仰向け;aomuke;face up;n2
-荒い;arai;"rough; wild; violent; rude; coarse; harsh; fierce; heavy (e.g. breathing); immoderate; extravagant; reckless";n2
-洗い出す;araidasu;"to reveal something by washing the surface; to bring to light; to reveal by investigation";n2
-予め;arakajime;"beforehand; in advance; previously";n2
-争う;arasou;"to compete; to contest; to contend; to quarrel; to argue; to dispute; to be at variance; to oppose";n2
-改める;aratameru;"to change; to alter; to revise; to replace; to reform; to correct; to mend; to improve";n2
-荒れる;areru;"to be stormy; to be rough; to be ruined; to fall into ruin; to be in a bad temper; to lose one’s temper";n2
+荒い;arai;rough, wild, violent, rude, coarse, harsh, fierce, heavy (e.g. breathing), immoderate, extravagant, reckless;n2
+洗い出す;araidasu;to reveal something by washing the surface, to bring to light, to reveal by investigation;n2
+予め;arakajime;beforehand, in advance, previously;n2
+争う;arasou;to compete, to contest, to contend, to quarrel, to argue, to dispute, to be at variance, to oppose;n2
+改める;aratameru;to change, to alter, to revise, to replace, to reform, to correct, to mend, to improve;n2
+荒れる;areru;to be stormy, to be rough, to be ruined, to fall into ruin, to be in a bad temper, to lose one’s temper;n2
 焦り;aseri;impatience;n2
-焦る;aseru;"to be in a hurry; to be impatient; to be flustered; to lose one’s presence of mind; to be surprised";n2
-足を運ぶ;ashi o hakobu;"to go; to come; to turn out (at a meeting, event, etc.); to show up; to make your way to";n2
+焦る;aseru;to be in a hurry, to be impatient, to be flustered, to lose one’s presence of mind, to be surprised;n2
+足を運ぶ;ashi o hakobu;to go, to come, to turn out (at a meeting, event, etc.), to show up, to make your way to;n2
 圧勝;asshou;complete victory;n2
 宛;ate;addressed to;n2
-当てはまる;atehamaru;"to apply (a rule); to be applicable; to come under (a category); to fulfill; to hold true";n2
-後回し;atomawashi;"putting off; postponing";n2
-後戻り;atomodori;"going backward; turning back; backtracking; doubling back; retrogression; relapse; returning to a bad state";n2
+当てはまる;atehamaru;to apply (a rule), to be applicable, to come under (a category), to fulfill, to hold true;n2
+後回し;atomawashi;putting off, postponing;n2
+後戻り;atomodori;going backward, turning back, backtracking, doubling back, retrogression, relapse, returning to a bad state;n2
 あっという間;attoiuma;a blink of time;n2
-厚かましい;atsukamashii;"impudent; shameless; brazen";n2
-慌ただしい;awatadashii;"busy; hurried; confused; flurried";n2
-怪しい;ayashii;"suspicious; dubious; doubtful; dodgy; suspicious (referring to a potential amorous relation); dangerous (e.g. financial situation); ominous (e.g. weather); strange; shady; fishy";n2
-歩み寄る;ayumiyoru;"to compromise; to meet halfway; to step up to; to walk up to; to approach";n2
-歩む;ayumu;"to walk; to go on foot";n2
-鮮やか;azayaka;"vivid; bright; brilliant; clear; fresh; vibrant; skillful; brilliant; beautiful; fine; excellent";n2
+厚かましい;atsukamashii;impudent, shameless, brazen;n2
+慌ただしい;awatadashii;busy, hurried, confused, flurried;n2
+怪しい;ayashii;suspicious, dubious, doubtful, dodgy, suspicious (referring to a potential amorous relation), dangerous (e.g. financial situation), ominous (e.g. weather), strange, shady, fishy;n2
+歩み寄る;ayumiyoru;to compromise, to meet halfway, to step up to, to walk up to, to approach;n2
+歩む;ayumu;to walk, to go on foot;n2
+鮮やか;azayaka;vivid, bright, brilliant, clear, fresh, vibrant, skillful, brilliant, beautiful, fine, excellent;n2
 倍増;baizou;double;n2
-離れ;banare;"(suffix) separation from; loss of interest in; independence of; distancing (of oneself) from; disillusionment with; alienation from (something)";n2
-ばっさり: with a single stroke; resolutely;" drastically; completely";n2
-別荘;bessou;"holiday house; vacation home; villa; prison; jail";n2
-美術;bijutsu;"art; fine arts";n2
-敏感;binkan;"sensitive; alert; aware; susceptible";n2
-美容院;biyouin;"beauty parlor; beauty salon; hairdressing salon";n2
-募金;bokin;"fund-raising; collection of funds";n2
-牧場;bokujou;"farm (livestock); ranch (US); pasture land; meadow; grazing land";n2
-膨大;boudai;"huge; vast; enormous; colossal; extensive; large; swelling; expansion";n2
+離れ;banare;(suffix) separation from, loss of interest in, independence of, distancing (of oneself) from, disillusionment with, alienation from (something);n2
+別荘;bessou;holiday house, vacation home, villa, prison, jail;n2
+美術;bijutsu;art, fine arts;n2
+敏感;binkan;sensitive, alert, aware, susceptible;n2
+美容院;biyouin;beauty parlor, beauty salon, hairdressing salon;n2
+募金;bokin;fund-raising, collection of funds;n2
+牧場;bokujou;farm (livestock), ranch (US), pasture land, meadow, grazing land;n2
+膨大;boudai;huge, vast, enormous, colossal, extensive, large, swelling, expansion;n2
 防犯;bouhan;prevention of crime;n2
-防災;bousai;"prevention of damage resulting from a natural disaster; protection against disaster";n2
-部員;buin;"staff; member (club, society, etc.)";n2
+防災;bousai;prevention of damage resulting from a natural disaster, protection against disaster;n2
+部員;buin;staff, member (club, society, etc.);n2
 部下;buka;subordinate person;n2
-ぶかぶか: too large;clothing);" baggy; loose-fitting";n2
-分別;bunbetsu;"separation (e.g. of rubbish when recycling); classification; discrimination; division; distinction";n2
-分解;bunkai;"disassembly; dismantling; disaggregating; analysis; disintegrating; decomposing; degrading";n2
-分割;bunkatsu;"partition; division; separation; segmenting; splitting";n2
-文系;bunkei;"humanities, social sciences, and fine arts; liberal arts";n2
-文献;bunken;"literature; books (reference); document";n2
+分別;bunbetsu;separation (e.g. of rubbish when recycling), classification, discrimination, division, distinction;n2
+分解;bunkai;disassembly, dismantling, disaggregating, analysis, disintegrating, decomposing, degrading;n2
+分割;bunkatsu;partition, division, separation, segmenting, splitting;n2
+文系;bunkei;humanities, social sciences, and fine arts, liberal arts;n2
+文献;bunken;literature, books (reference), document;n2
 文面;bunmen;content of a letter;n2
-分配;bunpai;"division; splitting; sharing; distribution; dissemination; allocation";n2
-分量;bunryou;"amount; quantity";n2
-分担;buntan;"taking on one’s share (e.g. of work); dividing (work, expenses, etc.) between; apportionment; allotment; allocation; assignment";n2
-物資;busshi;"goods; materials; commodities; resources; supplies";n2
+分配;bunpai;division, splitting, sharing, distribution, dissemination, allocation;n2
+分量;bunryou;amount, quantity;n2
+分担;buntan;taking on one’s share (e.g. of work), dividing (work, expenses, etc.) between, apportionment, allotment, allocation, assignment;n2
+物資;busshi;goods, materials, commodities, resources, supplies;n2
 着々と;chakuchaku to;steadily;n2
-着実;chakujitsu;"steady; sound; solid; reliable; trustworthy";n2
-縮める;chidjimeru;"to shorten; to reduce; to condense; to shrink; to make (one’s body) smaller; to draw in (one’s legs); to duck (one’s head)";n2
-縮む;chidjimu;"to shrink; to contract; to diminish (in size)";n2
-近々;chikadjika;"soon; nearness; before long";n2
-近づく;chikazuku;"to approach; to draw near; to get close; to get acquainted with; to get closer to; to get to know";n2
-蓄積;chikuseki;"accumulation; accumulate; store";n2
-散らかす;chirakasu;"to scatter around; to leave untidy";n2
-地帯;chitai;"area; zone; belt (of land)";n2
+着実;chakujitsu;steady, sound, solid, reliable, trustworthy;n2
+縮める;chidjimeru;to shorten, to reduce, to condense, to shrink, to make (one’s body) smaller, to draw in (one’s legs), to duck (one’s head);n2
+縮む;chidjimu;to shrink, to contract, to diminish (in size);n2
+近々;chikadjika;soon, nearness, before long;n2
+近づく;chikazuku;to approach, to draw near, to get close, to get acquainted with, to get closer to, to get to know;n2
+蓄積;chikuseki;accumulation, accumulate, store;n2
+散らかす;chirakasu;to scatter around, to leave untidy;n2
+地帯;chitai;area, zone, belt (of land);n2
 知的;chiteki;intellectual;n2
-地点;chiten;"site; point on a map; spot";n2
+地点;chiten;site, point on a map, spot;n2
 地球温暖化;chikyuuondanka;global warming;n2
-直結;chokketsu;"direct connection; direct link";n2
+直結;chokketsu;direct connection, direct link;n2
 直後;chokugo;immediately following;n2
-直立;chokuritsu;"standing upright; standing straight";n2
+直立;chokuritsu;standing upright, standing straight;n2
 直前;chokuzen;just before;n2
 長編;chouhen;long (e.g. novel, film);n2
-長方形;chouhoukei;"rectangle; oblong";n2
+長方形;chouhoukei;rectangle, oblong;n2
 長期間;choukikan;long period (of time);n2
-彫刻;choukoku;"carving; engraving; sculpture";n2
-彫刻家;choukokuka;"engraver; carver; sculptor";n2
-長距離;choukyori;"long distance; long haul";n2
-調味料;choumiryou;"seasoning; flavoring; flavouring; condiment";n2
-調理;chouri;"cooking; food preparation";n2
-調整;chousei;"adjustment; regulation; coordination; reconciliation; tuning; fixing; tailoring";n2
-調節;chousetsu;"regulation; adjustment; control";n2
-聴衆;choushuu;"audience; attendance; hearers";n2
-注意点;chuuiten;"important point; point to make note of";n2
+彫刻;choukoku;carving, engraving, sculpture;n2
+彫刻家;choukokuka;engraver, carver, sculptor;n2
+長距離;choukyori;long distance, long haul;n2
+調味料;choumiryou;seasoning, flavoring, flavouring, condiment;n2
+調理;chouri;cooking, food preparation;n2
+調整;chousei;adjustment, regulation, coordination, reconciliation, tuning, fixing, tailoring;n2
+調節;chousetsu;regulation, adjustment, control;n2
+聴衆;choushuu;audience, attendance, hearers;n2
+注意点;chuuiten;important point, point to make note of;n2
 抽象;chuushou;abstraction;n2
-中断;chuudan;"interruption; suspension; break";n2
+中断;chuudan;interruption, suspension, break;n2
 注意深い;chuuibukai;careful;n2
-忠実;chuujitsu;"faithful; devoted; loyal; honest; true";n2
-中旬;chuujun;"middle of a month; second third of a month; 11th to 20th day of a month";n2
+忠実;chuujitsu;faithful, devoted, loyal, honest, true;n2
+中旬;chuujun;middle of a month, second third of a month, 11th to 20th day of a month;n2
 中華;chuuka;Chinese food;n2
-中継;chuukei;"relay; relay broadcasting";n2
+中継;chuukei;relay, relay broadcasting;n2
 駐輪所;chuurinjo;bicycle parking place;n2
-抽選;chuusen;"lottery; raffle; drawing (of lots)";n2
+抽選;chuusen;lottery, raffle, drawing (of lots);n2
 大学院;daigakuin;graduate school;n2
-大学祭;daigakusai;"university festival; rag day";n2
-台無し;dainashi;"mess; spoiled; spoilt; (come to) nothing; ruin";n2
+大学祭;daigakusai;university festival, rag day;n2
+台無し;dainashi;mess, spoiled, spoilt, (come to) nothing, ruin;n2
 題名;daimei;title;n2
-段取り;dandori;"programme; program; plans; arrangements";n2
-段階;dankai;"grade; level; stage; class; phase; steps; order; gradation";n2
-団結;danketsu;"unity; union; solidarity; combination; teaming up";n2
-だらし無い;darashinai;"slovenly (appearance, work, etc.); sloppy; untidy; undisciplined; careless; loose; slack; weak; feeble; weak-willed; gutless";n2
-脱出;dasshutsu;"escape; break-out; prolapse; proptosis";n2
-妥当;datou;"valid; proper; right; appropriate; reasonable";n2
-出来上がる;dekiagaru;"to be completed; to be finished; to be ready (e.g. to serve or eat)";n2
-電源;dengen;"source of electricity; electrical power; power (button on TV, etc.)";n2
+段取り;dandori;programme, program, plans, arrangements;n2
+段階;dankai;grade, level, stage, class, phase, steps, order, gradation;n2
+団結;danketsu;unity, union, solidarity, combination, teaming up;n2
+だらし無い;darashinai;slovenly (appearance, work, etc.), sloppy, untidy, undisciplined, careless, loose, slack, weak, feeble, weak-willed, gutless;n2
+脱出;dasshutsu;escape, break-out, prolapse, proptosis;n2
+妥当;datou;valid, proper, right, appropriate, reasonable;n2
+出来上がる;dekiagaru;to be completed, to be finished, to be ready (e.g. to serve or eat);n2
+電源;dengen;source of electricity, electrical power, power (button on TV, etc.);n2
 電気屋;denkiya;electric appliance store;n2
-電波;denpa;"radio wave; reception; signal";n2
-伝染;densen;"contagion; infection";n2
-伝達;dentatsu;"transmission (e.g. news, chemical signals, electricity); communication; delivery; conveyance; transfer; relay; propagation; conduction";n2
-でたらめに: nonsense; irresponsible remark;" codswallop; hogwash; rubbish";n2
-土台;dodai;"foundation; base; basis";n2
-独占;dokusen;"monopoly; monopolization; exclusivity; keeping to oneself";n2
+電波;denpa;radio wave, reception, signal;n2
+伝染;densen;contagion, infection;n2
+伝達;dentatsu;transmission (e.g. news, chemical signals, electricity), communication, delivery, conveyance, transfer, relay, propagation, conduction;n2
+土台;dodai;foundation, base, basis;n2
+独占;dokusen;monopoly, monopolization, exclusivity, keeping to oneself;n2
 読者;dokusha;reader;n2
-独身者;dokushinsha;"unmarried person; bachelor";n2
-道中;douchuu;"during the journey; on the way; while travelling";n2
-動機;douki;"motive; incentive";n2
-同居;doukyo;"coexistence; living together";n2
-同年代;dounendai;"the same generation; coeval";n2
-導入;dounyuu;"introduction; bringing in; leading in; installation";n2
-動作;dousa;"action; movements; motions; bearing; behaviour; behavior; execution; actuation; operation; manners";n2
-同等;doutou;"equality; equal; same rights; same rank; equivalence";n2
+独身者;dokushinsha;unmarried person, bachelor;n2
+道中;douchuu;during the journey, on the way, while travelling;n2
+動機;douki;motive, incentive;n2
+同居;doukyo;coexistence, living together;n2
+同年代;dounendai;the same generation, coeval;n2
+導入;dounyuu;introduction, bringing in, leading in, installation;n2
+動作;dousa;action, movements, motions, bearing, behaviour, behavior, execution, actuation, operation, manners;n2
+同等;doutou;equality, equal, same rights, same rank, equivalence;n2
 絵本;ehon;picture book;n2
-影響力;eikyouryoku;"influence; clout; leverage";n2
-映像;eizou;"image (on a screen); picture (e.g. on a TV); video; film; footage";n2
+影響力;eikyouryoku;influence, clout, leverage;n2
+映像;eizou;image (on a screen), picture (e.g. on a TV), video, film, footage;n2
 駅前;ekimae;in front of station;n2
-延長;enchou;"extension; elongation; prolongation; lengthening";n2
-円形;enkei;"round shape; circle; circular form";n2
-演じる;enjiru;"to perform (a play); to play (a part); to act (a part); to commit (a blunder)";n2
-円満;enman;"harmonious; peaceful; happy; amicable; smooth; free from trouble";n2
-襟;eri;"collar; lapel; neckband; neck; nape of the neck; scruff of the neck";n2
-不安定;fuantei;"instability; insecurity; crankiness";n2
-不調;fuchou;"bad condition; not to work out (i.e. a deal); disagreement; break-off; disorder; slump; out of form";n2
+延長;enchou;extension, elongation, prolongation, lengthening;n2
+円形;enkei;round shape, circle, circular form;n2
+演じる;enjiru;to perform (a play), to play (a part), to act (a part), to commit (a blunder);n2
+円満;enman;harmonious, peaceful, happy, amicable, smooth, free from trouble;n2
+襟;eri;collar, lapel, neckband, neck, nape of the neck, scruff of the neck;n2
+不安定;fuantei;instability, insecurity, crankiness;n2
+不調;fuchou;bad condition, not to work out (i.e. a deal), disagreement, break-off, disorder, slump, out of form;n2
 不動産;fudousan;real estate;n2
-不動産屋;fudousan’ya;"real estate agent; realtor";n2
-不十分;fujuubun;"insufficient; inadequate; imperfect; shortage";n2
-不快;fukai;"displeasure; discomfort; unpleasantness; indisposition; ailment";n2
-不可欠;fukaketsu;"indispensable; essential";n2
-深まる;fukamaru;"to deepen; to heighten; to intensify";n2
-深める;fukameru;"to deepen; to heighten; to intensify";n2
-不完全;fukanzen;"imperfect; incomplete; faulty; defective";n2
-不機嫌;fukigen;"pout; displeasure; ill humor; ill humour; sullenness";n2
-付近;fukin;"neighbourhood; neighborhood; vicinity; environs";n2
-不規則;fukisoku;"irregularity; unsteadiness; disorderly";n2
-副;fuku;"assistant; associate; vice-; sub-; deputy";n2
-含める;fukumeru;"to include (in a group or scope); to include (a nuance); to put in (an implication)";n2
-膨らます;fukuramasu;"to swell; to expand; to inflate; to bulge";n2
-膨らむ;fukuramu;"to expand; to swell (out); to get big; to become inflated";n2
-福祉;fukushi;"welfare; well-being; social welfare; social security; social service";n2
-複数;fukusuu;"plural; multiple; several";n2
-普及;fukyuu;"diffusion; spread; popularization; promulgation; familiarization";n2
-不明;fumei;"unclear; obscure; indistinct; uncertain; ambiguous; unknown; unidentified";n2
-不明瞭;fumeiryou;"dimness; obscurity; indistinctness; unclear; unintelligible";n2
-ふもと: foot;of a mountain or hill);" bottom; base";n2
-ふらふら: unsteadily;e.g. on one’s feet);" shakily; staggering; tottering; reeling; dizzily; giddily; wavering (in one’s mind); unsteadily; indecisively";n2
-触れ合い;fureai;"contact; connectedness; rapport; mutual touching";n2
-触れ合う;fureau;"to come into contact with; to touch (each other)";n2
+不動産屋;fudousan’ya;real estate agent, realtor;n2
+不十分;fujuubun;insufficient, inadequate, imperfect, shortage;n2
+不快;fukai;displeasure, discomfort, unpleasantness, indisposition, ailment;n2
+不可欠;fukaketsu;indispensable, essential;n2
+深まる;fukamaru;to deepen, to heighten, to intensify;n2
+深める;fukameru;to deepen, to heighten, to intensify;n2
+不完全;fukanzen;imperfect, incomplete, faulty, defective;n2
+不機嫌;fukigen;pout, displeasure, ill humor, ill humour, sullenness;n2
+付近;fukin;neighbourhood, neighborhood, vicinity, environs;n2
+不規則;fukisoku;irregularity, unsteadiness, disorderly;n2
+副;fuku;assistant, associate, vice-, sub-, deputy;n2
+含める;fukumeru;to include (in a group or scope), to include (a nuance), to put in (an implication);n2
+膨らます;fukuramasu;to swell, to expand, to inflate, to bulge;n2
+膨らむ;fukuramu;to expand, to swell (out), to get big, to become inflated;n2
+福祉;fukushi;welfare, well-being, social welfare, social security, social service;n2
+複数;fukusuu;plural, multiple, several;n2
+普及;fukyuu;diffusion, spread, popularization, promulgation, familiarization;n2
+不明;fumei;unclear, obscure, indistinct, uncertain, ambiguous, unknown, unidentified;n2
+不明瞭;fumeiryou;dimness, obscurity, indistinctness, unclear, unintelligible;n2
+触れ合い;fureai;contact, connectedness, rapport, mutual touching;n2
+触れ合う;fureau;to come into contact with, to touch (each other);n2
 振り込み;furikomi;payment made via bank deposit transfer;n2
-振り向く;furimuku;"to turn one’s face; to turn around; to look over one’s shoulder";n2
-不良品;furyouhin;"inferior goods; defective product; defective goods";n2
-塞ぐ;fusagu;"to stop up; to close up; to block (up); to plug up; to shut up; to cover (ears, eyes, etc.); to close (eyes, mouth); to stand in the way; to obstruct; to occupy; to fill up; to take up";n2
+振り向く;furimuku;to turn one’s face, to turn around, to look over one’s shoulder;n2
+不良品;furyouhin;inferior goods, defective product, defective goods;n2
+塞ぐ;fusagu;to stop up, to close up, to block (up), to plug up, to shut up, to cover (ears, eyes, etc.), to close (eyes, mouth), to stand in the way, to obstruct, to occupy, to fill up, to take up;n2
 不採用;fusaiyou;rejection (of an application);n2
-負担;futan;"burden; load; responsibility; bearing (a cost, responsibility, etc.); shouldering";n2
-風;fuu;"appearance; air";n2
-不愉快;fuyukai;"unpleasant; disagreeable; displeasing; uncomfortable; unhappy";n2
-街;gai;"… street; … quarter; … district";n2
-外観;gaikan;"outward appearance; exterior appearance; outward show; looks";n2
+負担;futan;burden, load, responsibility, bearing (a cost, responsibility, etc.), shouldering;n2
+風;fuu;appearance, air;n2
+不愉快;fuyukai;unpleasant, disagreeable, displeasing, uncomfortable, unhappy;n2
+街;gai;… street, … quarter, … district;n2
+外観;gaikan;outward appearance, exterior appearance, outward show, looks;n2
 外見;gaiken;outward appearance;n2
-概要;gaiyou;"outline; summary; overview; abridgment; synopsis";n2
-学費;gakuhi;"tuition; school expenses";n2
-学業;gakugyou;"studies; schoolwork; classwork";n2
-学年;gakunen;"academic year; school year";n2
+概要;gaiyou;outline, summary, overview, abridgment, synopsis;n2
+学費;gakuhi;tuition, school expenses;n2
+学業;gakugyou;studies, schoolwork, classwork;n2
+学年;gakunen;academic year, school year;n2
 学歴;gakureki;academic background;n2
 学生課;gakuseika;student affairs office;n2
-願望;ganbou;"desire; wish; aspiration";n2
-頑丈;ganjou;"solid; firm; stout; burly; strong; sturdy";n2
-頑固;ganko;"stubborn; obstinate; pigheaded";n2
-がっしり: firmly; solidly;" sturdily; strongly; toughly";n2
-合宿;gasshuku;"lodging together; training camp; boarding house";n2
+願望;ganbou;desire, wish, aspiration;n2
+頑丈;ganjou;solid, firm, stout, burly, strong, sturdy;n2
+頑固;ganko;stubborn, obstinate, pigheaded;n2
+合宿;gasshuku;lodging together, training camp, boarding house;n2
 画用紙;gayoushi;drawing paper;n2
-芸能;geinou;"public entertainment; performing arts; accomplishments; attainments";n2
-劇的;gekiteki;"dramatic; exciting; touching; extreme";n2
-現代人;gendaijin;"modern person; people of today";n2
-現時点;genjiten;"present point (i.e. in history); at the present time";n2
-原稿;genkou;"manuscript; copy; draft; notes; contribution";n2
-原理;genri;"principle; theory; fundamental truth";n2
+芸能;geinou;public entertainment, performing arts, accomplishments, attainments;n2
+劇的;gekiteki;dramatic, exciting, touching, extreme;n2
+現代人;gendaijin;modern person, people of today;n2
+現時点;genjiten;present point (i.e. in history), at the present time;n2
+原稿;genkou;manuscript, copy, draft, notes, contribution;n2
+原理;genri;principle, theory, fundamental truth;n2
 原料;genryou;raw materials;n2
 原作;gensaku;original work;n2
-原産;gensan;"place of origin; habitat";n2
-厳守;genshu;"strict observance; rigid adherence; scrupulous compliance";n2
-原則;gensoku;"principle; general rule";n2
+原産;gensan;place of origin, habitat;n2
+厳守;genshu;strict observance, rigid adherence, scrupulous compliance;n2
+原則;gensoku;principle, general rule;n2
 減速;gensoku;deceleration;n2
-幻想;gensou;"fantasy; illusion; vision; dream";n2
-限定;gentei;"limit; restriction";n2
-現在地;genzaichi;"present location; current location; “you are here” (on map)";n2
-議題;gidai;"topic of discussion; agenda";n2
-疑問点;gimonten;"point of uncertainty; unclarified issue; doubt";n2
-銀行員;ginkouin;"bank employee; bank staff member; bank clerk";n2
-ぎりぎり: just barely; only just;" at the very limit; at the last moment";n2
-儀式;gishiki;"ceremony; rite; ritual; service";n2
-ぎっしり: tightly;packed);" densely; closely; crammed";n2
-ぎざぎざ: notches; serration;" indentation; jaggies;stair-step artifacts in computer images)";n2
-ごちゃごちゃ: messy; confused;" chaotic; disorderly; mixed-up; jumbled up";n2
-強引;gouin;"overbearing; coercive; pushy; forcible; high-handed";n2
-ぐったり: limply; wearily;" listlessly; languidly; exhaustedly; unenergetically";n2
-後日;gojitsu;"in the future; another day; later";n2
-娯楽;goraku;"pleasure; amusement";n2
-合同;goudou;"combination; union; incorporation; amalgamation; fusion";n2
-愚痴;guchi;"idle complaint; grumble";n2
-ぐんぐん: rapidly; vigorously;" by leaps and bounds; steadily";n2
-行事;gyouji;"event; function";n2
-行列;gyouretsu;"line; queue; procession; parade";n2
-幅広い;habahiroi;"extensive; wide; broad";n2
-蜂;hachi;"bee; wasp";n2
+幻想;gensou;fantasy, illusion, vision, dream;n2
+限定;gentei;limit, restriction;n2
+現在地;genzaichi;present location, current location, “you are here” (on map);n2
+議題;gidai;topic of discussion, agenda;n2
+疑問点;gimonten;point of uncertainty, unclarified issue, doubt;n2
+銀行員;ginkouin;bank employee, bank staff member, bank clerk;n2
+儀式;gishiki;ceremony, rite, ritual, service;n2
+強引;gouin;overbearing, coercive, pushy, forcible, high-handed;n2
+後日;gojitsu;in the future, another day, later;n2
+娯楽;goraku;pleasure, amusement;n2
+合同;goudou;combination, union, incorporation, amalgamation, fusion;n2
+愚痴;guchi;idle complaint, grumble;n2
+行事;gyouji;event, function;n2
+行列;gyouretsu;line, queue, procession, parade;n2
+幅広い;habahiroi;extensive, wide, broad;n2
+蜂;hachi;bee, wasp;n2
 蜂蜜;hachimitsu;honey;n2
 鉢植え;hachiue;potted plant;n2
-破片;hahen;"fragment; broken piece; splinter; chip; shard";n2
-背景;haikei;"background; scenery; backdrop; setting; circumstance; context; backing; support (from behind the scenes)";n2
-廃止;haishi;"abolition; repeal";n2
+破片;hahen;fragment, broken piece, splinter, chip, shard;n2
+背景;haikei;background, scenery, backdrop, setting, circumstance, context, backing, support (from behind the scenes);n2
+廃止;haishi;abolition, repeal;n2
 墓参り;hakamairi;visit to a grave;n2
-発揮;hakki;"show (of power, ability, etc.); exhibition; demonstration; display; manifestation";n2
+発揮;hakki;show (of power, ability, etc.), exhibition, demonstration, display, manifestation;n2
 泊;haku;counter for nights of a stay;n2
-白衣;hakui;"white robe; (doctor’s) white gown";n2
-鼻水;hanamizu;"nasal mucus; dripping nose; snot";n2
-話し合い;hanashiai;"discussion; conference";n2
-話し声;hanashigoe;"speaking voice; talking voice";n2
+白衣;hakui;white robe, (doctor’s) white gown;n2
+鼻水;hanamizu;nasal mucus, dripping nose, snot;n2
+話し合い;hanashiai;discussion, conference;n2
+話し声;hanashigoe;speaking voice, talking voice;n2
 話し手;hanashite;speaker;n2
-販売者;hanbaisha;"seller; vendor";n2
-反映;han’ei;"reflection (light, image, situation, attitude, etc.); reflecting; influence; application (e.g. of an update)";n2
-半額;hangaku;"half the amount (of money); half price; half fare";n2
-半減;hangen;"reduction by half; halving";n2
-恥;haji;"shame; embarrassment; disgrace";n2
-反感;hankan;"antipathy; antagonism; animosity; revulsion; ill feeling";n2
+販売者;hanbaisha;seller, vendor;n2
+反映;han’ei;reflection (light, image, situation, attitude, etc.), reflecting, influence, application (e.g. of an update);n2
+半額;hangaku;half the amount (of money), half price, half fare;n2
+半減;hangen;reduction by half, halving;n2
+恥;haji;shame, embarrassment, disgrace;n2
+反感;hankan;antipathy, antagonism, animosity, revulsion, ill feeling;n2
 半日;hannichi;half day;n2
-反発;hanpatsu;"opposition; rebellion; revolt; resistance; backlash; refusal; rebounding; recoiling; repulsion";n2
-張り切る;harikiru;"to be in high spirits; to be full of vigor (vigour); to be enthusiastic; to be eager; to stretch to breaking point";n2
-反論;hanron;"objection; refutation; rebuttal; counterargument";n2
+反発;hanpatsu;opposition, rebellion, revolt, resistance, backlash, refusal, rebounding, recoiling, repulsion;n2
+張り切る;harikiru;to be in high spirits, to be full of vigor (vigour), to be enthusiastic, to be eager, to stretch to breaking point;n2
+反論;hanron;objection, refutation, rebuttal, counterargument;n2
 半数;hansuu;half the number;n2
-腹を立てる;hara o tateru;"to take offense; to take offence; to get angry; to lose one’s temper";n2
-張り紙;harigami;"paper patch; paper backing; poster; sticker; label";n2
-挟む;hasamu;"to hold between (e.g. one’s fingers, chopsticks); to grip (from both sides); to put between; to sandwich between; to insert; to interpose; to insert (e.g. a break into proceedings); to interpose (e.g. an objection); to interject; to throw in (e.g. a joke)";n2
-発散;hassan;"emission; emanation; radiation; diffusion; dispersion; letting out (feelings); venting";n2
-発想;hassou;"idea; conception; way of thinking";n2
-発送;hassou;"sending; forwarding; shipping";n2
-働き手;hatarakite;"worker; breadwinner; supporter; able person; able man; productive worker";n2
-果たす;hatasu;"to accomplish; to achieve; to carry out; to fulfill; to fulfil; to realize; to execute; to perform; to do";n2
-発言;hatsugen;"statement; remark; observation; utterance; speech; proposal";n2
-早口;hayakuchi;"fast-talking; rapid talking";n2
-早まる;hayamaru;"to be brought forward (e.g. by three hours); to be moved up; to be advanced; to quicken; to speed up; to gather speed";n2
-流行り;hayari;"fashion; fad; vogue; craze";n2
-隔てる;hedateru;"to separate (by distance, time, etc.); to isolate; to partition; to divide; to interpose; to have between; to alienate; to estrange";n2
-平凡;heibon;"ordinary; common; commonplace; mediocre; unremarkable; undistinguished; uneventful";n2
-平気;heiki;"coolness; calmness; composure; unconcern";n2
-弊社;heisha;"our firm; our company (humble)";n2
-閉店;heiten;"closing up shop (for the day); stopping business; going out of business";n2
-変換 ;henkan;"change; conversion; transformation";n2
-変形;henkei;"transformation; variation; metamorphosis; modification; deformation; variety; deformity; monster";n2
+腹を立てる;hara o tateru;to take offense, to take offence, to get angry, to lose one’s temper;n2
+張り紙;harigami;paper patch, paper backing, poster, sticker, label;n2
+挟む;hasamu;to hold between (e.g. one’s fingers, chopsticks), to grip (from both sides), to put between, to sandwich between, to insert, to interpose, to insert (e.g. a break into proceedings), to interpose (e.g. an objection), to interject, to throw in (e.g. a joke);n2
+発散;hassan;emission, emanation, radiation, diffusion, dispersion, letting out (feelings), venting;n2
+発想;hassou;idea, conception, way of thinking;n2
+発送;hassou;sending, forwarding, shipping;n2
+働き手;hatarakite;worker, breadwinner, supporter, able person, able man, productive worker;n2
+果たす;hatasu;to accomplish, to achieve, to carry out, to fulfill, to fulfil, to realize, to execute, to perform, to do;n2
+発言;hatsugen;statement, remark, observation, utterance, speech, proposal;n2
+早口;hayakuchi;fast-talking, rapid talking;n2
+早まる;hayamaru;to be brought forward (e.g. by three hours), to be moved up, to be advanced, to quicken, to speed up, to gather speed;n2
+流行り;hayari;fashion, fad, vogue, craze;n2
+隔てる;hedateru;to separate (by distance, time, etc.), to isolate, to partition, to divide, to interpose, to have between, to alienate, to estrange;n2
+平凡;heibon;ordinary, common, commonplace, mediocre, unremarkable, undistinguished, uneventful;n2
+平気;heiki;coolness, calmness, composure, unconcern;n2
+弊社;heisha;our firm, our company (humble);n2
+閉店;heiten;closing up shop (for the day), stopping business, going out of business;n2
+変換 ;henkan;change, conversion, transformation;n2
+変形;henkei;transformation, variation, metamorphosis, modification, deformation, variety, deformity, monster;n2
 返金;henkin;repayment;n2
-返品;henpin;"returned goods; returning purchased goods";n2
+返品;henpin;returned goods, returning purchased goods;n2
 返信;henshin;reply;n2
 偏食;henshoku;unbalanced diet;n2
-編集;henshuu;"editing; compilation";n2
-返送;hensou;"sending back; return to sender";n2
-返答;hentou;"reply; answer";n2
-非;hi;"(prefix) un-; non-; an-";n2
-日当たり;hiatari;"exposure to the sun; sunny place";n2
-非凡;hibon;"extraordinary; uncommon; remarkable; unusual; rare; prodigious";n2
-日々;hibi;"every day; daily; day after day; days (e.g. good old days)";n2
-必着;hicchaku;"must arrive; must be received";n2
+編集;henshuu;editing, compilation;n2
+返送;hensou;sending back, return to sender;n2
+返答;hentou;reply, answer;n2
+非;hi;(prefix) un-, non-, an-;n2
+日当たり;hiatari;exposure to the sun, sunny place;n2
+非凡;hibon;extraordinary, uncommon, remarkable, unusual, rare, prodigious;n2
+日々;hibi;every day, daily, day after day, days (e.g. good old days);n2
+必着;hicchaku;must arrive, must be received;n2
 日帰り;higaeri;day trip;n2
-日頃;higoro;"normally; habitually";n2
-引き込む;hikikomu;"to pull into; to draw in; to bring in; to win over";n2
-引き止める;hikitomeru;"to detain; to check; to restrain";n2
-引き取る;hikitoru;"to take into one’s possession; to receive; to accept; to collect; to claim; to take (a person) into one’s care; to take custody of; to adopt";n2
-引き続き;hikitsuzuki;"continuously; continually; without a break; next; then; after that";n2
-引き渡す;hikiwatasu;"to deliver; to extradite; to stretch across; to hand over";n2
-引っかかる;hikkakaru;"to be caught in; to be stuck in; to get mixed up in (trouble); to get entangled in (a problem); to be involved with";n2
-筆記;hikki;"(taking) notes; copying; writing";n2
-非公式;hikoushiki;"informal; unofficial";n2
-惹く;hiku;"to draw (attention, sympathy, etc.); to attract (e.g. interest)";n2
-卑怯;hikyou;"cowardice; meanness; unfairness";n2
-非難;hinan;"criticism; blame; censure; attack; reproach";n2
-避難;hinan;"taking refuge; finding shelter; evacuation; escape; seeking safe haven";n2
+日頃;higoro;normally, habitually;n2
+引き込む;hikikomu;to pull into, to draw in, to bring in, to win over;n2
+引き止める;hikitomeru;to detain, to check, to restrain;n2
+引き取る;hikitoru;to take into one’s possession, to receive, to accept, to collect, to claim, to take (a person) into one’s care, to take custody of, to adopt;n2
+引き続き;hikitsuzuki;continuously, continually, without a break, next, then, after that;n2
+引き渡す;hikiwatasu;to deliver, to extradite, to stretch across, to hand over;n2
+引っかかる;hikkakaru;to be caught in, to be stuck in, to get mixed up in (trouble), to get entangled in (a problem), to be involved with;n2
+筆記;hikki;(taking) notes, copying, writing;n2
+非公式;hikoushiki;informal, unofficial;n2
+惹く;hiku;to draw (attention, sympathy, etc.), to attract (e.g. interest);n2
+卑怯;hikyou;cowardice, meanness, unfairness;n2
+非難;hinan;criticism, blame, censure, attack, reproach;n2
+避難;hinan;taking refuge, finding shelter, evacuation, escape, seeking safe haven;n2
 品質;hinshitsu;(material) quality;n2
 比例;hirei;proportion;n2
-広場;hiroba;"plaza; (public) square; piazza; forum; open space";n2
-広々;hirobiro;"extensive; spacious";n2
-広がり;hirogari;"spread; span; expanse; extent";n2
-広げる;hirogeru;"to spread; to extend; to expand; to enlarge; to widen; to broaden; to unfold; to open; to unroll; to unwrap";n2
-秘書;hisho;"(private) secretary; treasured book; secret book";n2
-潜む;hisomu;"to lurk; to be hidden; to be concealed; to lie dormant; to be latent";n2
-筆者;hissha;"writer; author";n2
-ひそひそ: in a whisper; in a low voice; in undertones;n2
-密か;hisoka;"secret; private; surreptitious";n2
-秘する;hisuru;"to keep secret; to conceal";n2
-ひたすら: intently; single‐mindedly;" devotedly; solely; earnestly; with all one’s heart";n2
-人前;hitomae;"presence of other people; (in) public; (in) front of others";n2
-ひと昔;hitomukashi;"ages; long time; decade; the past ten years";n2
+広場;hiroba;plaza, (public) square, piazza, forum, open space;n2
+広々;hirobiro;extensive, spacious;n2
+広がり;hirogari;spread, span, expanse, extent;n2
+広げる;hirogeru;to spread, to extend, to expand, to enlarge, to widen, to broaden, to unfold, to open, to unroll, to unwrap;n2
+秘書;hisho;(private) secretary, treasured book, secret book;n2
+潜む;hisomu;to lurk, to be hidden, to be concealed, to lie dormant, to be latent;n2
+筆者;hissha;writer, author;n2
+密か;hisoka;secret, private, surreptitious;n2
+秘する;hisuru;to keep secret, to conceal;n2
+人前;hitomae;presence of other people, (in) public, (in) front of others;n2
+ひと昔;hitomukashi;ages, long time, decade, the past ten years;n2
 一人残らず;hitorinokorazu;everyone;n2
-必要不可欠;hitsuyoufukaketsu;"essential; indispensable; imperative; necessary; compelling, vital, critical";n2
-冷やす;hiyasu;"to cool (from room temperature); to chill; to refrigerate; to calm down; to cool off; to regain one’s composure; to relax; to be frightened (at); to be scared (of)";n2
-日差し;hizashi;"sunlight; rays of the sun";n2
-保護者;hogosha;"guardian; protector; patron; parent";n2
-保育園;hoikuen;"nursery school; day nursery; preschool";n2
-保育所;hoikusho;"nursery school; nursery";n2
-補助;hojo;"assistance; support; aid; help; subsidy; supplement; subvention; grant-in-aid";n2
+必要不可欠;hitsuyoufukaketsu;essential, indispensable, imperative, necessary, compelling, vital, critical;n2
+冷やす;hiyasu;to cool (from room temperature), to chill, to refrigerate, to calm down, to cool off, to regain one’s composure, to relax, to be frightened (at), to be scared (of);n2
+日差し;hizashi;sunlight, rays of the sun;n2
+保護者;hogosha;guardian, protector, patron, parent;n2
+保育園;hoikuen;nursery school, day nursery, preschool;n2
+保育所;hoikusho;nursery school, nursery;n2
+補助;hojo;assistance, support, aid, help, subsidy, supplement, subvention, grant-in-aid;n2
 歩行;hokou;walk;n2
-本番;honban;"performance; take; going before an audience or on-air; game; season; crucial moment";n2
-本業;hongyou;"principal occupation; core business";n2
-本格;honkaku;"original method or procedure; serious; orthodox; classical; genuine";n2
+本番;honban;performance, take, going before an audience or on-air, game, season, crucial moment;n2
+本業;hongyou;principal occupation, core business;n2
+本格;honkaku;original method or procedure, serious, orthodox, classical, genuine;n2
 本日;honjitsu;today;n2
-本来;honrai;"originally; primarily; essentially; intrinsically; naturally; by nature; in (and of) itself";n2
-本社;honsha;"head office; main office; headquarters; parent company; this company; this shrine";n2
+本来;honrai;originally, primarily, essentially, intrinsically, naturally, by nature, in (and of) itself;n2
+本社;honsha;head office, main office, headquarters, parent company, this company, this shrine;n2
 本心;honshin;true feelings;n2
-保守;hoshu;"maintenance; conservatism; conservativeness; conservation";n2
-補足;hosoku;"supplement; complement";n2
+保守;hoshu;maintenance, conservatism, conservativeness, conservation;n2
+補足;hosoku;supplement, complement;n2
 細長い;hosonagai;long and narrow;n2
-舗装;hosou;"pavement; road surface";n2
-欲する;hossuru;"to want; to desire";n2
-包丁;houchou;"kitchen knife; carving knife";n2
-報道;houdou;"information; report; journalism; news";n2
-放映;houei;"televising; broadcasting; airing";n2
+舗装;hosou;pavement, road surface;n2
+欲する;hossuru;to want, to desire;n2
+包丁;houchou;kitchen knife, carving knife;n2
+報道;houdou;information, report, journalism, news;n2
+放映;houei;televising, broadcasting, airing;n2
 放課後;houkago;after school;n2
 報告書;houkokusho;(written) report;n2
-方面;houmen;"direction; district; area";n2
-方針;houshin;"policy; plan; course; principle; objective";n2
-表示;hyouji;"indication; expression; showing; manifestation; demonstration; display; displaying";n2
-評論;hyouron;"criticism; critique";n2
-表紙;hyoushi;"cover (of a book, magazine, etc.); binding";n2
+方面;houmen;direction, district, area;n2
+方針;houshin;policy, plan, course, principle, objective;n2
+表示;hyouji;indication, expression, showing, manifestation, demonstration, display, displaying;n2
+評論;hyouron;criticism, critique;n2
+表紙;hyoushi;cover (of a book, magazine, etc.), binding;n2
 異;i;(prefix) different;n2
-居場所;ibasho;"whereabouts; place; location; place where one belongs; where one fits in; place where one can be oneself";n2
-いちいち: one-by-one; separately;" every single; each and every; without omission; fully; in detail";n2
-一段;ichidan;"more; much more; still more; all the more";n2
-一段落;ichidanraku;"reaching a stopping place; settling down (before the next stage); getting to a point where one can rest; completing the first stage (of the work)";n2
-一面;ichimen;"one face; one surface; the whole surface; one aspect; one side; (on) the other hand";n2
-一覧;ichiran;"look; glance; sight; inspection; summary; list; table; catalog; catalogue";n2
-一例;ichirei;"example; an instance";n2
-一時休業;ichijikyuugyou;"temporary suspension (of business); brief shutdown";n2
-著しい;ichijirushii;"striking; remarkable; considerable";n2
-一助;ichijo;"help; assistance";n2
-遺伝;iden;"heredity; (genetic) inheritance";n2
-遺伝子;idenshi;"gene; genetic";n2
-意外性;igaisei;"unpredictability; element of surprise";n2
-意義;igi;"meaning; significance";n2
+居場所;ibasho;whereabouts, place, location, place where one belongs, where one fits in, place where one can be oneself;n2
+一段;ichidan;more, much more, still more, all the more;n2
+一段落;ichidanraku;reaching a stopping place, settling down (before the next stage), getting to a point where one can rest, completing the first stage (of the work);n2
+一面;ichimen;one face, one surface, the whole surface, one aspect, one side, (on) the other hand;n2
+一覧;ichiran;look, glance, sight, inspection, summary, list, table, catalog, catalogue;n2
+一例;ichirei;example, an instance;n2
+一時休業;ichijikyuugyou;temporary suspension (of business), brief shutdown;n2
+著しい;ichijirushii;striking, remarkable, considerable;n2
+一助;ichijo;help, assistance;n2
+遺伝;iden;heredity, (genetic) inheritance;n2
+遺伝子;idenshi;gene, genetic;n2
+意外性;igaisei;unpredictability, element of surprise;n2
+意義;igi;meaning, significance;n2
 居心地;igokochi;comfort;n2
-いい加減;iikagen;"irresponsible; perfunctory; careless; lukewarm; half-baked; halfhearted; vague; reasonable; moderate";n2
-言い訳;iiwake;"excuse; explanation";n2
-意地悪;ijiwaru;"malicious; ill-tempered; unkind";n2
-怒り;ikari;"anger; rage; fury; wrath; indignation";n2
-生かす;ikasu;"to make (the best) use of; to put to good use; to leverage (skills, attributes, experience, etc.); to capitalise on (experience, etc.)";n2
-生き生き;ikiiki;"in a lively way; vividly; freshly; animatedly; actively; energetically";n2
-いきなり: abruptly; suddenly;" all of a sudden; without warning";n2
+いい加減;iikagen;irresponsible, perfunctory, careless, lukewarm, half-baked, halfhearted, vague, reasonable, moderate;n2
+言い訳;iiwake;excuse, explanation;n2
+意地悪;ijiwaru;malicious, ill-tempered, unkind;n2
+怒り;ikari;anger, rage, fury, wrath, indignation;n2
+生かす;ikasu;to make (the best) use of, to put to good use, to leverage (skills, attributes, experience, etc.), to capitalise on (experience, etc.);n2
+生き生き;ikiiki;in a lively way, vividly, freshly, animatedly, actively, energetically;n2
 生き残る;ikinokoru;to survive;n2
-息抜き;ikinuki;"taking a breather; relaxation; vent hole";n2
-一見;ikken;"look; glimpse; glance; apparently; seemingly";n2
-一気に;ikki ni;"in one go; in one gulp; in one breath; without stopping; without pausing; without resting; in one sitting; at a stretch; all at once";n2
-一向に;ikkou ni;"completely; absolutely; totally; (not) at all; (not) a bit; (not) in the least; earnestly; intently; determinedly";n2
-移行;ikou;"switching over to; migration; transition";n2
-育児;ikuji;"childcare; child-rearing; nursing; upbringing";n2
-育成;ikusei;"rearing; training; nurture; cultivation; promotion";n2
-いまいち: not quite;right);" not very good; somewhat (lacking)";n2
-印鑑;inkan;"stamp; seal";n2
+息抜き;ikinuki;taking a breather, relaxation, vent hole;n2
+一見;ikken;look, glimpse, glance, apparently, seemingly;n2
+一気に;ikki ni;in one go, in one gulp, in one breath, without stopping, without pausing, without resting, in one sitting, at a stretch, all at once;n2
+一向に;ikkou ni;completely, absolutely, totally, (not) at all, (not) a bit, (not) in the least, earnestly, intently, determinedly;n2
+移行;ikou;switching over to, migration, transition;n2
+育児;ikuji;childcare, child-rearing, nursing, upbringing;n2
+育成;ikusei;rearing, training, nurture, cultivation, promotion;n2
+印鑑;inkan;stamp, seal;n2
 飲料水;inryousui;drinking water;n2
 印刷物;insatsubutsu;printed matter;n2
 飲食店;inshokuten;restaurant;n2
-一方的;ippouteki;"one-sided; unilateral; arbitrary";n2
-入れ込む;irekomu;"to put in; to place inside; to push into; to stuff into; to be enthusiastic; to be engrossed";n2
-入り替える;irikaeru;"to replace; to substitute; to shift; to change places";n2
-衣装;ishou;"clothing; costume; outfit; garment; dress";n2
-急ぎ;isogi;"haste; hurry; expedition; speed; dispatch";n2
-一斉に;issei ni;"simultaneously; all at once; in unison";n2
-傷む;itamu;"to be spoiled (e.g. food); to be damaged";n2
-意図;ito;"intention; aim; design";n2
-嫌々;iyaiya;"unwillingly; grudgingly; reluctantly";n2
-意欲;iyoku;"will; desire; ambition; urge (e.g. creative urge)";n2
-痛ましい;itamashii;"pitiful; heartbreaking; heartrending; touching; tragic; sad; hurtful";n2
-痛める;itameru;"to hurt; to injure; to cause pain; to harm; to damage; to spoil";n2
-一斉に;issei ni;"simultaneously; all at once; in unison";n2
-一色;isshoku;"same tendency; everyone being caught up in the same thing; one color";n2
-移転;iten;"moving; relocation; change of address; transfer (of deeds, property, etc.); demise";n2
-一旦;ittan;"once; for a short time; briefly; temporarily";n2
-一定;ittei;"fixed; settled; constant; definite; uniform; regularized; regularised; defined; standardized; standardised; certain; prescribed";n2
-一転;itten;"complete change; reversal; sudden transformation";n2
-居酒屋;izakaya;"izakaya; Japanese bar that also serves various dishes and snacks";n2
-依然;izen;"still; as yet; as it has been";n2
-事物;jibutsu;"things; affairs";n2
-実地;jicchi;"practice (as opposed to theory); actual practice; actual site; (at) the scene; (on) the spot";n2
-自治体;jichitai;"municipality; local government; self-governing body; autonomous body";n2
-児童;jidou;"children; juvenile";n2
+一方的;ippouteki;one-sided, unilateral, arbitrary;n2
+入れ込む;irekomu;to put in, to place inside, to push into, to stuff into, to be enthusiastic, to be engrossed;n2
+入り替える;irikaeru;to replace, to substitute, to shift, to change places;n2
+衣装;ishou;clothing, costume, outfit, garment, dress;n2
+急ぎ;isogi;haste, hurry, expedition, speed, dispatch;n2
+一斉に;issei ni;simultaneously, all at once, in unison;n2
+傷む;itamu;to be spoiled (e.g. food), to be damaged;n2
+意図;ito;intention, aim, design;n2
+嫌々;iyaiya;unwillingly, grudgingly, reluctantly;n2
+意欲;iyoku;will, desire, ambition, urge (e.g. creative urge);n2
+痛ましい;itamashii;pitiful, heartbreaking, heartrending, touching, tragic, sad, hurtful;n2
+痛める;itameru;to hurt, to injure, to cause pain, to harm, to damage, to spoil;n2
+一斉に;issei ni;simultaneously, all at once, in unison;n2
+一色;isshoku;same tendency, everyone being caught up in the same thing, one color;n2
+移転;iten;moving, relocation, change of address, transfer (of deeds, property, etc.), demise;n2
+一旦;ittan;once, for a short time, briefly, temporarily;n2
+一定;ittei;fixed, settled, constant, definite, uniform, regularized, regularised, defined, standardized, standardised, certain, prescribed;n2
+一転;itten;complete change, reversal, sudden transformation;n2
+居酒屋;izakaya;izakaya, Japanese bar that also serves various dishes and snacks;n2
+依然;izen;still, as yet, as it has been;n2
+事物;jibutsu;things, affairs;n2
+実地;jicchi;practice (as opposed to theory), actual practice, actual site, (at) the scene, (on) the spot;n2
+自治体;jichitai;municipality, local government, self-governing body, autonomous body;n2
+児童;jidou;children, juvenile;n2
 次回;jikai;next time (occasion);n2
-事業;jigyou;"project; enterprise; business; industry; operations; venture; service";n2
-時事;jiji;"events of the day; current affairs";n2
+事業;jigyou;project, enterprise, business, industry, operations, venture, service;n2
+時事;jiji;events of the day, current affairs;n2
 次回;jikai;next time (occasion);n2
-時間帯;jikantai;"period of time; time slot; time zone";n2
-自覚;jikaku;"self-consciousness; self-awareness";n2
-実感;jikkan;"real feeling; actual feeling";n2
-実験者;jikkensha;"experimenter; researcher";n2
-じっくり: deliberately; carefully;" thoroughly; without rushing";n2
-自己;jiko;"self; oneself";n2
-時給;jikyuu;"hourly pay; hourly wage";n2
-地元;jimoto;"home area; home town; local";n2
-人工物;jinkoubutsu;"artificial object; man-made object; artifact; artefact";n2
-人工知能;jinkouchinou;"artificial intelligence; AI";n2
-人材;jinzai;"capable person; talented person; human resources; personnel";n2
-事例;jirei;"example; precedent; case";n2
-自律;jiritsu;"autonomy (philosophy); self-control";n2
-持参;jisan;"bringing; taking; carrying";n2
-自社;jisha;"one’s company; company one works for";n2
-実質;jisshitsu;"substance; essence; real (in economics, vs. nominal, e.g. real interest rate); substantive; substantial; essential; tangible";n2
-自主;jishu;"independence; autonomy; self-reliance";n2
-自習;jishuu;"self-study; teaching oneself";n2
-実績;jisseki;"achievements; actual results; accomplishments; past results; track record";n2
-実践;jissen;"practice; putting into practice; implementation";n2
-実施;jisshi;"enforcement; implementation; putting into practice; carrying out; operation; working (e.g. working parameters); enactment";n2
+時間帯;jikantai;period of time, time slot, time zone;n2
+自覚;jikaku;self-consciousness, self-awareness;n2
+実感;jikkan;real feeling, actual feeling;n2
+実験者;jikkensha;experimenter, researcher;n2
+自己;jiko;self, oneself;n2
+時給;jikyuu;hourly pay, hourly wage;n2
+地元;jimoto;home area, home town, local;n2
+人工物;jinkoubutsu;artificial object, man-made object, artifact, artefact;n2
+人工知能;jinkouchinou;artificial intelligence, AI;n2
+人材;jinzai;capable person, talented person, human resources, personnel;n2
+事例;jirei;example, precedent, case;n2
+自律;jiritsu;autonomy (philosophy), self-control;n2
+持参;jisan;bringing, taking, carrying;n2
+自社;jisha;one’s company, company one works for;n2
+実質;jisshitsu;substance, essence, real (in economics, vs. nominal, e.g. real interest rate), substantive, substantial, essential, tangible;n2
+自主;jishu;independence, autonomy, self-reliance;n2
+自習;jishuu;self-study, teaching oneself;n2
+実績;jisseki;achievements, actual results, accomplishments, past results, track record;n2
+実践;jissen;practice, putting into practice, implementation;n2
+実施;jisshi;enforcement, implementation, putting into practice, carrying out, operation, working (e.g. working parameters), enactment;n2
 自体;jitai;itself;n2
-辞退;jitai;"declining; refusal; nonacceptance; turning down; withdrawal (e.g. of candidacy); pulling out (e.g. of a race); excusing oneself";n2
-時点;jiten;"point in time; occasion";n2
-事典;jiten;"encyclopedia; cyclopedia";n2
-事前;jizen;"prior; beforehand; in advance; before the fact; ex ante";n2
-慈善;jizen;"charity; philanthropy";n2
-持続;jizoku;"continuation; persisting; lasting; sustaining; enduring";n2
-じたばた:;kicking and) struggling;" wriggling; floundering";n2
-序列;joretsu;"rank; ranking order; hierarchy";n2
-助手席;joshuseki;"passenger seat; assistant driver’s seat";n2
-上部;joubu;"top part; surface";n2
-上半身;jouhanshin;"upper half of (one’s) body; upper body; bust";n2
-蒸発;jouhatsu;"evaporation; disappearance (of people intentionally concealing their whereabouts); unexplained disappearance";n2
-上位;joui;"superior (in rank); top; ranking";n2
-情景;joukei;"spectacle; sight; scene";n2
-上級者;joukyuusha;"advanced student; advanced learner; advanced practitioner; experienced person";n2
-常温;jouon;"normal temperature; room temperature";n2
-上陸;jouriku;"landing; disembarkation; landfall";n2
-乗車;jousha;"boarding (a train, bus, etc.); getting into (e.g. a taxi)";n2
-上司;joushi;"(one’s) superior; (one’s) boss; the higher-ups";n2
-上昇;joushou;"rising; ascending; climbing";n2
-錠剤;jouzai;"pill; lozenge; tablet";n2
+辞退;jitai;declining, refusal, nonacceptance, turning down, withdrawal (e.g. of candidacy), pulling out (e.g. of a race), excusing oneself;n2
+時点;jiten;point in time, occasion;n2
+事典;jiten;encyclopedia, cyclopedia;n2
+事前;jizen;prior, beforehand, in advance, before the fact, ex ante;n2
+慈善;jizen;charity, philanthropy;n2
+持続;jizoku;continuation, persisting, lasting, sustaining, enduring;n2
+序列;joretsu;rank, ranking order, hierarchy;n2
+助手席;joshuseki;passenger seat, assistant driver’s seat;n2
+上部;joubu;top part, surface;n2
+上半身;jouhanshin;upper half of (one’s) body, upper body, bust;n2
+蒸発;jouhatsu;evaporation, disappearance (of people intentionally concealing their whereabouts), unexplained disappearance;n2
+上位;joui;superior (in rank), top, ranking;n2
+情景;joukei;spectacle, sight, scene;n2
+上級者;joukyuusha;advanced student, advanced learner, advanced practitioner, experienced person;n2
+常温;jouon;normal temperature, room temperature;n2
+上陸;jouriku;landing, disembarkation, landfall;n2
+乗車;jousha;boarding (a train, bus, etc.), getting into (e.g. a taxi);n2
+上司;joushi;(one’s) superior, (one’s) boss, the higher-ups;n2
+上昇;joushou;rising, ascending, climbing;n2
+錠剤;jouzai;pill, lozenge, tablet;n2
 受動的;judouteki;passive;n2
-受験生;jukensei;"student preparing for or taking examinations (usu. entrance exams); test-taker";n2
+受験生;jukensei;student preparing for or taking examinations (usu. entrance exams), test-taker;n2
 受講;jukou;taking (attending) lectures;n2
-塾;juku;"coaching school; cramming school; juku";n2
+塾;juku;coaching school, cramming school, juku;n2
 寿命;jumyou;life span;n2
-順位;jun’i;"order; rank; position (e.g. in a race); precedence";n2
-循環;junkan;"circulation; rotation; cycle; loop";n2
-順に;jun ni;"in order; in turn; one by one";n2
-順序;junjo;"order; sequence; procedure";n2
-順応;junnou;"adaptation; accommodation; conforming; adjustment; acclimatization";n2
-純粋;junsui;"pure; true; genuine; unmixed";n2
-受診;jushin;"having a medical examination; seeing a doctor";n2
+順位;jun’i;order, rank, position (e.g. in a race), precedence;n2
+循環;junkan;circulation, rotation, cycle, loop;n2
+順に;jun ni;in order, in turn, one by one;n2
+順序;junjo;order, sequence, procedure;n2
+順応;junnou;adaptation, accommodation, conforming, adjustment, acclimatization;n2
+純粋;junsui;pure, true, genuine, unmixed;n2
+受診;jushin;having a medical examination, seeing a doctor;n2
 受賞;jushou;winning (a prize);n2
 充電;juuden;charging (electrically);n2
-充実感;juujitsukan;"sense of fulfillment; sense of completeness; sense of accomplishment; sense of contentment";n2
-充満;juuman;"being filled with; being full of; permeation";n2
-柔軟;juunan;"flexible; lithe; soft; pliable";n2
-充実;juujitsu;"fullness; completion; perfection; enhancement; improvement; enrichment; upgrading";n2
-充実感;juujitsukan;"sense of fulfillment; sense of completeness; sense of accomplishment; sense of contentment";n2
-住宅地;juutakuchi;"housing district; residential district";n2
-重役;juuyaku;"(company) director; executive; top management; important post; role with heavy responsibilities";n2
-課;ka;"lesson; section (in an organization); division; department; counter for lessons and chapters (of a book)";n2
-価値観;kachikan;"sense of values; values; value system";n2
-課題;kadai;"subject; theme; issue; matter; homework; assignment; task; challenge; problem; question";n2
-過度;kado;"excessive; immoderate";n2
+充実感;juujitsukan;sense of fulfillment, sense of completeness, sense of accomplishment, sense of contentment;n2
+充満;juuman;being filled with, being full of, permeation;n2
+柔軟;juunan;flexible, lithe, soft, pliable;n2
+充実;juujitsu;fullness, completion, perfection, enhancement, improvement, enrichment, upgrading;n2
+充実感;juujitsukan;sense of fulfillment, sense of completeness, sense of accomplishment, sense of contentment;n2
+住宅地;juutakuchi;housing district, residential district;n2
+重役;juuyaku;(company) director, executive, top management, important post, role with heavy responsibilities;n2
+課;ka;lesson, section (in an organization), division, department, counter for lessons and chapters (of a book);n2
+価値観;kachikan;sense of values, values, value system;n2
+課題;kadai;subject, theme, issue, matter, homework, assignment, task, challenge, problem, question;n2
+過度;kado;excessive, immoderate;n2
 花粉;kafun;pollen;n2
-花粉症;kafunshou;"hay fever; pollinosis (allergy to pollen)";n2
-輝かしい;kagayakashii;"brilliant; glorious; glittering; bright; splendid (e.g. achievement, success); promising (e.g. future)";n2
-輝き;kagayaki;"brightness; brilliance; brilliancy; radiance; glitter";n2
-過激;kageki;"extreme; radical";n2
-限り;kagiri;"limit; limits; bounds; degree; extent; scope";n2
-限りない;kagirinai;"eternal; unlimited; endless";n2
-嗅ぐ;kagu;"to sniff; to smell";n2
-下位;kai;"low rank; lower position; subordinate position; lower order (e.g. byte)";n2
-開封;kaifuu;"opening (an envelope or parcel); breaking the seal; unsealed letter";n2
-介護;kaigo;"nursing; care; caregiving; caring";n2
-介護施設;kaigoshisetsu;"nursing home; rest home";n2
-開発;kaihatsu;"development; exploitation";n2
-解放;kaihou;"release; unleashing; liberation; emancipation; setting free";n2
-開放感;kaihoukan;"sense of space; spaciousness";n2
-会員証;kaiinshou;"membership card; membership certificate";n2
+花粉症;kafunshou;hay fever, pollinosis (allergy to pollen);n2
+輝かしい;kagayakashii;brilliant, glorious, glittering, bright, splendid (e.g. achievement, success), promising (e.g. future);n2
+輝き;kagayaki;brightness, brilliance, brilliancy, radiance, glitter;n2
+過激;kageki;extreme, radical;n2
+限り;kagiri;limit, limits, bounds, degree, extent, scope;n2
+限りない;kagirinai;eternal, unlimited, endless;n2
+嗅ぐ;kagu;to sniff, to smell;n2
+下位;kai;low rank, lower position, subordinate position, lower order (e.g. byte);n2
+開封;kaifuu;opening (an envelope or parcel), breaking the seal, unsealed letter;n2
+介護;kaigo;nursing, care, caregiving, caring;n2
+介護施設;kaigoshisetsu;nursing home, rest home;n2
+開発;kaihatsu;development, exploitation;n2
+解放;kaihou;release, unleashing, liberation, emancipation, setting free;n2
+開放感;kaihoukan;sense of space, spaciousness;n2
+会員証;kaiinshou;membership card, membership certificate;n2
 開会;kaikai;opening of a meeting;n2
-会見;kaiken;"interview; audience; meeting; (viewing) party";n2
-解決策;kaiketsusaku;"solution; solution strategy";n2
-開幕;kaimaku;"raising the curtain; opening (of an event); start of a season";n2
-皆無;kaimu;"nonexistent; nil; none; nothing (at all); bugger-all";n2
-飼い主;kainushi;"shepherd; (pet) owner";n2
-回覧;kairan;"circulation (esp. documents); sending round";n2
-改良;kairyou;"improvement; reform";n2
-開催;kaisai;"holding (a conference, exhibition, etc.); opening; hosting (e.g. the Olympics)";n2
-解散;kaisan;"breaking up (e.g. meeting); dispersing (e.g. crowd); dissolving (company, organization, etc.); liquidating; disbanding";n2
-改正;kaisei;"revision; amendment; alteration";n2
-開設;kaisetsu;"establishment; opening; setting up; inauguration";n2
-解説;kaisetsu;"explanation; commentary; exposition; elucidation";n2
+会見;kaiken;interview, audience, meeting, (viewing) party;n2
+解決策;kaiketsusaku;solution, solution strategy;n2
+開幕;kaimaku;raising the curtain, opening (of an event), start of a season;n2
+皆無;kaimu;nonexistent, nil, none, nothing (at all), bugger-all;n2
+飼い主;kainushi;shepherd, (pet) owner;n2
+回覧;kairan;circulation (esp. documents), sending round;n2
+改良;kairyou;improvement, reform;n2
+開催;kaisai;holding (a conference, exhibition, etc.), opening, hosting (e.g. the Olympics);n2
+解散;kaisan;breaking up (e.g. meeting), dispersing (e.g. crowd), dissolving (company, organization, etc.), liquidating, disbanding;n2
+改正;kaisei;revision, amendment, alteration;n2
+開設;kaisetsu;establishment, opening, setting up, inauguration;n2
+解説;kaisetsu;explanation, commentary, exposition, elucidation;n2
 買い占める;kaishimeru;to buy up;n2
-解消;kaishou;"cancellation; liquidation; resolution; reduction (e.g. of stress)";n2
-海水浴;kaisuiyoku;"swimming in the ocean; sea bathing; seawater bath; going for a dip in the ocean";n2
-回数;kaisuu;"number of times; frequency; count";n2
-改訂;kaitei;"revision (of text); alteration; change";n2
-回転;kaiten;"rotation (usu. around something); revolution; turning";n2
-開店;kaiten;"opening a new shop; opening a shop (for the day)";n2
-回答;kaitou;"reply; answer";n2
+解消;kaishou;cancellation, liquidation, resolution, reduction (e.g. of stress);n2
+海水浴;kaisuiyoku;swimming in the ocean, sea bathing, seawater bath, going for a dip in the ocean;n2
+回数;kaisuu;number of times, frequency, count;n2
+改訂;kaitei;revision (of text), alteration, change;n2
+回転;kaiten;rotation (usu. around something), revolution, turning;n2
+開店;kaiten;opening a new shop, opening a shop (for the day);n2
+回答;kaitou;reply, answer;n2
 解約;kaiyaku;cancellation of contract;n2
-果実;kajitsu;"fruit; nut; berry; profit";n2
-過剰;kajou;"excess; surplus; superabundance; overabundance";n2
-係;kakari;"charge; duty; person in charge; official; clerk";n2
-欠かせない;kakasenai;"indispensable; vital; fundamental; imperative; crucial";n2
-欠かす;kakasu;"to miss (doing); to fail (to do)";n2
-関わり合う;kakawariau;"to get involved or entangled in; to get mixed up in; to have something to do with; to have dealings with";n2
+果実;kajitsu;fruit, nut, berry, profit;n2
+過剰;kajou;excess, surplus, superabundance, overabundance;n2
+係;kakari;charge, duty, person in charge, official, clerk;n2
+欠かせない;kakasenai;indispensable, vital, fundamental, imperative, crucial;n2
+欠かす;kakasu;to miss (doing), to fail (to do);n2
+関わり合う;kakawariau;to get involved or entangled in, to get mixed up in, to have something to do with, to have dealings with;n2
 下記;kaki;the following;n2
-夏期;kaki;"summer term (e.g. school); summer period";n2
-格好つける;kakkou tsukeru;"to affect a stylish air; to try to look good; to show off";n2
-隔;kaku;"every other; second; alternate";n2
-格別;kakubetsu;"particular; special; exceptional; especial";n2
+夏期;kaki;summer term (e.g. school), summer period;n2
+格好つける;kakkou tsukeru;to affect a stylish air, to try to look good, to show off;n2
+隔;kaku;every other, second, alternate;n2
+格別;kakubetsu;particular, special, exceptional, especial;n2
 角度;kakudo;angle;n2
-確保;kakuho;"securing; obtaining; ensuring; guarantee; maintaining";n2
-各位;kakui;"everyone; each and every one (of you); ladies and gentlemen";n2
-各自;kakuji;"each (person); everyone; individual; respective";n2
-確率;kakuritsu;"probability; likelihood; chances";n2
-獲得;kakutoku;"acquisition; possession";n2
-格安;kakuyasu;"cheap; reasonable";n2
+確保;kakuho;securing, obtaining, ensuring, guarantee, maintaining;n2
+各位;kakui;everyone, each and every one (of you), ladies and gentlemen;n2
+各自;kakuji;each (person), everyone, individual, respective;n2
+確率;kakuritsu;probability, likelihood, chances;n2
+獲得;kakutoku;acquisition, possession;n2
+格安;kakuyasu;cheap, reasonable;n2
 歓迎会;kangeikai;welcome party;n2
-活発;kappatsu;"lively; active; vigorous; animated; brisk";n2
-係;kakari;"charge; duty; person in charge; official; clerk";n2
-係員;kakariin;"person in charge; official; attendant";n2
-駆け抜ける;kakenukeru;"to run past from behind; to run through (e.g. gate, one’s mind)";n2
+活発;kappatsu;lively, active, vigorous, animated, brisk;n2
+係;kakari;charge, duty, person in charge, official, clerk;n2
+係員;kakariin;person in charge, official, attendant;n2
+駆け抜ける;kakenukeru;to run past from behind, to run through (e.g. gate, one’s mind);n2
 拡充;kakujuu;expansion;n2
-確信;kakushin;"conviction; belief; confidence";n2
-確定;kakutei;"decision; settlement";n2
-感;kan;"(prefix) feeling; sensation; emotion; admiration; impression";n2
-叶う;kanau;"to come true (of a wish, prayer, etc.); to be realized; to be fulfilled; to suit (e.g. a purpose); to meet (wishes, ideals, etc.); to conform to (standards, rules, etc.); to be consistent with";n2
-完備;kanbi;"(being) fully equipped; (being) fully furnished";n2
-勘違い;kanchigai;"misunderstanding; mistaken idea; wrong guess";n2
-加熱;kanetsu;"heating; application of heat";n2
-看護;kango;"nursing; (army) nurse";n2
-看護師;kangoshi;"(hospital) nurse; registered nurse";n2
-感じ取る;kanjitoru;"to perceive; to sense; to take in; to grasp; to feel";n2
-簡潔;kanketsu;"brevity; conciseness; simplicity";n2
-観光地;kankouchi;"tourist attraction; sight-seeing area";n2
-観念;kannen;"idea; notion; concept; conception; sense (e.g. of duty)";n2
-完璧;kanpeki;"perfect; complete; flawless";n2
-簡略;kanryaku;"simple; simplicity; brief; brevity";n2
+確信;kakushin;conviction, belief, confidence;n2
+確定;kakutei;decision, settlement;n2
+感;kan;(prefix) feeling, sensation, emotion, admiration, impression;n2
+叶う;kanau;to come true (of a wish, prayer, etc.), to be realized, to be fulfilled, to suit (e.g. a purpose), to meet (wishes, ideals, etc.), to conform to (standards, rules, etc.), to be consistent with;n2
+完備;kanbi;(being) fully equipped, (being) fully furnished;n2
+勘違い;kanchigai;misunderstanding, mistaken idea, wrong guess;n2
+加熱;kanetsu;heating, application of heat;n2
+看護;kango;nursing, (army) nurse;n2
+看護師;kangoshi;(hospital) nurse, registered nurse;n2
+感じ取る;kanjitoru;to perceive, to sense, to take in, to grasp, to feel;n2
+簡潔;kanketsu;brevity, conciseness, simplicity;n2
+観光地;kankouchi;tourist attraction, sight-seeing area;n2
+観念;kannen;idea, notion, concept, conception, sense (e.g. of duty);n2
+完璧;kanpeki;perfect, complete, flawless;n2
+簡略;kanryaku;simple, simplicity, brief, brevity;n2
 簡略化;kanryakuka;simplification;n2
-観戦;kansen;"watching a (sports) game; spectating; observing (military operations)";n2
-観測;kansoku;"observation; survey; measurement";n2
+観戦;kansen;watching a (sports) game, spectating, observing (military operations);n2
+観測;kansoku;observation, survey, measurement;n2
 鑑賞;kanshou;appreciation (of art, music, poetry, etc.);n2
 観点;kanten;point of view;n2
-勧誘;kan’yuu;"invitation; solicitation; canvassing; canvasing; inducement; persuasion; encouragement";n2
-絡む;karamu;"to entangle; to entwine; to pick a quarrel; to find fault";n2
-仮に;kari ni;"supposing; even if; granting that; for argument’s sake; temporarily; provisionally; for the time being";n2
-軽々;karugaru;"lightly; easily; carelessly";n2
-重なる;kasanaru;"to be piled up; to lie on top of one another; to come one after another; to happen over and over; to pile up (e.g. stress); to accumulate";n2
-歌詞;kashi;"song lyrics; words of a song; libretto";n2
-貸し出し;kashidashi;"lending; loaning";n2
-箇所;kasho;"passage; place; point; part";n2
-加速;kasoku;"acceleration; speeding up";n2
-かすか: faint; dim;" weak; slight; vague; indistinct; hazy; poor; wretched; meagre; meager; scanty";n2
-課する;kasuru;"to levy; to charge; to assess; to impose; to assign";n2
+勧誘;kan’yuu;invitation, solicitation, canvassing, canvasing, inducement, persuasion, encouragement;n2
+絡む;karamu;to entangle, to entwine, to pick a quarrel, to find fault;n2
+仮に;kari ni;supposing, even if, granting that, for argument’s sake, temporarily, provisionally, for the time being;n2
+軽々;karugaru;lightly, easily, carelessly;n2
+重なる;kasanaru;to be piled up, to lie on top of one another, to come one after another, to happen over and over, to pile up (e.g. stress), to accumulate;n2
+歌詞;kashi;song lyrics, words of a song, libretto;n2
+貸し出し;kashidashi;lending, loaning;n2
+箇所;kasho;passage, place, point, part;n2
+加速;kasoku;acceleration, speeding up;n2
+課する;kasuru;to levy, to charge, to assess, to impose, to assign;n2
 肩幅;katahaba;shoulder width (breadth);n2
-傾く;katamuku;"to incline toward; to slant; to lurch; to heel over; to be disposed to; to trend toward; to be prone to";n2
-語りかける;katarikakeru;"to make a speech; to address";n2
-偏る;katayoru;"to lean (to one side); to incline; to be unbalanced (e.g. diet); to be unduly weighted towards; to be concentrated on; to be partial; to be biased; to be prejudiced";n2
-片付け;katazuke;"tidying up; finishing";n2
-片付く;katazuku;"to be put in order; to be put to rights; to be disposed of; to be solved";n2
-過程;katei;"process; course; mechanism";n2
-下等;katou;"inferior; base; vulgar; low grade; lower class";n2
-活字;katsuji;"printing type; movable type; printed text; print";n2
-活力;katsuryoku;"vitality; energy; dynamism";n2
-活躍;katsuyaku;"activity (esp. energetic); great efforts; conspicuous service; to flourish; to participate actively; to play an active role";n2
-可愛がる;kawaigaru;"to love; to cherish; to be affectionate to; to treat tenderly; to dote on; to show favouritism to; to be partial to";n2
-変わった;kawatta;"another; different; various; particular; unusual; novel; peculiar";n2
-飾り付け;kazaritsuke;"decoration; arrangement";n2
-数々;kazukazu;"many; numerous; various; large number of";n2
+傾く;katamuku;to incline toward, to slant, to lurch, to heel over, to be disposed to, to trend toward, to be prone to;n2
+語りかける;katarikakeru;to make a speech, to address;n2
+偏る;katayoru;to lean (to one side), to incline, to be unbalanced (e.g. diet), to be unduly weighted towards, to be concentrated on, to be partial, to be biased, to be prejudiced;n2
+片付け;katazuke;tidying up, finishing;n2
+片付く;katazuku;to be put in order, to be put to rights, to be disposed of, to be solved;n2
+過程;katei;process, course, mechanism;n2
+下等;katou;inferior, base, vulgar, low grade, lower class;n2
+活字;katsuji;printing type, movable type, printed text, print;n2
+活力;katsuryoku;vitality, energy, dynamism;n2
+活躍;katsuyaku;activity (esp. energetic), great efforts, conspicuous service, to flourish, to participate actively, to play an active role;n2
+可愛がる;kawaigaru;to love, to cherish, to be affectionate to, to treat tenderly, to dote on, to show favouritism to, to be partial to;n2
+変わった;kawatta;another, different, various, particular, unusual, novel, peculiar;n2
+飾り付け;kazaritsuke;decoration, arrangement;n2
+数々;kazukazu;many, numerous, various, large number of;n2
 数多く;kazuooku;in great numbers;n2
-決着;kecchaku;"conclusion; decision; end; settlement";n2
-気配;kehai;"indication; sign; hint; presence; trend";n2
-警備;keibi;"defense; defence; guard; policing; security";n2
-警備員;keibihin;"guard; security (officer); guardsman";n2
-経営者;keieisha;"manager; proprietor";n2
-軽減;keigen;"abatement; reduction";n2
-経費;keihi;"expenses; cost; outlay";n2
-契機;keiki;"opportunity; chance; trigger; cause";n2
-蛍光灯;keikoutou;"fluorescent lamp; fluorescent light";n2
-経理;keiri;"accounting; administration (of money)";n2
-掲載;keisai;"publication (e.g. of an article in a newspaper); carrying (e.g. a story); running (e.g. a serial); insertion (e.g. of an advertisement); printing; posting (e.g. on the web)";n2
-軽視;keishi;"making light of; thinking little of; slighting; belittling; dismissing; contempt; disdain";n2
-形式;keishiki;"form (as opposed to substance); formality";n2
-計測;keisoku;"measuring; measurement";n2
-携帯;keitai;"something carried (in the hand); handheld; portable; mobile telephone; cell phone (abbreviation)";n2
-毛糸;keito;"knitting wool; woollen yarn";n2
-系統;keitou;"system; lineage; ancestry; family line; group (e.g. of colors) (colours); family (e.g. of languages); party; school (of thought)";n2
+決着;kecchaku;conclusion, decision, end, settlement;n2
+気配;kehai;indication, sign, hint, presence, trend;n2
+警備;keibi;defense, defence, guard, policing, security;n2
+警備員;keibihin;guard, security (officer), guardsman;n2
+経営者;keieisha;manager, proprietor;n2
+軽減;keigen;abatement, reduction;n2
+経費;keihi;expenses, cost, outlay;n2
+契機;keiki;opportunity, chance, trigger, cause;n2
+蛍光灯;keikoutou;fluorescent lamp, fluorescent light;n2
+経理;keiri;accounting, administration (of money);n2
+掲載;keisai;publication (e.g. of an article in a newspaper), carrying (e.g. a story), running (e.g. a serial), insertion (e.g. of an advertisement), printing, posting (e.g. on the web);n2
+軽視;keishi;making light of, thinking little of, slighting, belittling, dismissing, contempt, disdain;n2
+形式;keishiki;form (as opposed to substance), formality;n2
+計測;keisoku;measuring, measurement;n2
+携帯;keitai;something carried (in the hand), handheld, portable, mobile telephone, cell phone (abbreviation);n2
+毛糸;keito;knitting wool, woollen yarn;n2
+系統;keitou;system, lineage, ancestry, family line, group (e.g. of colors) (colours), family (e.g. of languages), party, school (of thought);n2
 継続;keizoku;continuation;n2
-謙虚;kenkyo;"modest; humble";n2
-検索;kensaku;"looking up (e.g. a word in a dictionary); retrieval (e.g. data); searching for; referring to";n2
-検診;kenshin;"physical examination; medical examination; health checkup; health screening";n2
-研修;kenshuu;"training (esp. in-service); induction course";n2
-研修会;kenshuukai;"workshop; training course";n2
-謙遜;kenson;"modesty; humility; being humble";n2
-決勝;kesshou;"decision of a contest; finals (in sports)";n2
-決勝戦;kesshousen;"championship game; finals (of a tournament); deciding round";n2
-桁;keta;"column; beam; girder; crossbeam; spar; yard; digit; decade; order of magnitude";n2
-決断;ketsudan;"decision; determination";n2
-険しい;kewashii;"precipitous; rugged; inaccessible; impregnable; steep; grim; severe; stern";n2
-削る;kezuru;"to shave (wood, leather, etc.); to sharpen (e.g. pencil); to plane; to whittle; to pare; to scrape off; to erode; to cut down (budget, expenses, staff, time, etc.); to curtail; to reduce";n2
-気が重い;ki ga omoi;"depressed; bummed out; down; heavy-hearted; heavy-spirited; feeling reluctant (to do)";n2
-気が進まない;ki ga susumanai;"reluctant to; not inclined to; disinclined; unwilling";n2
-気を落とす;ki o otosu;"to be discouraged; to be disheartened";n2
-気を使う;ki o tsukau;"to pay attention to another’s needs; to attend to; to fuss about; to take into consideration";n2
-気を失う;ki o ushinau;"to lose consciousness; to faint; to black out";n2
-機敏;kibin;"clever; shrewd; canny; smart; quick; prompt";n2
-規模;kibo;"scale; scope; plan; structure";n2
-気分転換;kibuntenkan;"change of pace; change of mood; (mental) break (e.g. going for a walk); refreshment";n2
-きっちり: exactly; precisely;" punctually; on the dot; closely; tightly;;fitting) perfectly; properly; without fail";n2
-気軽;kigaru;"carefree; buoyant; lighthearted; sprightly";n2
-器具;kigu;"utensil; apparatus; implement; device; gadget";n2
-期日;kijitsu;"fixed date; settlement date";n2
-企画;kikaku;"planning; project; plan; design";n2
-機器;kiki;"device; equipment; machinery; apparatus";n2
-聞き手;kikite;"hearer; listener; audience; interviewer; questioner";n2
-聞き取る;kikitoru;"to catch (a person’s words); to make out; to follow; to understand";n2
-気配り;kikubari;"care; attentiveness; attention; consideration (for others); solicitude";n2
-決め付ける;kimetsukeru;"to fix upon (one-sidedly); to (ignore somebody’s position and) arbitrarily decide something is the case";n2
-緊張感;kinchoukan;"feeling of tension; air of tension; tension; nervousness";n2
+謙虚;kenkyo;modest, humble;n2
+検索;kensaku;looking up (e.g. a word in a dictionary), retrieval (e.g. data), searching for, referring to;n2
+検診;kenshin;physical examination, medical examination, health checkup, health screening;n2
+研修;kenshuu;training (esp. in-service), induction course;n2
+研修会;kenshuukai;workshop, training course;n2
+謙遜;kenson;modesty, humility, being humble;n2
+決勝;kesshou;decision of a contest, finals (in sports);n2
+決勝戦;kesshousen;championship game, finals (of a tournament), deciding round;n2
+桁;keta;column, beam, girder, crossbeam, spar, yard, digit, decade, order of magnitude;n2
+決断;ketsudan;decision, determination;n2
+険しい;kewashii;precipitous, rugged, inaccessible, impregnable, steep, grim, severe, stern;n2
+削る;kezuru;to shave (wood, leather, etc.), to sharpen (e.g. pencil), to plane, to whittle, to pare, to scrape off, to erode, to cut down (budget, expenses, staff, time, etc.), to curtail, to reduce;n2
+気が重い;ki ga omoi;depressed, bummed out, down, heavy-hearted, heavy-spirited, feeling reluctant (to do);n2
+気が進まない;ki ga susumanai;reluctant to, not inclined to, disinclined, unwilling;n2
+気を落とす;ki o otosu;to be discouraged, to be disheartened;n2
+気を使う;ki o tsukau;to pay attention to another’s needs, to attend to, to fuss about, to take into consideration;n2
+気を失う;ki o ushinau;to lose consciousness, to faint, to black out;n2
+機敏;kibin;clever, shrewd, canny, smart, quick, prompt;n2
+規模;kibo;scale, scope, plan, structure;n2
+気分転換;kibuntenkan;change of pace, change of mood, (mental) break (e.g. going for a walk), refreshment;n2
+気軽;kigaru;carefree, buoyant, lighthearted, sprightly;n2
+器具;kigu;utensil, apparatus, implement, device, gadget;n2
+期日;kijitsu;fixed date, settlement date;n2
+企画;kikaku;planning, project, plan, design;n2
+機器;kiki;device, equipment, machinery, apparatus;n2
+聞き手;kikite;hearer, listener, audience, interviewer, questioner;n2
+聞き取る;kikitoru;to catch (a person’s words), to make out, to follow, to understand;n2
+気配り;kikubari;care, attentiveness, attention, consideration (for others), solicitude;n2
+決め付ける;kimetsukeru;to fix upon (one-sidedly), to (ignore somebody’s position and) arbitrarily decide something is the case;n2
+緊張感;kinchoukan;feeling of tension, air of tension, tension, nervousness;n2
 金魚;kingyo;goldfish;n2
-勤務;kinmu;"service; duty; work";n2
+勤務;kinmu;service, duty, work;n2
 近年;kinnen;recent years;n2
-近隣;kinrin;"neighborhood; vicinity";n2
+近隣;kinrin;neighborhood, vicinity;n2
 絹;kinu;silk;n2
-金融;kinyuu;"finance; financing; credit transacting; loaning of money; circulation of money";n2
-きっぱり: clearly; plainly; distinctly;n2
-気楽;kiraku;"carefree; comfortable; at ease; easygoing; happy-go-lucky";n2
-切り上げる;kiriageru;"to close (at a certain point); to cut short; to stop early; to finish (at a convenient spot); to round up (number)";n2
-切り取る;kiritoru;"to cut off; to excise; to tear off; to cut out; to whittle down; to tear out; to cut down; to amputate";n2
-帰省;kisei;"homecoming; returning home";n2
+金融;kinyuu;finance, financing, credit transacting, loaning of money, circulation of money;n2
+気楽;kiraku;carefree, comfortable, at ease, easygoing, happy-go-lucky;n2
+切り上げる;kiriageru;to close (at a certain point), to cut short, to stop early, to finish (at a convenient spot), to round up (number);n2
+切り取る;kiritoru;to cut off, to excise, to tear off, to cut out, to whittle down, to tear out, to cut down, to amputate;n2
+帰省;kisei;homecoming, returning home;n2
 貴社;kisha;your company (honorific);n2
-気象;kishou;"weather; climate";n2
-機種;kishu;"type of equipment; model";n2
-競う;kisou;"to compete; to contend; to vie; to contest";n2
-鍛える;kitaeru;"to forge; to temper; to drill; to train; to discipline";n2
-規定;kitei;"stipulation; prescription; provision; regulation; rule";n2
-刻み込む;kizamikomu;"to etch (name, etc.); to carve (design)";n2
-刻む;kizamu;"to mince; to cut fine; to chop up; to hash; to shred; to carve; to engrave; to chisel; to notch";n2
-傷物;kizumono;"defective article; damaged goods";n2
-個別;kobetsu;"particular case; discrete; individual; separate";n2
-こだわり: obsession; fixation;" hangup; determination; fastidiousness; pickiness about;trait, style, etc.); complaining; criticizing";n2
-拘る;kodawaru;"to fuss over; to be particular about";n2
-孤独;kodoku;"solitude; loneliness; isolation";n2
-古風;kofuu;"old-fashioned; archaic; antique; antiquated";n2
+気象;kishou;weather, climate;n2
+機種;kishu;type of equipment, model;n2
+競う;kisou;to compete, to contend, to vie, to contest;n2
+鍛える;kitaeru;to forge, to temper, to drill, to train, to discipline;n2
+規定;kitei;stipulation, prescription, provision, regulation, rule;n2
+刻み込む;kizamikomu;to etch (name, etc.), to carve (design);n2
+刻む;kizamu;to mince, to cut fine, to chop up, to hash, to shred, to carve, to engrave, to chisel, to notch;n2
+傷物;kizumono;defective article, damaged goods;n2
+個別;kobetsu;particular case, discrete, individual, separate;n2
+拘る;kodawaru;to fuss over, to be particular about;n2
+孤独;kodoku;solitude, loneliness, isolation;n2
+古風;kofuu;old-fashioned, archaic, antique, antiquated;n2
 小金;kogane;small sum of money;n2
-小柄;kogara;"small build; small stature; petite";n2
-焦げる;kogeru;"to burn; to scorch; to char; to singe";n2
-個人差;kojinsa;"individual differences; personal equation";n2
-個々;koko;"individual; one by one; separate";n2
-心地良い;kokochiyoi;"comfortable; pleasant";n2
-試み;kokoromi;"attempt; trial; experiment; endeavour (endeavor); effort; venture; initiative";n2
-心強い;kokorozuyoi;"heartening; reassuring";n2
-快い;kokoroyoi;"pleasant; agreeable; comfortable; refreshing";n2
-細やか;komayaka;"tender; warm; caring; thoughtful; meticulous; detailed; attentive";n2
-小物;komono;"accessories; small articles";n2
-根元/根本;kongen;"root; source; origin; foundation; base; principle";n2
-根性;konjou;"willpower; guts; determination; grit; spirit; character; nature; disposition; personality";n2
-根気;konki;"patience; perseverance; persistence; tenacity; energy";n2
-今年度;konnendo;"this year; this fiscal year; this school year";n2
-好ましい;konomashii;"nice; likeable; desirable";n2
-この度;konotabi;"this occasion; at this time; now";n2
-孤立;koritsu;"isolation; being alone; being friendless";n2
-個性;kosei;"individuality; personality; idiosyncrasy; character; individual characteristic";n2
-子育て;kosodate;"child rearing; child raising; raising children; parenting";n2
-応える;kotaeru;"to respond; to answer; to meet (e.g. demands, expectations)";n2
-個体;kotai;"individual; specimen";n2
-固定;kotei;"fixing (in place); securing; anchoring; fastening down; fixing (e.g. salary, capital); keeping the same";n2
-古典;koten;"classic (work, esp. book); the classics";n2
-言葉遣い;kotobazukai;"speech; expression; wording; language";n2
-事柄;kotogara;"matter; thing; affair; circumstance";n2
-こつこつ: unflaggingly; steadily;" untiringly; laboriously; knocking; tapping; clicking; drumming";n2
+小柄;kogara;small build, small stature, petite;n2
+焦げる;kogeru;to burn, to scorch, to char, to singe;n2
+個人差;kojinsa;individual differences, personal equation;n2
+個々;koko;individual, one by one, separate;n2
+心地良い;kokochiyoi;comfortable, pleasant;n2
+試み;kokoromi;attempt, trial, experiment, endeavour (endeavor), effort, venture, initiative;n2
+心強い;kokorozuyoi;heartening, reassuring;n2
+快い;kokoroyoi;pleasant, agreeable, comfortable, refreshing;n2
+細やか;komayaka;tender, warm, caring, thoughtful, meticulous, detailed, attentive;n2
+小物;komono;accessories, small articles;n2
+根元/根本;kongen;root, source, origin, foundation, base, principle;n2
+根性;konjou;willpower, guts, determination, grit, spirit, character, nature, disposition, personality;n2
+根気;konki;patience, perseverance, persistence, tenacity, energy;n2
+今年度;konnendo;this year, this fiscal year, this school year;n2
+好ましい;konomashii;nice, likeable, desirable;n2
+この度;konotabi;this occasion, at this time, now;n2
+孤立;koritsu;isolation, being alone, being friendless;n2
+個性;kosei;individuality, personality, idiosyncrasy, character, individual characteristic;n2
+子育て;kosodate;child rearing, child raising, raising children, parenting;n2
+応える;kotaeru;to respond, to answer, to meet (e.g. demands, expectations);n2
+個体;kotai;individual, specimen;n2
+固定;kotei;fixing (in place), securing, anchoring, fastening down, fixing (e.g. salary, capital), keeping the same;n2
+古典;koten;classic (work, esp. book), the classics;n2
+言葉遣い;kotobazukai;speech, expression, wording, language;n2
+事柄;kotogara;matter, thing, affair, circumstance;n2
 高;kou;(prefix) high;n2
-好調;kouchou;"favorable; promising; satisfactory; in good shape";n2
-高度;koudo;"altitude; height; elevation; high-degree; high-grade; advanced; sophisticated; strong";n2
-行動力;koudouryoku;"ability to take action; energy; fire; dynamism; leverage";n2
+好調;kouchou;favorable, promising, satisfactory, in good shape;n2
+高度;koudo;altitude, height, elevation, high-degree, high-grade, advanced, sophisticated, strong;n2
+行動力;koudouryoku;ability to take action, energy, fire, dynamism, leverage;n2
 公演;kouen;public performance;n2
-校外;kougai;"out-of-school; off-campus";n2
-公害;kougai;"pollution; public nuisance; contamination";n2
-後半;kouhan;"second half; latter half";n2
+校外;kougai;out-of-school, off-campus;n2
+公害;kougai;pollution, public nuisance, contamination;n2
+後半;kouhan;second half, latter half;n2
 高品質;kouhinshitsu;high quality;n2
-好印象;kouinshou;"good impression; favorable impression";n2
-向上;koujou;"elevation; rise; improvement; advancement; progress";n2
-恒常;koujou;"constancy; permanence";n2
-公開;koukai;"opening to the public; making available to the public; putting on display; exhibiting; showing (play, movie, etc.); holding (interview, etc.); open; public";n2
-好感;koukan;"good feeling; good will; favourable impression; favorable impression";n2
-後期;kouki;"latter period; second half; late stage; third trimester; second semester";n2
-高級;koukyuu;"high class; high grade; high rank; seniority";n2
-交流会;koukyuukai;"gathering; mixer; meetup; assembly; social; exchange meeting";n2
-項目;koumoku;"item; heading; category; clause; headword (in a dictionary, encyclopedia, etc.); entry";n2
+好印象;kouinshou;good impression, favorable impression;n2
+向上;koujou;elevation, rise, improvement, advancement, progress;n2
+恒常;koujou;constancy, permanence;n2
+公開;koukai;opening to the public, making available to the public, putting on display, exhibiting, showing (play, movie, etc.), holding (interview, etc.), open, public;n2
+好感;koukan;good feeling, good will, favourable impression, favorable impression;n2
+後期;kouki;latter period, second half, late stage, third trimester, second semester;n2
+高級;koukyuu;high class, high grade, high rank, seniority;n2
+交流会;koukyuukai;gathering, mixer, meetup, assembly, social, exchange meeting;n2
+項目;koumoku;item, heading, category, clause, headword (in a dictionary, encyclopedia, etc.), entry;n2
 高熱;kounetsu;high fever;n2
-光熱費;kounetsuhi;"cost of fuel and lighting; cost of heat and electricity; energy bill; utility cost";n2
+光熱費;kounetsuhi;cost of fuel and lighting, cost of heat and electricity, energy bill, utility cost;n2
 好悪;kouo;likes and dislikes;n2
-高齢;kourei;"advanced age; old age";n2
+高齢;kourei;advanced age, old age;n2
 高齢化;koureika;population ageing (aging);n2
-高齢者;koureisha;"old person; old people";n2
+高齢者;koureisha;old person, old people;n2
 小売;kouri;retail;n2
 効率;kouritsu;efficiency;n2
 公立;kouritsu;public (institution);n2
-効力;kouryoku;"effect; efficacy; validity; potency";n2
-工作;kousaku;"handicraft; work; construction; manufacturing; maneuvering; manoeuvering";n2
-考察;kousatsu;"consideration; inquiry; enquiry; investigation; study";n2
-公正;kousei;"justice; fairness; impartiality";n2
-光線;kousen;"beam; light ray";n2
+効力;kouryoku;effect, efficacy, validity, potency;n2
+工作;kousaku;handicraft, work, construction, manufacturing, maneuvering, manoeuvering;n2
+考察;kousatsu;consideration, inquiry, enquiry, investigation, study;n2
+公正;kousei;justice, fairness, impartiality;n2
+光線;kousen;beam, light ray;n2
 講師;koushi;lecturer;n2
-更新;koushin;"renewal; update; innovation; improvement";n2
-公衆;koushuu;"the public; general public";n2
-高層;kousou;"multistory; multistoried; high-rise; high; tall";n2
+更新;koushin;renewal, update, innovation, improvement;n2
+公衆;koushuu;the public, general public;n2
+高層;kousou;multistory, multistoried, high-rise, high, tall;n2
 香水;kousui;perfume;n2
-交代;koutai;"alternation; change; relief; relay; shift; substitution (sports, etc.); taking turns";n2
+交代;koutai;alternation, change, relief, relay, shift, substitution (sports, etc.), taking turns;n2
 肯定;koutei;affirmation;n2
-紅葉;kouyou;"autumn colours; fall colors; leaves changing color";n2
-効用;kouyou;"use; utility; effect; benefit";n2
+紅葉;kouyou;autumn colours, fall colors, leaves changing color;n2
+効用;kouyou;use, utility, effect, benefit;n2
 口座;kouza;account (e.g. bank);n2
-講座;kouza;"course (e.g. of lectures); academic teaching unit; lectureship; professorial chair";n2
-構造;kouzou;"structure; construction; makeup; framework; organization; pattern";n2
-小遣い;kozukai;"pocket money; spending money; pin money; allowance";n2
-怖がる;kowagaru;"to be afraid of; to fear; to dread; to be nervous (about); to be shy (of)";n2
-苦;ku;"pain; anguish; suffering; distress; anxiety; worry; trouble; difficulty; hardship";n2
+講座;kouza;course (e.g. of lectures), academic teaching unit, lectureship, professorial chair;n2
+構造;kouzou;structure, construction, makeup, framework, organization, pattern;n2
+小遣い;kozukai;pocket money, spending money, pin money, allowance;n2
+怖がる;kowagaru;to be afraid of, to fear, to dread, to be nervous (about), to be shy (of);n2
+苦;ku;pain, anguish, suffering, distress, anxiety, worry, trouble, difficulty, hardship;n2
 砕く;kudaku;to break, to smash;n2
-くどい: verbose; importunate;" wordy; repetitious; long-winded; heavy;taste); rich; strong; cloying; gaudy; loud";n2
-区切り;kugiri;"punctuation; pause; juncture; end; (place to) stop";n2
-苦情;kujou;"complaint; troubles; objection; grievance";n2
-組み替える;kumikaeru;"to rearrange (classes); to recompose; to reset; to recombine (genes)";n2
-組み込む;kumikomu;"to insert; to include; to incorporate; to cut in (printing)";n2
-暗闇;kurayami;"darkness; the dark";n2
-繰り返し;kurikaeshi;"repetition; repeat; reiteration; iteration; refrain; cycle; repeatedly";n2
-車椅子;kurumaisu;"wheelchair; folding push-chair";n2
-苦戦;kusen;"hard fight; close game; struggle; tight contest";n2
+区切り;kugiri;punctuation, pause, juncture, end, (place to) stop;n2
+苦情;kujou;complaint, troubles, objection, grievance;n2
+組み替える;kumikaeru;to rearrange (classes), to recompose, to reset, to recombine (genes);n2
+組み込む;kumikomu;to insert, to include, to incorporate, to cut in (printing);n2
+暗闇;kurayami;darkness, the dark;n2
+繰り返し;kurikaeshi;repetition, repeat, reiteration, iteration, refrain, cycle, repeatedly;n2
+車椅子;kurumaisu;wheelchair, folding push-chair;n2
+苦戦;kusen;hard fight, close game, struggle, tight contest;n2
 国々;kuniguni;countries;n2
-くたくた: exhausted; tired;" withered; worn out";n2
-空洞;kuudou;"cave; hollow; cavity";n2
-空間;kuukan;"space; room; airspace";n2
-空席;kuuseki;"empty seat; unoccupied seat; vacancy; vacant post";n2
-空想;kuusou;"daydream; fantasy; fancy; vision";n2
-悔やむ;kuyamu;"to mourn; to lament; to be sorry; to regret; to repent";n2
-崩す;kuzusu;"to destroy; to demolish; to pull down; to tear down; to level; to break (a bill); to change; to make change";n2
+空洞;kuudou;cave, hollow, cavity;n2
+空間;kuukan;space, room, airspace;n2
+空席;kuuseki;empty seat, unoccupied seat, vacancy, vacant post;n2
+空想;kuusou;daydream, fantasy, fancy, vision;n2
+悔やむ;kuyamu;to mourn, to lament, to be sorry, to regret, to repent;n2
+崩す;kuzusu;to destroy, to demolish, to pull down, to tear down, to level, to break (a bill), to change, to make change;n2
 客観的;kyakkanteki;objective;n2
-客席;kyakuseki;"guest seating (e.g. theater, stadium); passenger seat (e.g. taxi); audience";n2
-拒否;kyohi;"refusal; rejection; denial; veto";n2
+客席;kyakuseki;guest seating (e.g. theater, stadium), passenger seat (e.g. taxi), audience;n2
+拒否;kyohi;refusal, rejection, denial, veto;n2
 曲線;kyokusen;curve;n2
-極端;kyokutan;"extreme; extremity";n2
-強風;kyoufuu;"strong wind; high wind; moderate gale";n2
-教員;kyouin;"teacher; instructor; teaching staff; faculty member";n2
-強弱;kyoujaku;"strength and weakness; (degree of) strength; stress (of a sound); loudness";n2
-強化;kyouka;"strengthening; intensifying; reinforcement; enhancement; solidification";n2
-協会;kyoukai;"association; society; organization; organisation";n2
+極端;kyokutan;extreme, extremity;n2
+強風;kyoufuu;strong wind, high wind, moderate gale;n2
+教員;kyouin;teacher, instructor, teaching staff, faculty member;n2
+強弱;kyoujaku;strength and weakness, (degree of) strength, stress (of a sound), loudness;n2
+強化;kyouka;strengthening, intensifying, reinforcement, enhancement, solidification;n2
+協会;kyoukai;association, society, organization, organisation;n2
 教師;kyoushi;teacher (classroom);n2
-恐縮;kyoushuku;"feeling obliged; being grateful; being thankful; being sorry; being ashamed";n2
-教養;kyouyou;"cultivation; refinement; culture; education";n2
-共有;kyouyuu;"joint ownership; co-ownership; sharing (e.g. a viewpoint)";n2
-旧 ;kyuu;"ex-; former; old";n2
+恐縮;kyoushuku;feeling obliged, being grateful, being thankful, being sorry, being ashamed;n2
+教養;kyouyou;cultivation, refinement, culture, education;n2
+共有;kyouyuu;joint ownership, co-ownership, sharing (e.g. a viewpoint);n2
+旧 ;kyuu;ex-, former, old;n2
 休暇明け;kyuukaake;post-vacation;n2
 急病;kyuubyou;sudden illness;n2
-休業;kyuugyou;"closed (e.g. store); business suspended; shutdown; holiday";n2
-求人;kyuujin;"recruiting; job offer; job vacancy";n2
-休養;kyuuyou;"rest; break; recreation; recuperation; convalescence";n2
-急増;kyuuzou;"rapid increase; proliferation; surge; explosion";n2
-町並み;machinami;"townscape; street (of stores and houses); (look of) stores and houses on street";n2
-間近;madjika;"proximity; nearness; soon; nearby";n2
+休業;kyuugyou;closed (e.g. store), business suspended, shutdown, holiday;n2
+求人;kyuujin;recruiting, job offer, job vacancy;n2
+休養;kyuuyou;rest, break, recreation, recuperation, convalescence;n2
+急増;kyuuzou;rapid increase, proliferation, surge, explosion;n2
+町並み;machinami;townscape, street (of stores and houses), (look of) stores and houses on street;n2
+間近;madjika;proximity, nearness, soon, nearby;n2
 窓際;madogiwa;(at the) window;n2
-窓口;madoguchi;"ticket window; teller window; counter; contact person; point of contact";n2
-魔法;mahou;"magic; witchcraft; sorcery";n2
-前向き;maemuki;"front-facing; forward-looking; positive; constructive";n2
-間際;magiwa;"the point just before; the point of doing; the verge of happening";n2
-巻き込む;makikomu;"to roll up; to enfold; to swallow up; to involve; to drag into";n2
-まく: to scatter; to sprinkle; to strew;n2
-真似る;maneru;"to mimic; to imitate";n2
-満員;man’in;"full house; no vacancy; sold out; standing room only; full (of people); crowded";n2
+窓口;madoguchi;ticket window, teller window, counter, contact person, point of contact;n2
+魔法;mahou;magic, witchcraft, sorcery;n2
+前向き;maemuki;front-facing, forward-looking, positive, constructive;n2
+間際;magiwa;the point just before, the point of doing, the verge of happening;n2
+巻き込む;makikomu;to roll up, to enfold, to swallow up, to involve, to drag into;n2
+真似る;maneru;to mimic, to imitate;n2
+満員;man’in;full house, no vacancy, sold out, standing room only, full (of people), crowded;n2
 満足度;manzokudo;(degree of) satisfaction;n2
 稀;mare;rare, seldom;n2
-真っ先;massaki;"the head; the foremost; beginning; the very front";n2
+真っ先;massaki;the head, the foremost, beginning, the very front;n2
 真っ白;masshiro;pure white;n2
-まとめる: to collect; to put;"it all) together; to integrate; to consolidate; to unify; to summarize; to aggregate; to bring to a conclusion; to finalize; to settle; to put in order";n2
 目;me;(suffix) ordinal number suffix;n2
-目新しい;meatarashii;"original; novel; new";n2
-目当て;meate;"mark; guide; landmark; purpose; aim; goal; intention; end";n2
-目立つ;medatsu;"to be conspicuous; to stand out";n2
-恵み;megumi;"blessing; grace";n2
-恵む;megumu;"to bless; to show mercy to; to give (money, etc.)";n2
-名簿;meibo;"register of names; list of names; roll; register; roster";n2
-名物;meibutsu;"famous product; special product; speciality; specialty";n2
-名産;meisan;"noted product; local specialty";n2
+目新しい;meatarashii;original, novel, new;n2
+目当て;meate;mark, guide, landmark, purpose, aim, goal, intention, end;n2
+目立つ;medatsu;to be conspicuous, to stand out;n2
+恵み;megumi;blessing, grace;n2
+恵む;megumu;to bless, to show mercy to, to give (money, etc.);n2
+名簿;meibo;register of names, list of names, roll, register, roster;n2
+名物;meibutsu;famous product, special product, speciality, specialty;n2
+名産;meisan;noted product, local specialty;n2
 名刺;meishi;business card;n2
-明示;meiji;"elucidation; explicit statement; specification";n2
-明確;meikaku;"clear; precise; definite; distinct";n2
-名門;meimon;"noted family; noble family; prestigious school, organization, business, etc.";n2
-明瞭;meiryou;"clear; plain; distinct; obvious; evident; articulate";n2
+明示;meiji;elucidation, explicit statement, specification;n2
+明確;meikaku;clear, precise, definite, distinct;n2
+名門;meimon;noted family, noble family, prestigious school, organization, business, etc.;n2
+明瞭;meiryou;clear, plain, distinct, obvious, evident, articulate;n2
 名所;meisho;famous place;n2
-目印;mejirushi;"mark; sign; landmark; benchmark";n2
-面会;menkai;"meeting (face-to-face); interview";n2
-面する;mensuru;"to face on; to look out on to";n2
-目線;mesen;"one’s gaze; point of view; standpoint";n2
-目覚める;mezameru;"to wake up; to awake; to awaken to (instinct, ability, perception, etc.); to become aware of; to become conscious of; to realize; to come to one’s senses";n2
-未;mi;"(prefix) not yet; un-";n2
-見合う;miau;"to exchange glances; to correspond; to counterbalance";n2
-身振り手振り;miburiteburi;"gestures; gesturing";n2
-密着;micchaku;"close adhesion; sticking firmly to; being glued to";n2
-道案内;michiannai;"guidance; showing the way; guide; guidepost; signpost; waymark";n2
-導く;michibiku;"to guide; to lead; to show the way; to conduct";n2
-道のり;michinori;"distance; journey; itinerary; path (e.g. to one’s goal); way; process; route; road";n2
-乱れる;midareru;"to be disordered; to be disarranged; to be disarrayed; to be disheveled; to be dishevelled";n2
-見出し;midashi;"heading; headline; title; caption";n2
-見張る;miharu;"to stand watch; to stand guard; to look out";n2
-見直す;minaosu;"to look at again; to re-examine; to get a better opinion of; to see in a more positive light";n2
-見慣れる;minareru;"to become used to seeing; to be familiar with";n2
+目印;mejirushi;mark, sign, landmark, benchmark;n2
+面会;menkai;meeting (face-to-face), interview;n2
+面する;mensuru;to face on, to look out on to;n2
+目線;mesen;one’s gaze, point of view, standpoint;n2
+目覚める;mezameru;to wake up, to awake, to awaken to (instinct, ability, perception, etc.), to become aware of, to become conscious of, to realize, to come to one’s senses;n2
+未;mi;(prefix) not yet, un-;n2
+見合う;miau;to exchange glances, to correspond, to counterbalance;n2
+身振り手振り;miburiteburi;gestures, gesturing;n2
+密着;micchaku;close adhesion, sticking firmly to, being glued to;n2
+道案内;michiannai;guidance, showing the way, guide, guidepost, signpost, waymark;n2
+導く;michibiku;to guide, to lead, to show the way, to conduct;n2
+道のり;michinori;distance, journey, itinerary, path (e.g. to one’s goal), way, process, route, road;n2
+乱れる;midareru;to be disordered, to be disarranged, to be disarrayed, to be disheveled, to be dishevelled;n2
+見出し;midashi;heading, headline, title, caption;n2
+見張る;miharu;to stand watch, to stand guard, to look out;n2
+見直す;minaosu;to look at again, to re-examine, to get a better opinion of, to see in a more positive light;n2
+見慣れる;minareru;to become used to seeing, to be familiar with;n2
 民家;minka;private house;n2
-見逃す;minogasu;"to miss; to overlook; to fail to notice; to let pass (a matter); to overlook (e.g. a wrongdoing); to turn a blind eye to";n2
-身の回り;mi no mawari;"one’s personal belongings; one’s vicinity; one’s daily life; everyday necessities";n2
-民族;minzoku;"people; race; nation; ethnic group; ethnos";n2
-密閉;mippei;"shutting tightly; sealing something airtight";n2
-密接;missetsu;"close (relationship, connection, etc.); intimate; near; close (together)";n2
-満たす;mitasu;"to satisfy (conditions, one’s appetite, etc.); to meet (e.g. demands); to fulfill; to gratify";n2
-見通し;mitooshi;"unobstructed view; perspective; visibility; vista; forecast; outlook; prospect; prediction; insight; foresight";n2
-見積書;mitsumorisho;"written estimate; quotation; quote";n2
+見逃す;minogasu;to miss, to overlook, to fail to notice, to let pass (a matter), to overlook (e.g. a wrongdoing), to turn a blind eye to;n2
+身の回り;mi no mawari;one’s personal belongings, one’s vicinity, one’s daily life, everyday necessities;n2
+民族;minzoku;people, race, nation, ethnic group, ethnos;n2
+密閉;mippei;shutting tightly, sealing something airtight;n2
+密接;missetsu;close (relationship, connection, etc.), intimate, near, close (together);n2
+満たす;mitasu;to satisfy (conditions, one’s appetite, etc.), to meet (e.g. demands), to fulfill, to gratify;n2
+見通し;mitooshi;unobstructed view, perspective, visibility, vista, forecast, outlook, prospect, prediction, insight, foresight;n2
+見積書;mitsumorisho;written estimate, quotation, quote;n2
 見積もる;mitsumoru;to estimate;n2
-見分ける;miwakeru;"to distinguish; to recognize; to recognise; to tell apart; to differentiate (both figuratively and visually)";n2
-見渡す;miwatasu;"to look out over; to survey (scene); to take an extensive view of";n2
-溝;mizo;"ditch; drain; gutter; trench; groove; tread; gap (between people, countries, etc.); gulf";n2
-持ち出す;mochidasu;"to take out; to carry out; to bring out from where it belongs; to mention something; to broach a topic; to bring up (a subject)";n2
-持ち込む;mochikomu;"to take something into …; to bring in; to carry in";n2
-持ち主;mochinushi;"owner; proprietor; possessor (e.g. of talent, beauty, etc.)";n2
-潜る;moguru;"to dive (into or under water); to get under; to get into; to get in; to creep into; to crawl under; to bury oneself; to burrow into; to dig oneself into; to snuggle under";n2
-模範;mohan;"exemplar; model; example; pattern";n2
-模型;mokei;"model; dummy; maquette";n2
-木製;mokusei;"wooden; made of wood";n2
+見分ける;miwakeru;to distinguish, to recognize, to recognise, to tell apart, to differentiate (both figuratively and visually);n2
+見渡す;miwatasu;to look out over, to survey (scene), to take an extensive view of;n2
+溝;mizo;ditch, drain, gutter, trench, groove, tread, gap (between people, countries, etc.), gulf;n2
+持ち出す;mochidasu;to take out, to carry out, to bring out from where it belongs, to mention something, to broach a topic, to bring up (a subject);n2
+持ち込む;mochikomu;to take something into …, to bring in, to carry in;n2
+持ち主;mochinushi;owner, proprietor, possessor (e.g. of talent, beauty, etc.);n2
+潜る;moguru;to dive (into or under water), to get under, to get into, to get in, to creep into, to crawl under, to bury oneself, to burrow into, to dig oneself into, to snuggle under;n2
+模範;mohan;exemplar, model, example, pattern;n2
+模型;mokei;model, dummy, maquette;n2
+木製;mokusei;wooden, made of wood;n2
 目的地;mokutekichi;place of destination;n2
-木材;mokuzai;"lumber; timber; wood";n2
-問題点;mondaiten;"the problem (at issue); the point at issue; problematic issue; problem";n2
-物真似;monomane;"mimicry; imitation (of someone, something)";n2
-物足りない;monotarinai;"unsatisfied; unsatisfactory; insufficient";n2
-盛り上がる;moriagaru;"to swell; to rise; to bulge; to be piled up; to rouse; to get excited";n2
-もったいない: wasteful; a waste;" impious; profane; sacrilegious; too good; more than one deserves; unworthy of";n2
-猛;mou;"(prefix): extreme; severe";n2
-催し;moyooshi;"event; festivities; function; social gathering; auspices; opening; holding (a meeting)";n2
-最寄り;moyori;"nearest; neighboring; nearby";n2
-無;mu/bu;"(prefix) un-; non-";n2
-無縁;muen;"unrelated; irrelevant; indifferent; without relations (esp. of a deceased person); having no surviving relativescho";n2
-無限;mugen;"infinity; infinitude; eternity; infinite; limitless";n2
-無意識;muishiki;"unconsciousness; unconscious; involuntary; automatic; mechanical; unintentional; spontaneous";n2
+木材;mokuzai;lumber, timber, wood;n2
+問題点;mondaiten;the problem (at issue), the point at issue, problematic issue, problem;n2
+物真似;monomane;mimicry, imitation (of someone, something);n2
+物足りない;monotarinai;unsatisfied, unsatisfactory, insufficient;n2
+盛り上がる;moriagaru;to swell, to rise, to bulge, to be piled up, to rouse, to get excited;n2
+猛;mou;(prefix): extreme, severe;n2
+催し;moyooshi;event, festivities, function, social gathering, auspices, opening, holding (a meeting);n2
+最寄り;moyori;nearest, neighboring, nearby;n2
+無;mu/bu;(prefix) un-, non-;n2
+無縁;muen;unrelated, irrelevant, indifferent, without relations (esp. of a deceased person), having no surviving relativescho;n2
+無限;mugen;infinity, infinitude, eternity, infinite, limitless;n2
+無意識;muishiki;unconsciousness, unconscious, involuntary, automatic, mechanical, unintentional, spontaneous;n2
 無条件;mujouken;unconditional;n2
-矛盾;mujun;"contradiction; inconsistency";n2
+矛盾;mujun;contradiction, inconsistency;n2
 無関係;mukankei;unrelated;n2
-無関心;mukanshin;"apathetic; indifferent";n2
-昔話;mukashibanashi;"old tale; folk tale; legend; reminiscence";n2
-むかつく: to feel irritated; to feel offended;" to feel angry; to feel sick; to feel nauseous";n2
-向き合う;mukiau;"to be opposite; to face each other; to confront (an issue); to face";n2
-無口;mukuchi;"taciturn; reticent; quiet; silent; untalkative";n2
-無給;mukyuu;"unpaid; nonsalaried";n2
-無線;musen;"radio (communication); wireless; not using wires";n2
-蒸し暑い;mushiatsui;"humid; sultry";n2
-結びつく;musubitsuku;"to be related; to be connected; to be joined together; to result in; to lead to; to bring about";n2
-無数;musuu;"innumerable; countless; numberless";n2
-傾らか;nadaraka;"gently sloping; gentle; easy; smooth";n2
-長続き;nagatsuzuki;"lasting long; continuation; keeping at (something); sticking to (something)";n2
-嘆く;nageku;"to lament; to grieve; to regret; to deplore";n2
-和やか;nagoyaka;"mild; calm; gentle; quiet; congenial; amicable; amiable; friendly; genial; harmonious; peaceful";n2
-内;nai;"(suffix) inside; within";n2
-内部;naibu;"interior; inside; internal";n2
-内包;naihou;"connotation; comprehension; intension; inclusion; containment within";n2
-内線;naisen;"phone extension; indoor wiring; inner line";n2
-中庭;nakaniwa;"courtyard; quadrangle; middle court";n2
-生中継;namachuukei;"live broadcast (radio, TV); live coverage";n2
-滑らか;nameraka;"smooth (of a surface); glassy; velvety; soft";n2
-何度も;nandomo;"many times over; often";n2
+無関心;mukanshin;apathetic, indifferent;n2
+昔話;mukashibanashi;old tale, folk tale, legend, reminiscence;n2
+向き合う;mukiau;to be opposite, to face each other, to confront (an issue), to face;n2
+無口;mukuchi;taciturn, reticent, quiet, silent, untalkative;n2
+無給;mukyuu;unpaid, nonsalaried;n2
+無線;musen;radio (communication), wireless, not using wires;n2
+蒸し暑い;mushiatsui;humid, sultry;n2
+結びつく;musubitsuku;to be related, to be connected, to be joined together, to result in, to lead to, to bring about;n2
+無数;musuu;innumerable, countless, numberless;n2
+傾らか;nadaraka;gently sloping, gentle, easy, smooth;n2
+長続き;nagatsuzuki;lasting long, continuation, keeping at (something), sticking to (something);n2
+嘆く;nageku;to lament, to grieve, to regret, to deplore;n2
+和やか;nagoyaka;mild, calm, gentle, quiet, congenial, amicable, amiable, friendly, genial, harmonious, peaceful;n2
+内;nai;(suffix) inside, within;n2
+内部;naibu;interior, inside, internal;n2
+内包;naihou;connotation, comprehension, intension, inclusion, containment within;n2
+内線;naisen;phone extension, indoor wiring, inner line;n2
+中庭;nakaniwa;courtyard, quadrangle, middle court;n2
+生中継;namachuukei;live broadcast (radio, TV), live coverage;n2
+滑らか;nameraka;smooth (of a surface), glassy, velvety, soft;n2
+何度も;nandomo;many times over, often;n2
 軟弱;nanjaku;weakness;n2
-何らか;nanraka;"some; any; in any way; of some kind; of some sort";n2
-慣れ;nare;"practice; practising; experience";n2
-成り立つ;naritatsu;"to consist of; to be made up of; to be composed of; to be concluded";n2
-成し遂げる;nashitogeru;"to accomplish; to finish; to fulfill";n2
-悩み;nayami;"trouble; troubles; worry; distress; sorrows; anguish; agony; problem";n2
-名づける;nazukeru;"to name; to call; to christen; to term";n2
-値上がり;neagari;"price advance; increase in value";n2
-値引き;nebiki;"price reduction; discount";n2
-根っこ;nekko;"root (of a plant); stump (of a tree); root (of a problem, etc.); base; foundation; origin; source";n2
-寝転がる;nekorogaru;"to lie down; to throw oneself down";n2
-年度;nendo;"fiscal year (usu. April 1 to March 31 in Japan); financial year; academic year; school year";n2
-年金;nenkin;"annuity; pension";n2
+何らか;nanraka;some, any, in any way, of some kind, of some sort;n2
+慣れ;nare;practice, practising, experience;n2
+成り立つ;naritatsu;to consist of, to be made up of, to be composed of, to be concluded;n2
+成し遂げる;nashitogeru;to accomplish, to finish, to fulfill;n2
+悩み;nayami;trouble, troubles, worry, distress, sorrows, anguish, agony, problem;n2
+名づける;nazukeru;to name, to call, to christen, to term;n2
+値上がり;neagari;price advance, increase in value;n2
+値引き;nebiki;price reduction, discount;n2
+根っこ;nekko;root (of a plant), stump (of a tree), root (of a problem, etc.), base, foundation, origin, source;n2
+寝転がる;nekorogaru;to lie down, to throw oneself down;n2
+年度;nendo;fiscal year (usu. April 1 to March 31 in Japan), financial year, academic year, school year;n2
+年金;nenkin;annuity, pension;n2
 年内;nennai;by the end of the year;n2
-狙う;nerau;"to aim at; to be after (something); to have an eye on";n2
-熱する;nessuru;"to heat up; to heat";n2
-根強い;nezuyoi;"firmly rooted; deep-seated";n2
-鈍い;nibui;"dull (e.g. a knife); blunt; thickheaded; obtuse; stupid";n2
+狙う;nerau;to aim at, to be after (something), to have an eye on;n2
+熱する;nessuru;to heat up, to heat;n2
+根強い;nezuyoi;firmly rooted, deep-seated;n2
+鈍い;nibui;dull (e.g. a knife), blunt, thickheaded, obtuse, stupid;n2
 日用品;nichiyouhin;daily necessities;n2
-濁る;nigoru;"to become muddy; to become cloudy; to get impure (of a liquid, gas, etc.)";n2
-日課;nikka;"daily lesson; daily work; daily routine";n2
-憎い;nikui;"hateful; abominable; poor-looking; detestable";n2
+濁る;nigoru;to become muddy, to become cloudy, to get impure (of a liquid, gas, etc.);n2
+日課;nikka;daily lesson, daily work, daily routine;n2
+憎い;nikui;hateful, abominable, poor-looking, detestable;n2
 憎しみ;nikushimi;hatred;n2
-認識;ninshiki;"recognition; awareness; perception; understanding; knowledge; cognition; cognizance; cognisance";n2
-偽物;nisemono;"spurious article; forgery; counterfeit; imitation; sham";n2
+認識;ninshiki;recognition, awareness, perception, understanding, knowledge, cognition, cognizance, cognisance;n2
+偽物;nisemono;spurious article, forgery, counterfeit, imitation, sham;n2
 日数;nissuu;a number of days;n2
-荷造り;nizukuri;"packing; baling; crating";n2
-乗り越える;norikoeru;"to climb over; to get over; to ride across; to overcome; to surpass; to overtake";n2
-乗り継ぐ;noritsugu;"to connect (with a different flight, train, etc.); to make a connection; to change (planes, trains, etc.)";n2
+荷造り;nizukuri;packing, baling, crating;n2
+乗り越える;norikoeru;to climb over, to get over, to ride across, to overcome, to surpass, to overtake;n2
+乗り継ぐ;noritsugu;to connect (with a different flight, train, etc.), to make a connection, to change (planes, trains, etc.);n2
 農園;nouen;plantation;n2
 納品;nouhin;delivery of goods;n2
-濃厚;nouko;"rich (in flavor, color, smell, etc.); thick; dense; strong";n2
+濃厚;nouko;rich (in flavor, color, smell, etc.), thick, dense, strong;n2
 能率;nouritsu;efficiency;n2
-農作物;nousakubutsu;"crops; agricultural produce";n2
-農薬;nouyaku;"agricultural chemical (i.e. pesticide, herbicide, fungicide, etc.); agrochemical; agrichemical";n2
-覗く;nozoku;"to peek (through a keyhole, gap, etc.); to sneak a look at; to take a quick look atr";n2
-入会;nyuukai;"admission; joining; enrollment; enrolment";n2
-入会金;nyuukaikin;"initiation fee; admission fee";n2
-入金;nyuukin;"deposit; payment; money received; money due";n2
+農作物;nousakubutsu;crops, agricultural produce;n2
+農薬;nouyaku;agricultural chemical (i.e. pesticide, herbicide, fungicide, etc.), agrochemical, agrichemical;n2
+覗く;nozoku;to peek (through a keyhole, gap, etc.), to sneak a look at, to take a quick look atr;n2
+入会;nyuukai;admission, joining, enrollment, enrolment;n2
+入会金;nyuukaikin;initiation fee, admission fee;n2
+入金;nyuukin;deposit, payment, money received, money due;n2
 入居;nyuukyo;moving into (house);n2
-入居者;nyuukyosha;"tenant (esp. residential tenant in apartment block); occupant; inhabitant; inmate";n2
-入門;nyuumon;"entering an institution; beginning training; primer; manual; introduction (to)";n2
+入居者;nyuukyosha;tenant (esp. residential tenant in apartment block), occupant, inhabitant, inmate;n2
+入門;nyuumon;entering an institution, beginning training, primer, manual, introduction (to);n2
 乳製品;nyuuseihin;dairy products;n2
-覚え書き;oboegaki;"memo; memorandum; note";n2
-落ち込む;ochikomu;"to feel down; to feel sad; to be depressed; to be in low spirits; to be in a slump (business, economy, etc.); to be in an unfavourable condition";n2
-驚き;odoroki;"surprise; astonishment; wonder; amazement";n2
-補う;oginau;"to compensate for; to supplement";n2
-追い返す;oikaesu;"to drive away; to turn away; to send away; to repel; to repulse";n2
+覚え書き;oboegaki;memo, memorandum, note;n2
+落ち込む;ochikomu;to feel down, to feel sad, to be depressed, to be in low spirits, to be in a slump (business, economy, etc.), to be in an unfavourable condition;n2
+驚き;odoroki;surprise, astonishment, wonder, amazement;n2
+補う;oginau;to compensate for, to supplement;n2
+追い返す;oikaesu;to drive away, to turn away, to send away, to repel, to repulse;n2
 追い求める;oimotomeru;to pursue;n2
-追い越す;oikosu;"to pass (e.g. car); to overtake; to surpass; to outstrip; to get ahead of; to outdistance";n2
-追い抜く;oinuku;"to pass (a car); to overtake; to surpass; to outstrip; to outdistance; to outsail";n2
-臆病;okubyou;"cowardly; timid; easily frightened";n2
-屋外;okugai;"outdoors; alfresco";n2
-遅れ;okure;"delay; lag; postponement; falling behind";n2
-奥底;okusoko;"depths; bottom (of one’s heart)";n2
-思いがけない;omoigakenai;"unexpected; contrary to expectations; by chance; casual";n2
-思い返す;omoikaesu;"to re-think; to think back upon; to change one’s mind";n2
-思い切り;omoikiri;"with all one’s strength; with all one’s heart; to the utmost; resolution; decisiveness";n2
-思い込み;omoikomi;"wrong impression; subjective impression; assumption; prejudice";n2
-思い立つ;omoitatsu;"to set one’s mind on doing; to get the idea of doing; to make up one’s mind";n2
-思いつき;omoitsuki;"plan; idea; suggestion";n2
-思いつく;omoitsuku;"to think of; to hit upon; to come into one’s mind; to be struck with an idea; to remember; to recall";n2
-思い浮かぶ;omoiukabu;"to occur to; to remind of; to come to mind";n2
-重苦しい;omokurushii;"heavy; gloomy; awkward; cumbrous; oppressive; leaden";n2
+追い越す;oikosu;to pass (e.g. car), to overtake, to surpass, to outstrip, to get ahead of, to outdistance;n2
+追い抜く;oinuku;to pass (a car), to overtake, to surpass, to outstrip, to outdistance, to outsail;n2
+臆病;okubyou;cowardly, timid, easily frightened;n2
+屋外;okugai;outdoors, alfresco;n2
+遅れ;okure;delay, lag, postponement, falling behind;n2
+奥底;okusoko;depths, bottom (of one’s heart);n2
+思いがけない;omoigakenai;unexpected, contrary to expectations, by chance, casual;n2
+思い返す;omoikaesu;to re-think, to think back upon, to change one’s mind;n2
+思い切り;omoikiri;with all one’s strength, with all one’s heart, to the utmost, resolution, decisiveness;n2
+思い込み;omoikomi;wrong impression, subjective impression, assumption, prejudice;n2
+思い立つ;omoitatsu;to set one’s mind on doing, to get the idea of doing, to make up one’s mind;n2
+思いつき;omoitsuki;plan, idea, suggestion;n2
+思いつく;omoitsuku;to think of, to hit upon, to come into one’s mind, to be struck with an idea, to remember, to recall;n2
+思い浮かぶ;omoiukabu;to occur to, to remind of, to come to mind;n2
+重苦しい;omokurushii;heavy, gloomy, awkward, cumbrous, oppressive, leaden;n2
 重み;omomi;weight;n2
-お似合い;oniai;"well-matched (esp. of a couple); becoming; suitable";n2
-恩恵;onkei;"grace; favor; favour; blessing; benefit";n2
-温厚;onkou;"gentle; mild-mannered";n2
+お似合い;oniai;well-matched (esp. of a couple), becoming, suitable;n2
+恩恵;onkei;grace, favor, favour, blessing, benefit;n2
+温厚;onkou;gentle, mild-mannered;n2
 音量;onryou;volume (sound);n2
 大通り;oodoori;main street;n2
-大げさ;oogesa;"grandiose; exaggerated";n2
+大げさ;oogesa;grandiose, exaggerated;n2
 大声;oogoe;loud voice;n2
-大幅;oohaba;"big; large; drastic; substantial";n2
-多く;ooku;"many; much; largely; abundantly; mostly";n2
-多目に;oome ni;"plenty; lots";n2
-大手;oote;"major company; big company";n2
-折り返し;orikaeshi;"by return; (call or write back) without delay";n2
-折り畳む;oritatamu;"to fold up; to fold into layers";n2
-収まる;osamaru;"to fit into (a box, frame, category, etc.); to be contained within; to fall within (e.g. a budget)";n2
-納める;osameru;"to dedicate; to make an offering; to pay (fees)";n2
-おしゃれ: smartly dressed; stylish;" fashion-conscious; someone smartly dressed; to dress up; to be fashionable";n2
-惜しい;oshii;"regrettable; disappointing; unfortunate; precious; dear; valuable";n2
-押し付ける;oshitsukeru;"to press; to push; to force; to foist on (task, responsibility); to impose (one’s will)";n2
-教わる;osowaru;"to be taught (by); to learn from";n2
-お勧め;osusume;"recommendation; advice; suggestion; encouragement";n2
-お手本;otehon;"example; role model";n2
-お手数;otesuu;"trouble; bother";n2
-お得;otoku;"economical; bargain; good value; good-value";n2
-大人しい;otonashii;"obedient; docile; quiet";n2
-訪れる;otozureru;"to visit; to call on; to arrive; to come; to appear";n2
-欧米;oubei;"Europe and America; the West";n2
+大幅;oohaba;big, large, drastic, substantial;n2
+多く;ooku;many, much, largely, abundantly, mostly;n2
+多目に;oome ni;plenty, lots;n2
+大手;oote;major company, big company;n2
+折り返し;orikaeshi;by return, (call or write back) without delay;n2
+折り畳む;oritatamu;to fold up, to fold into layers;n2
+収まる;osamaru;to fit into (a box, frame, category, etc.), to be contained within, to fall within (e.g. a budget);n2
+納める;osameru;to dedicate, to make an offering, to pay (fees);n2
+惜しい;oshii;regrettable, disappointing, unfortunate, precious, dear, valuable;n2
+押し付ける;oshitsukeru;to press, to push, to force, to foist on (task, responsibility), to impose (one’s will);n2
+教わる;osowaru;to be taught (by), to learn from;n2
+お勧め;osusume;recommendation, advice, suggestion, encouragement;n2
+お手本;otehon;example, role model;n2
+お手数;otesuu;trouble, bother;n2
+お得;otoku;economical, bargain, good value, good-value;n2
+大人しい;otonashii;obedient, docile, quiet;n2
+訪れる;otozureru;to visit, to call on, to arrive, to come, to appear;n2
+欧米;oubei;Europe and America, the West;n2
 応募者;oubosha;applicant;n2
-応答;outou;"reply; answer; response";n2
+応答;outou;reply, answer, response;n2
 親子;oyako;parent and child;n2
-来日;rainichi;"arrival in Japan; coming to Japan; visit to Japan";n2
+来日;rainichi;arrival in Japan, coming to Japan, visit to Japan;n2
 来学期;raigakki;next semester;n2
 来場;raijou;attendance;n2
 来場者;raijousha;those attending;n2
-来年度;rainendo;"next year; next fiscal year";n2
+来年度;rainendo;next year, next fiscal year;n2
 来店;raiten;coming to a store (restaurant, bar, shop, etc.);n2
-来店者;raitensha;"visitor (to a shop or restaurant); customer (visiting a store or restaurant); patron";n2
-楽観;rakkan;"optimism; taking an optimistic view";n2
-欄;ran;"section (e.g. in a newspaper); column; page; field (in a form, web page, etc.); blank";n2
-乱暴;ranbou;"violence; assault; running riot; rough (e.g. handling); reckless; careless; coarse; rude; unreasonable (e.g. demand); wild (e.g. argument)";n2
-冷房;reibou;"cooling; air-conditioning";n2
+来店者;raitensha;visitor (to a shop or restaurant), customer (visiting a store or restaurant), patron;n2
+楽観;rakkan;optimism, taking an optimistic view;n2
+欄;ran;section (e.g. in a newspaper), column, page, field (in a form, web page, etc.), blank;n2
+乱暴;ranbou;violence, assault, running riot, rough (e.g. handling), reckless, careless, coarse, rude, unreasonable (e.g. demand), wild (e.g. argument);n2
+冷房;reibou;cooling, air-conditioning;n2
 例外;reigai;exception;n2
-礼儀作法;reigisahou;"etiquette; courtesy";n2
+礼儀作法;reigisahou;etiquette, courtesy;n2
 冷水;reisui;cold water;n2
-恋愛;ren’ai;"love; love-making; passion; emotion; affections";n2
+恋愛;ren’ai;love, love-making, passion, emotion, affections;n2
 連休;renkyuu;consecutive holidays;n2
-理解力;rikairyoku;"(power of) understanding; comprehensive faculty";n2
+理解力;rikairyoku;(power of) understanding, comprehensive faculty;n2
 理系;rikei;science;n2
-陸上;rikujou;"(on) land; ground; shore";n2
-裏面;rimen;"back; reverse; other side; inside; tails (of coins); background";n2
-臨時;rinji;"temporary; provisional; interim; special; extraordinary; extra";n2
-履歴書;rirekisho;"personal history; curriculum vitae; resume";n2
-立食;risshoku;"stand-up meal; buffet";n2
-利点;riten;"advantage; point in favor";n2
+陸上;rikujou;(on) land, ground, shore;n2
+裏面;rimen;back, reverse, other side, inside, tails (of coins), background;n2
+臨時;rinji;temporary, provisional, interim, special, extraordinary, extra;n2
+履歴書;rirekisho;personal history, curriculum vitae, resume;n2
+立食;risshoku;stand-up meal, buffet;n2
+利点;riten;advantage, point in favor;n2
 論戦;ronsen;verbal dispute;n2
-労働力;roudouryoku;"labor; manpower; working force";n2
-略す;ryakusu;"to abbreviate; to omit; to abbreviate; to omit";n2
-力;ryoku;"(suffix) strength; power; proficiency; ability";n2
-寮;ryou;"hostel; dormitory";n2
-領域;ryouiki;"area; domain; territory; field; range; region; regime";n2
-了解;ryoukai;"comprehension; consent; understanding; agreement";n2
-緑茶;ryokucha;"green tea; Japanese tea";n2
-両面;ryoumen;"both sides; two sides; double-sided";n2
-両者;ryousha;"pair; the two; both persons; both things";n2
-了承;ryoushou;"acknowledgement; acknowledgment; understanding (e.g. “please be understanding of the mess during our renovation”); noting; acceptance";n2
-両端;ryoutan;"both ends; either end; both edges; double-mindedness; sitting on the fence";n2
-流 ;ryuu;"(suffix) fashion; way; style; manner; class; rank; rate";n2
-定める;sadameru;"to decide; to determine; to establish; to lay down; to prescribe; to provide; to stipulate; to bring peace (to); to make peaceful";n2
-探る;saguru;"to feel around for; to fumble for; to grope for; to search for; to look for; to investigate; to probe into; to spy on; to sound out";n2
-再;sai;"(prefix) re-; again; repeated; deutero-; deuto-; deuter-";n2
-最悪;saiaku;"worst; horrible; horrid; awful; terrible";n2
+労働力;roudouryoku;labor, manpower, working force;n2
+略す;ryakusu;to abbreviate, to omit, to abbreviate, to omit;n2
+力;ryoku;(suffix) strength, power, proficiency, ability;n2
+寮;ryou;hostel, dormitory;n2
+領域;ryouiki;area, domain, territory, field, range, region, regime;n2
+了解;ryoukai;comprehension, consent, understanding, agreement;n2
+緑茶;ryokucha;green tea, Japanese tea;n2
+両面;ryoumen;both sides, two sides, double-sided;n2
+両者;ryousha;pair, the two, both persons, both things;n2
+了承;ryoushou;acknowledgement, acknowledgment, understanding (e.g. “please be understanding of the mess during our renovation”), noting, acceptance;n2
+両端;ryoutan;both ends, either end, both edges, double-mindedness, sitting on the fence;n2
+流 ;ryuu;(suffix) fashion, way, style, manner, class, rank, rate;n2
+定める;sadameru;to decide, to determine, to establish, to lay down, to prescribe, to provide, to stipulate, to bring peace (to), to make peaceful;n2
+探る;saguru;to feel around for, to fumble for, to grope for, to search for, to look for, to investigate, to probe into, to spy on, to sound out;n2
+再;sai;(prefix) re-, again, repeated, deutero-, deuto-, deuter-;n2
+最悪;saiaku;worst, horrible, horrid, awful, terrible;n2
 栽培;saibai;cultivation;n2
-最大;saidai;"biggest; greatest; largest; maximum";n2
-再度;saido;"twice; again; second time";n2
-災害;saigai;"calamity; disaster; misfortune";n2
-再発;saihatsu;"return; relapse; reoccurrence";n2
-再開;saikai;"reopening; resumption; restarting";n2
-細菌;saikin;"bacterium; bacteria; germ";n2
-最高齢;saikourei;"oldest; most advanced age";n2
-再生;saisei;"resuscitation; regeneration; restoration to life; reformation; rehabilitation; playback; regeneration (sound, etc.); view (of a video clip)";n2
-最新;saishin;"latest; newest; late-breaking (news)";n2
-最小限;saishougen;"minimum; lowest";n2
-採集;saishuu;"collecting; gathering";n2
-最終日;saishuubi;"last day; final day";n2
+最大;saidai;biggest, greatest, largest, maximum;n2
+再度;saido;twice, again, second time;n2
+災害;saigai;calamity, disaster, misfortune;n2
+再発;saihatsu;return, relapse, reoccurrence;n2
+再開;saikai;reopening, resumption, restarting;n2
+細菌;saikin;bacterium, bacteria, germ;n2
+最高齢;saikourei;oldest, most advanced age;n2
+再生;saisei;resuscitation, regeneration, restoration to life, reformation, rehabilitation, playback, regeneration (sound, etc.), view (of a video clip);n2
+最新;saishin;latest, newest, late-breaking (news);n2
+最小限;saishougen;minimum, lowest;n2
+採集;saishuu;collecting, gathering;n2
+最終日;saishuubi;last day, final day;n2
 最速;saisoku;fastest;n2
-催促;saisoku;"pressing; urging; demanding; demand";n2
-最低限;saiteigen;"minimum; at the very least";n2
-最適;saiteki;"most suitable; optimum; optimal; best";n2
-採用;saiyou;"use; adoption; acceptance; appointment; employment; engagement; recruitment";n2
+催促;saisoku;pressing, urging, demanding, demand;n2
+最低限;saiteigen;minimum, at the very least;n2
+最適;saiteki;most suitable, optimum, optimal, best;n2
+採用;saiyou;use, adoption, acceptance, appointment, employment, engagement, recruitment;n2
 坂道;sakamichi;hill road;n2
-遡る;sakanoboru;"to go upstream; to go back (in time, to origin); to date back to; to trace back to; to make retroactive";n2
-先々;sakizaki;"distant future; inevitable future; places one goes to";n2
-早急;sakkyuu;"immediate; prompt; quick; rapid; urgent; pressing";n2
-作成;sakusei;"drawing up (e.g. legal document, contract, will, etc.); preparing; writing; framing; making; producing; creating; creation";n2
-妨げる;samatageru;"to disturb; to prevent; to obstruct; to hinder";n2
+遡る;sakanoboru;to go upstream, to go back (in time, to origin), to date back to, to trace back to, to make retroactive;n2
+先々;sakizaki;distant future, inevitable future, places one goes to;n2
+早急;sakkyuu;immediate, prompt, quick, rapid, urgent, pressing;n2
+作成;sakusei;drawing up (e.g. legal document, contract, will, etc.), preparing, writing, framing, making, producing, creating, creation;n2
+妨げる;samatageru;to disturb, to prevent, to obstruct, to hinder;n2
 山頂;sanchou;summit (of a mountain);n2
-参観;sankan;"visit; inspection";n2
-参照;sanshou;"reference; bibliographical reference; consultation; browsing (e.g. when selecting a file to upload on a computer); checking out";n2
-皿洗い;saraarai;"washing-up; dish-washing";n2
-さらさら: rustling; murmuring;" fluently; silky; smooth and dry; free-flowing";n2
-猿真似;sarumane;"indiscriminate imitation; monkey see, monkey do; blind follower";n2
-細やか;sasayaka;"meagre; meager; modest";n2
-差し出す;sashidasu;"to present; to submit; to tender; to hold out";n2
-差し引く;sashihiku;"to deduct; to take away; to dock; to make allowances for something; to bear something in mind";n2
-差し支える;sashitsukaeru;"to interfere; to hinder; to become impeded";n2
-さっさ: promptly; immediately;" quickly; without delay";n2
-早速;sassoku;"at once; immediately; without delay; promptly";n2
-撮影;satsuei;"photography (still or motion); photographing; filming; shooting; (video) recording";n2
-刺す;sasu;"to pierce; to stab; to prick; to stick; to thrust; to sting; to bite";n2
-さわやか: fresh; refreshing; invigorating;n2
-狭める;sebameru;"to narrow; to reduce; to contract";n2
-接着;secchaku;"adhesion; glueing; gluing; bonding; binding; adhering; fastening";n2
-設置;secchi;"establishment; institution; installation (of a machine or equipment)";n2
-制;sei;"(suffix) system; organization; organisation; imperial command; laws; regulation; control; government; suppression; restraint; holding back; establishment";n2
-整備;seibi;"maintenance; servicing; putting in place; establishment; development; preparation; provision; outfitting";n2
-成分;seibun;"ingredient; component; composition";n2
-声援;seien;"(shout of) encouragement; cheering; rooting; support";n2
-精一杯;seiippai;"the best one can do; one’s best effort; with all one’s might; to the best of one’s ability";n2
-成果;seika): (good) result;" outcome; fruits (of one’s labors); product; accomplishment";n2
-生計;seikei;"livelihood; living";n2
-正門;seimon;"main gate; main entrance";n2
-製作;seisaku;"manufacture; production";n2
-制作;seisaku;"work (film, book); production; creation; turning (something) out; development";n2
-政策;seisaku;"political measures; policy";n2
-清算;seisan;"settlement (financial); squaring accounts; clearing debts; liquidation; ending (a relationship); breaking up (with); burying (the past); redeeming (one’s faults)";n2
-精神力;seishinryoku;"emotional strength; force of will";n2
-性質;seishitsu;"nature; property; disposition";n2
-清掃;seisou;"cleaning; clean-up; garbage collection; scavenging";n2
-生得的;seitokuteki;"innate; inherent; natural; inborn";n2
-生命力;seimeiryoku;"vitality; (one’s) life force";n2
-性能;seinou;"ability; performance; efficiency";n2
-成立;seiritsu;"formation; establishment; materialization; coming into existence; conclusion (e.g. of a deal); approval; completion; arrangement";n2
-生産者;seisansha;"manufacturer; producer";n2
+参観;sankan;visit, inspection;n2
+参照;sanshou;reference, bibliographical reference, consultation, browsing (e.g. when selecting a file to upload on a computer), checking out;n2
+皿洗い;saraarai;washing-up, dish-washing;n2
+猿真似;sarumane;indiscriminate imitation, monkey see, monkey do, blind follower;n2
+細やか;sasayaka;meagre, meager, modest;n2
+差し出す;sashidasu;to present, to submit, to tender, to hold out;n2
+差し引く;sashihiku;to deduct, to take away, to dock, to make allowances for something, to bear something in mind;n2
+差し支える;sashitsukaeru;to interfere, to hinder, to become impeded;n2
+早速;sassoku;at once, immediately, without delay, promptly;n2
+撮影;satsuei;photography (still or motion), photographing, filming, shooting, (video) recording;n2
+刺す;sasu;to pierce, to stab, to prick, to stick, to thrust, to sting, to bite;n2
+狭める;sebameru;to narrow, to reduce, to contract;n2
+接着;secchaku;adhesion, glueing, gluing, bonding, binding, adhering, fastening;n2
+設置;secchi;establishment, institution, installation (of a machine or equipment);n2
+制;sei;(suffix) system, organization, organisation, imperial command, laws, regulation, control, government, suppression, restraint, holding back, establishment;n2
+整備;seibi;maintenance, servicing, putting in place, establishment, development, preparation, provision, outfitting;n2
+成分;seibun;ingredient, component, composition;n2
+声援;seien;(shout of) encouragement, cheering, rooting, support;n2
+精一杯;seiippai;the best one can do, one’s best effort, with all one’s might, to the best of one’s ability;n2
+生計;seikei;livelihood, living;n2
+正門;seimon;main gate, main entrance;n2
+製作;seisaku;manufacture, production;n2
+制作;seisaku;work (film, book), production, creation, turning (something) out, development;n2
+政策;seisaku;political measures, policy;n2
+清算;seisan;settlement (financial), squaring accounts, clearing debts, liquidation, ending (a relationship), breaking up (with), burying (the past), redeeming (one’s faults);n2
+精神力;seishinryoku;emotional strength, force of will;n2
+性質;seishitsu;nature, property, disposition;n2
+清掃;seisou;cleaning, clean-up, garbage collection, scavenging;n2
+生得的;seitokuteki;innate, inherent, natural, inborn;n2
+生命力;seimeiryoku;vitality, (one’s) life force;n2
+性能;seinou;ability, performance, efficiency;n2
+成立;seiritsu;formation, establishment, materialization, coming into existence, conclusion (e.g. of a deal), approval, completion, arrangement;n2
+生産者;seisansha;manufacturer, producer;n2
 政党;seitou;political party;n2
 設計者;sekkeisha;designer;n2
-設計図;sekkeizu;"plan; blueprint";n2
-説教;sekkyou;"remonstration; scolding; lecturing";n2
-選抜;senbatsu;"selection; choice; picking out";n2
-選別;senbetsu;"selection; classification; sorting; screening; triage";n2
+設計図;sekkeizu;plan, blueprint;n2
+説教;sekkyou;remonstration, scolding, lecturing;n2
+選抜;senbatsu;selection, choice, picking out;n2
+選別;senbetsu;selection, classification, sorting, screening, triage;n2
 先着;senchaku;arriving first;n2
-戦後;sengo;"postwar period; period after Second World War";n2
+戦後;sengo;postwar period, period after Second World War;n2
 専業主婦;sengyoushufu;housewife;n2
-選考;senkou;"selection; screening";n2
+選考;senkou;selection, screening;n2
 選挙;senkyo;election;n2
-鮮明;senmei;"vivid; clear; distinct";n2
-専門書;senmonsho;"technical book; specialized book; treatise";n2
-専門店;senmonten;"specialist shop; shop specializing in a few types of product";n2
-専念;sennen;"absorption; giving undivided attention; devoting oneself (to)";n2
-洗練;senren;"polish; refinement";n2
-線路;senro;"railway track; railway line; railroad; railway; track; line";n2
-戦略;senryaku;"strategy; tactics";n2
+鮮明;senmei;vivid, clear, distinct;n2
+専門書;senmonsho;technical book, specialized book, treatise;n2
+専門店;senmonten;specialist shop, shop specializing in a few types of product;n2
+専念;sennen;absorption, giving undivided attention, devoting oneself (to);n2
+洗練;senren;polish, refinement;n2
+線路;senro;railway track, railway line, railroad, railway, track, line;n2
+戦略;senryaku;strategy, tactics;n2
 先先週;sensenshuu;week before last;n2
 洗濯機;sentakuki;washing machine (laundry);n2
-洗剤;senzai;"detergent; cleanser; cleaning agent; washing material";n2
-接する;sessuru;"to touch; to come in contact with; to border on; to adjoin; to be adjacent; to be close; to receive (e.g. visitor); to attend to; to serve; to take care of; to look after; to deal with; to see";n2
-選出;senshutsu;"election; selection; choice";n2
-選択肢;sentakushi;"choices; alternatives; options";n2
-先端;sentan;"pointed end; tip; point; forefront; vanguard; spearhead; leading edge";n2
-接続;setsuzoku;"connection; attachment; union; join; joint; link";n2
-専用;sen’you;"exclusive use; personal use; dedicated";n2
-専属;senzoku;"exclusive; attached to; specialist";n2
-背負う;seou;"to carry on one’s back; to be burdened with; to take responsibility for";n2
-設定;settei;"establishment; creation; posing (a problem); setting (movie, novel, etc.); scene; options setting; preference settings; configuration; setup";n2
-説得力;settokuryoku;"persuasiveness; powers of persuasion; cogency";n2
-節電;setsuden;"conservation of electricity; brownout";n2
+洗剤;senzai;detergent, cleanser, cleaning agent, washing material;n2
+接する;sessuru;to touch, to come in contact with, to border on, to adjoin, to be adjacent, to be close, to receive (e.g. visitor), to attend to, to serve, to take care of, to look after, to deal with, to see;n2
+選出;senshutsu;election, selection, choice;n2
+選択肢;sentakushi;choices, alternatives, options;n2
+先端;sentan;pointed end, tip, point, forefront, vanguard, spearhead, leading edge;n2
+接続;setsuzoku;connection, attachment, union, join, joint, link;n2
+専用;sen’you;exclusive use, personal use, dedicated;n2
+専属;senzoku;exclusive, attached to, specialist;n2
+背負う;seou;to carry on one’s back, to be burdened with, to take responsibility for;n2
+設定;settei;establishment, creation, posing (a problem), setting (movie, novel, etc.), scene, options setting, preference settings, configuration, setup;n2
+説得力;settokuryoku;persuasiveness, powers of persuasion, cogency;n2
+節電;setsuden;conservation of electricity, brownout;n2
 車内;shanai;inside a train, car, etc.;n2
-社内;shanai;"within a company; in-house";n2
-車両;sharyou;"rolling stock; railroad cars; wheeled vehicles";n2
-写生;shasei;"sketching; drawing from nature; portrayal; description";n2
+社内;shanai;within a company, in-house;n2
+車両;sharyou;rolling stock, railroad cars, wheeled vehicles;n2
+写生;shasei;sketching, drawing from nature, portrayal, description;n2
 写真家;shashinka;photographer;n2
-車窓;shasou;"train window; car window";n2
-仕上げる;shiageru;"to finish up; to complete; to finish off; to get through; to polish off";n2
-痺れる;shibireru;"to become numb; to go to sleep (e.g. a limb); to get an electric shock; to tingle (from an electric shock); to be excited; to be titillated; to be mesmerized; to be enthralled";n2
-絞る;shiboru;"to wring (towel, rag); to squeeze; to press; to extract; to milk; to extort; to exploit";n2
-志望;shibou;"wish; desire; ambition";n2
-脂肪;shibou;"fat; grease; blubber; lard; suet";n2
-渋い;shibui;"astringent; bitter; puckery; rough; harsh; tart; austere; elegant (and unobtrusive); refined; quiet (and simple); sober; sombre; subdued; tasteful (in a quiet way); understated; sour (look); glum; grim; sullen; sulky";n2
+車窓;shasou;train window, car window;n2
+仕上げる;shiageru;to finish up, to complete, to finish off, to get through, to polish off;n2
+痺れる;shibireru;to become numb, to go to sleep (e.g. a limb), to get an electric shock, to tingle (from an electric shock), to be excited, to be titillated, to be mesmerized, to be enthralled;n2
+絞る;shiboru;to wring (towel, rag), to squeeze, to press, to extract, to milk, to extort, to exploit;n2
+志望;shibou;wish, desire, ambition;n2
+脂肪;shibou;fat, grease, blubber, lard, suet;n2
+渋い;shibui;astringent, bitter, puckery, rough, harsh, tart, austere, elegant (and unobtrusive), refined, quiet (and simple), sober, sombre, subdued, tasteful (in a quiet way), understated, sour (look), glum, grim, sullen, sulky;n2
 試着;shichaku;trying on clothes;n2
 市長;shichou;mayor;n2
-支援;shien;"support; backing; aid; assistance";n2
-志願;shigan;"aspiration; volunteering; desire; application";n2
-志願者;shigansha;"applicant; candidate";n2
-仕草;shigusa;"gesture; movement; action; behavior; behaviour; bearing; mannerism";n2
-指標;shihyou;"index; indices; indicator";n2
-支持;shiji;"support; backing; endorsement; approval";n2
-司会;shikai;"leading a meeting; presiding over a meeting; officiating at a ceremony; chairmanship; chairman; presenter; host; moderator; master of ceremonies";n2
-視界;shikai;"field of vision; visibility; view; visual field; (one’s) ken";n2
-資格;shikaku;"qualifications; requirements; capabilities";n2
-視覚;shikaku;"sense of sight; vision";n2
-思考;shikou;"thought; consideration; thinking";n2
+支援;shien;support, backing, aid, assistance;n2
+志願;shigan;aspiration, volunteering, desire, application;n2
+志願者;shigansha;applicant, candidate;n2
+仕草;shigusa;gesture, movement, action, behavior, behaviour, bearing, mannerism;n2
+指標;shihyou;index, indices, indicator;n2
+支持;shiji;support, backing, endorsement, approval;n2
+司会;shikai;leading a meeting, presiding over a meeting, officiating at a ceremony, chairmanship, chairman, presenter, host, moderator, master of ceremonies;n2
+視界;shikai;field of vision, visibility, view, visual field, (one’s) ken;n2
+資格;shikaku;qualifications, requirements, capabilities;n2
+視覚;shikaku;sense of sight, vision;n2
+思考;shikou;thought, consideration, thinking;n2
 思考力;shikouryoku;ability to think;n2
 試行錯誤;shikousakugo;trial and error;n2
-仕組み;shikumi;"structure; construction; arrangement; contrivance; mechanism; workings; plan; plot; contrivance";n2
-至急;shikyuu;"urgent; pressing; immediate; prompt; express; urgently; promptly; at once; right away; without delay; as soon as possible";n2
-氏名;shimei;"full name; identity";n2
-使命;shimei;"mission; errand; task; duty; obligation";n2
-締め切る;shimekiru;"to close up; to shut up (e.g. behind doors); to cut off (e.g. because a deadline has expired); to close off (e.g. subscription list)";n2
-湿っぽい;shimeppoi;"damp; humid; wet; gloomy; melancholy";n2
-湿る;shimeru;"to become damp; to become moist; to become wet";n2
-染み付く;shimitsuku;"to be indelibly stained or ingrained; to be dyed in deeply";n2
-芯;shin;"wick; marrow; staple (for stapler); (pencil) lead; stuffing; pith; core; heart; centre; center";n2
-新;shin;"(prefix) new; neo-";n2
-新築;shinchiku;"new building; new construction";n2
-振動;shindou;"oscillation; vibration; swing (e.g. of a pendulum)";n2
-進化;shinka;"evolution; progress";n2
-進行;shinkou;"moving forward (e.g. vehicle); onward movement; advance (work, procedure, etc.); advancement; progress";n2
-真の;shinno;"true; real; genuine; proper; utter";n2
-進入;shinnyuu;"entry; approach; penetration";n2
-新設;shinsetsu;"establishing; founding; setting up; organizing; establishment";n2
-進出;shinshutsu;"advance; stepping forward; emerging";n2
+仕組み;shikumi;structure, construction, arrangement, contrivance, mechanism, workings, plan, plot, contrivance;n2
+至急;shikyuu;urgent, pressing, immediate, prompt, express, urgently, promptly, at once, right away, without delay, as soon as possible;n2
+氏名;shimei;full name, identity;n2
+使命;shimei;mission, errand, task, duty, obligation;n2
+締め切る;shimekiru;to close up, to shut up (e.g. behind doors), to cut off (e.g. because a deadline has expired), to close off (e.g. subscription list);n2
+湿っぽい;shimeppoi;damp, humid, wet, gloomy, melancholy;n2
+湿る;shimeru;to become damp, to become moist, to become wet;n2
+染み付く;shimitsuku;to be indelibly stained or ingrained, to be dyed in deeply;n2
+芯;shin;wick, marrow, staple (for stapler), (pencil) lead, stuffing, pith, core, heart, centre, center;n2
+新;shin;(prefix) new, neo-;n2
+新築;shinchiku;new building, new construction;n2
+振動;shindou;oscillation, vibration, swing (e.g. of a pendulum);n2
+進化;shinka;evolution, progress;n2
+進行;shinkou;moving forward (e.g. vehicle), onward movement, advance (work, procedure, etc.), advancement, progress;n2
+真の;shinno;true, real, genuine, proper, utter;n2
+進入;shinnyuu;entry, approach, penetration;n2
+新設;shinsetsu;establishing, founding, setting up, organizing, establishment;n2
+進出;shinshutsu;advance, stepping forward, emerging;n2
 深夜;shin’ya;late at night;n2
-信頼性;shinraisei;"credibility; authenticity; confidence; reliability";n2
-素人;shirouto;"amateur; layman; ordinary person; novice";n2
+信頼性;shinraisei;credibility, authenticity, confidence, reliability;n2
+素人;shirouto;amateur, layman, ordinary person, novice;n2
 視力;shiryoku;eyesight;n2
 新品;shinpin;(brand-)new article;n2
-申請;shinsei;"application; request; petition";n2
+申請;shinsei;application, request, petition;n2
 申請書;shinseisho;written application;n2
-視察;shisatsu;"inspection; observation";n2
-施設;shisetsu;"institution; establishment; facility";n2
-質素;shisso;"simple; plain; modest; frugal; reserved";n2
-下書き;shitagaki;"draft; rough copy";n2
-親しむ;shitashimu;"to be intimate with; to befriend";n2
-指摘;shiteki;"pointing out; identification";n2
-視点;shiten;"opinion; point of view; visual point";n2
-しわ: wrinkle; crease; ripple;n2
-視野;shiya;"field of vision; view; one’s outlook (e.g. on life); one’s horizons";n2
-自然界;shizenkai;"nature; the natural world; realm of nature";n2
-沈める;shizumeru;"to sink; to submerge; to floor (an opponent)";n2
-諸;sho;"various; many; several";n2
+視察;shisatsu;inspection, observation;n2
+施設;shisetsu;institution, establishment, facility;n2
+質素;shisso;simple, plain, modest, frugal, reserved;n2
+下書き;shitagaki;draft, rough copy;n2
+親しむ;shitashimu;to be intimate with, to befriend;n2
+指摘;shiteki;pointing out, identification;n2
+視点;shiten;opinion, point of view, visual point;n2
+視野;shiya;field of vision, view, one’s outlook (e.g. on life), one’s horizons;n2
+自然界;shizenkai;nature, the natural world, realm of nature;n2
+沈める;shizumeru;to sink, to submerge, to floor (an opponent);n2
+諸;sho;various, many, several;n2
 初夏;shoka;early summer;n2
-初回;shokai;"first time; first innings; initial attempt";n2
-初期;shoki;"early (days); initial stage; initial";n2
-食器類;shokkirui;"dinnerware; cutlery";n2
+初回;shokai;first time, first innings, initial attempt;n2
+初期;shoki;early (days), initial stage, initial;n2
+食器類;shokkirui;dinnerware, cutlery;n2
 食;shoku;(counter) meal;n2
 食費;shokuhi;food expense;n2
-職員;shokuin;"staff member; personnel";n2
-職人;shokunin;"craftsman; artisan; tradesman; worker; workman";n2
+職員;shokuin;staff member, personnel;n2
+職人;shokunin;craftsman, artisan, tradesman, worker, workman;n2
 食生活;shokuseikatsu;eating habits;n2
 初心者;shoshinsha;beginner;n2
-書店;shoten;"bookshop; bookstore";n2
-象徴;shouchou;"(abstract) symbol; emblem; representation";n2
-商業;shougyou;"commerce; trade; business";n2
-勝敗;shouhai;"victory or defeat; issue (of battle); outcome";n2
-賞品;shouhin;"prize; trophy";n2
+書店;shoten;bookshop, bookstore;n2
+象徴;shouchou;(abstract) symbol, emblem, representation;n2
+商業;shougyou;commerce, trade, business;n2
+勝敗;shouhai;victory or defeat, issue (of battle), outcome;n2
+賞品;shouhin;prize, trophy;n2
 消費者;shouhisha;consumer;n2
-生じる;shoujiru;"to produce; to yield; to cause; to result from; to arise; to be generated";n2
-消化;shouka;"digestion (of food); digestion (of information); assimilation; thorough understanding; consumption; absorption; using up; meeting (e.g. a quota); completion";n2
-消極的;shoukyokuteki;"negative; passive; half-hearted; unmotivated";n2
-照明;shoumei;"illumination; lighting";n2
-正面;shoumen;"front; frontage; facade; main";n2
-消耗;shoumou;"exhaustion; consumption; using up; dissipation; waste";n2
+生じる;shoujiru;to produce, to yield, to cause, to result from, to arise, to be generated;n2
+消化;shouka;digestion (of food), digestion (of information), assimilation, thorough understanding, consumption, absorption, using up, meeting (e.g. a quota), completion;n2
+消極的;shoukyokuteki;negative, passive, half-hearted, unmotivated;n2
+照明;shoumei;illumination, lighting;n2
+正面;shoumen;front, frontage, facade, main;n2
+消耗;shoumou;exhaustion, consumption, using up, dissipation, waste;n2
 小児科;shounika;pediatrics;n2
-省略;shouryaku;"omission; abbreviation; abridgment; abridgement";n2
-詳細;shousai;"details; particulars; specifics; detailed; specific; minute";n2
-少子化;shoushika;"declining birth rates; decrease in the number of children";n2
-消失;shoushitsu;"dying out; disappearance; vanishing; elimination; loss; absence";n2
-少数;shousuu;"minority; few";n2
-焦点;shouten;"focus (e.g. photographic); focal point";n2
-商店街;shoutengai;"shopping district; shopping street; downtown";n2
-所有;shoyuu;"one’s possessions; ownership";n2
-所属;shozoku;"belonging to (a group, organization, etc.); affiliation (with); being attached to; being under the control of";n2
-主人公;shujinkou;"protagonist; main character; hero(ine) (of a story)";n2
-主観;shukan;"subjectivity; subject (philosophical); ego; one’s personal opinion; one’s own idea";n2
+省略;shouryaku;omission, abbreviation, abridgment, abridgement;n2
+詳細;shousai;details, particulars, specifics, detailed, specific, minute;n2
+少子化;shoushika;declining birth rates, decrease in the number of children;n2
+消失;shoushitsu;dying out, disappearance, vanishing, elimination, loss, absence;n2
+少数;shousuu;minority, few;n2
+焦点;shouten;focus (e.g. photographic), focal point;n2
+商店街;shoutengai;shopping district, shopping street, downtown;n2
+所有;shoyuu;one’s possessions, ownership;n2
+所属;shozoku;belonging to (a group, organization, etc.), affiliation (with), being attached to, being under the control of;n2
+主人公;shujinkou;protagonist, main character, hero(ine) (of a story);n2
+主観;shukan;subjectivity, subject (philosophical), ego, one’s personal opinion, one’s own idea;n2
 宿泊先;shukuhakusaki;lodging place;n2
-祝日;shukujitsu;"national holiday; public holiday";n2
-出版社;shuppansha;"publisher; publishing house; publishing company";n2
-出発点;shuppatsuten;"starting point; point of departure";n2
-主力;shuryoku;"main force; chief object; mainline";n2
-主催;shusai;"sponsorship (i.e. conducting under one’s auspices); promotion; organizing; organising; hosting; staging";n2
-出世;shusse;"success in life; getting ahead; successful career; promotion; climbing the corporate ladder; eminence";n2
-出社;shussha;"going to work (e.g. in the morning); coming to work";n2
-出身地;shusshinchi;"birthplace; native place";n2
-出席者;shussekisha;"those present; attendance";n2
-主体;shutai;"main constituent; core; nucleus; subject (philosophical); protagonist";n2
-取得;shutoku;"acquisition; obtaining; gaining possession; purchase";n2
-出演;shutsuen;"performance; appearance (in a stage, film, TV show, etc.)";n2
-出演者;shutsuensha;"performer; entertainer; actor";n2
-集;shuu;"(suffix) collection; compilation";n2
-修学旅行;shuugakuryokou;"excursion; field trip; school trip";n2
-修業;shuugyou;"pursuit of knowledge; studying; learning; training; completing a course";n2
-周辺;shuuhen;"circumference; outskirts; environs; around; in the area of; in the vicinity of";n2
-周年;shuunen;"whole year; entire year; -th year anniversary";n2
-収納;shuunou;"storage; putting or stowing away";n2
-秀才;shuusai;"bright person; talented student; prodigy";n2
-就職活動;shuushokukatsudou;"job hunting; job searching";n2
-収集;shuushuu;"collecting; accumulating; gathering; collection (of art, stamps, insects, etc.)";n2
-習得;shuutoku;"learning; acquisition (of a skill, knowledge, etc.)";n2
-取材;shuzai;"news coverage; collecting data (e.g. for an article); covering (something for media)";n2
-率直;socchoku;"frank; candid; straightforward; openhearted; direct; outspoken";n2
-添える;soeru;"to garnish; to accompany (as a card does a gift); to add to as support; to prop up";n2
-側面;sokumen;"side; flank; profile; sidelight; lateral; aspect; dimension";n2
-速達;sokutatsu;"express; special delivery";n2
+祝日;shukujitsu;national holiday, public holiday;n2
+出版社;shuppansha;publisher, publishing house, publishing company;n2
+出発点;shuppatsuten;starting point, point of departure;n2
+主力;shuryoku;main force, chief object, mainline;n2
+主催;shusai;sponsorship (i.e. conducting under one’s auspices), promotion, organizing, organising, hosting, staging;n2
+出世;shusse;success in life, getting ahead, successful career, promotion, climbing the corporate ladder, eminence;n2
+出社;shussha;going to work (e.g. in the morning), coming to work;n2
+出身地;shusshinchi;birthplace, native place;n2
+出席者;shussekisha;those present, attendance;n2
+主体;shutai;main constituent, core, nucleus, subject (philosophical), protagonist;n2
+取得;shutoku;acquisition, obtaining, gaining possession, purchase;n2
+出演;shutsuen;performance, appearance (in a stage, film, TV show, etc.);n2
+出演者;shutsuensha;performer, entertainer, actor;n2
+集;shuu;(suffix) collection, compilation;n2
+修学旅行;shuugakuryokou;excursion, field trip, school trip;n2
+修業;shuugyou;pursuit of knowledge, studying, learning, training, completing a course;n2
+周辺;shuuhen;circumference, outskirts, environs, around, in the area of, in the vicinity of;n2
+周年;shuunen;whole year, entire year, -th year anniversary;n2
+収納;shuunou;storage, putting or stowing away;n2
+秀才;shuusai;bright person, talented student, prodigy;n2
+就職活動;shuushokukatsudou;job hunting, job searching;n2
+収集;shuushuu;collecting, accumulating, gathering, collection (of art, stamps, insects, etc.);n2
+習得;shuutoku;learning, acquisition (of a skill, knowledge, etc.);n2
+取材;shuzai;news coverage, collecting data (e.g. for an article), covering (something for media);n2
+率直;socchoku;frank, candid, straightforward, openhearted, direct, outspoken;n2
+添える;soeru;to garnish, to accompany (as a card does a gift), to add to as support, to prop up;n2
+側面;sokumen;side, flank, profile, sidelight, lateral, aspect, dimension;n2
+速達;sokutatsu;express, special delivery;n2
 測定;sokutei;measurement;n2
-即座に;sokuza;"immediately; right away; on the spot";n2
-染まる;somaru;"to be dyed; to be tainted; to be infected; to be stained; to be steeped";n2
-そもそも: in the first place; to begin with;" from the start; originally; ab initio";n2
-揃える;soroeru;"to collect; to gather; to get together; to complete (a collection); to arrange; to put in order; to prepare; to get ready";n2
-揃う;sorou;"to be complete; to be all present; to make a full set; to be satisfied (of conditions); to gather; to assemble; to be collected";n2
-そそっかしい: careless; thoughtless;" hasty; rash";n2
-素質;soshitsu;"character; qualities; genius; the makings of";n2
-外側;sotogawa;"exterior; outside; outer; external; lateral";n2
-添う;sou;"to meet (wishes, expectations, etc.); to satisfy; to comply with; to live up to";n2
-沿う;sou;"to run along; to run beside; to stick to (a line); to follow (a policy, plan, etc.); to act in accordance with; to align with";n2
-総;sou;"(prefix): whole; all; general; gross; entire; overall";n2
-送付;soufu;"sending (esp. email attachments); forwarding; remitting";n2
-総額;sougaku;"sum total; total amount";n2
-相互;sougo;"mutual; reciprocal";n2
-総合;sougou;"synthesis; coordination; putting together; integration; composite; comprehensive";n2
-相違;soui;"difference; discrepancy; variation";n2
-倉庫;souko;"storehouse; warehouse; godown";n2
+即座に;sokuza;immediately, right away, on the spot;n2
+染まる;somaru;to be dyed, to be tainted, to be infected, to be stained, to be steeped;n2
+揃える;soroeru;to collect, to gather, to get together, to complete (a collection), to arrange, to put in order, to prepare, to get ready;n2
+揃う;sorou;to be complete, to be all present, to make a full set, to be satisfied (of conditions), to gather, to assemble, to be collected;n2
+素質;soshitsu;character, qualities, genius, the makings of;n2
+外側;sotogawa;exterior, outside, outer, external, lateral;n2
+添う;sou;to meet (wishes, expectations, etc.), to satisfy, to comply with, to live up to;n2
+沿う;sou;to run along, to run beside, to stick to (a line), to follow (a policy, plan, etc.), to act in accordance with, to align with;n2
+総;sou;(prefix): whole, all, general, gross, entire, overall;n2
+送付;soufu;sending (esp. email attachments), forwarding, remitting;n2
+総額;sougaku;sum total, total amount;n2
+相互;sougo;mutual, reciprocal;n2
+総合;sougou;synthesis, coordination, putting together, integration, composite, comprehensive;n2
+相違;soui;difference, discrepancy, variation;n2
+倉庫;souko;storehouse, warehouse, godown;n2
 送客;soukyaku;sending customers (somebody’s way);n2
-総務;soumu;"general affairs; general business; manager; director; adjutant general";n2
-相応;souou;"suitable; appropriate; befitting; becoming; adequate; reasonable; proper";n2
-創立;souritsu;"establishment; founding; organization; organisation";n2
-送料;souryou;"postage; carriage; shipping charge";n2
-創作;sousaku;"creation; production; creative work (novel, film, etc.); original work; (creative) writing; fabrication; fiction; invention";n2
-送信;soushin;"transmission; sending";n2
-総数;sousuu;"total (number); count";n2
+総務;soumu;general affairs, general business, manager, director, adjutant general;n2
+相応;souou;suitable, appropriate, befitting, becoming, adequate, reasonable, proper;n2
+創立;souritsu;establishment, founding, organization, organisation;n2
+送料;souryou;postage, carriage, shipping charge;n2
+創作;sousaku;creation, production, creative work (novel, film, etc.), original work, (creative) writing, fabrication, fiction, invention;n2
+送信;soushin;transmission, sending;n2
+総数;sousuu;total (number), count;n2
 相対的;soutaiteki;relative;n2
-そうとう: corresponding to;in meaning, function, etc.);" being equivalent to; appropriate; suitable; befitting; proportionate";n2
 創造;souzou;creation;n2
-騒々しい;souzoushii;"noisy; loud; boisterous; clamorous; raucous; turbulent; unsettled; restless";n2
-素材;sozai;"ingredient; (raw) material; resource; unprocessed timber; raw timber";n2
-据える;sueru;"to place (in position); to fix; to set (e.g. table); to lay (foundation); to install; to seat (someone); to settle (upon something); to fix (e.g. one’s gaze)";n2
-水分;suibun;"water; liquid; fluid; moisture; humidity; sap; juice";n2
+騒々しい;souzoushii;noisy, loud, boisterous, clamorous, raucous, turbulent, unsettled, restless;n2
+素材;sozai;ingredient, (raw) material, resource, unprocessed timber, raw timber;n2
+据える;sueru;to place (in position), to fix, to set (e.g. table), to lay (foundation), to install, to seat (someone), to settle (upon something), to fix (e.g. one’s gaze);n2
+水分;suibun;water, liquid, fluid, moisture, humidity, sap, juice;n2
 垂直;suichoku;vertical;n2
-水平;suihei;"horizontal; level; even";n2
+水平;suihei;horizontal, level, even;n2
 水面;suimen;water’s surface;n2
-推薦書;suisensho;"recommendation; nomination";n2
-吸い取る;suitoru;"to absorb; to squeeze (money)";n2
-好き嫌い;sukikirai;"likes and dislikes; pickiness (about food); choosiness; fussiness; tastes; preferences";n2
-すっきり: refreshingly; with a feeling of relief;" pleasantly;;a weight) off one’s shoulder; shapely; neatly; cleanly; without trouble";n2
-住まい;sumai;"dwelling; house; residence; address";n2
-済ます;sumasu;"to finish; to get it over with; to conclude; to settle; to pay back";n2
-隅々;sumizumi;"nooks; corners";n2
-素直;sunao;"obedient; meek; docile; unaffected; honest; frank; upfront (about one’s feelings)";n2
-すらすら: smoothly; easily; readily;n2
-数値;suuchi;"numerical value; numerics; reading (on a meter, etc.)";n2
-数分;suufun;"several minutes; a few minutes";n2
-数量;suuryou;"quantity; volume; amount";n2
+推薦書;suisensho;recommendation, nomination;n2
+吸い取る;suitoru;to absorb, to squeeze (money);n2
+好き嫌い;sukikirai;likes and dislikes, pickiness (about food), choosiness, fussiness, tastes, preferences;n2
+住まい;sumai;dwelling, house, residence, address;n2
+済ます;sumasu;to finish, to get it over with, to conclude, to settle, to pay back;n2
+隅々;sumizumi;nooks, corners;n2
+素直;sunao;obedient, meek, docile, unaffected, honest, frank, upfront (about one’s feelings);n2
+数値;suuchi;numerical value, numerics, reading (on a meter, etc.);n2
+数分;suufun;several minutes, a few minutes;n2
+数量;suuryou;quantity, volume, amount;n2
 多;ta;(prefix): multi-;n2
-束ねる;tabaneru;"to tie up in a bundle (e.g. straw, hair, bills, letters); to bundle; to sheathe; to govern; to manage; to control; to administer";n2
-旅先;tabisaki;"destination; goal (of travel); place one stays during a journey";n2
-立ち止まる;tachidomaru;"to stop (in one’s tracks); to come to a stop; to halt; to pause; to stand still";n2
-たちまち: in an instant; in a moment;" immediately; right away; at once; suddenly; all of a sudden; all at once";n2
-多大;tadai;"great (quantity, amount, etc.); huge; enormous; serious";n2
-辿り着く;tadoritsuku;"to arrive at (after a struggle); to finally reach; to find one’s way to; to finally hit on (e.g. an idea)";n2
-耐える;taeru;"to bear; to stand; to endure; to put up with; to support; to withstand; to resist; to brave";n2
-多額;tagaku;"large (amount of money); huge; hefty; expensive";n2
+束ねる;tabaneru;to tie up in a bundle (e.g. straw, hair, bills, letters), to bundle, to sheathe, to govern, to manage, to control, to administer;n2
+旅先;tabisaki;destination, goal (of travel), place one stays during a journey;n2
+立ち止まる;tachidomaru;to stop (in one’s tracks), to come to a stop, to halt, to pause, to stand still;n2
+多大;tadai;great (quantity, amount, etc.), huge, enormous, serious;n2
+辿り着く;tadoritsuku;to arrive at (after a struggle), to finally reach, to find one’s way to, to finally hit on (e.g. an idea);n2
+耐える;taeru;to bear, to stand, to endure, to put up with, to support, to withstand, to resist, to brave;n2
+多額;tagaku;large (amount of money), huge, hefty, expensive;n2
 多発;tahatsu;repeated occurrence;n2
-対;tai;"opposite; opposition; versus; vs.; v.";n2
-大別;taibetsu;"general classification; broad categorization";n2
-体調;taichou;"physical condition; state of health";n2
-体外;taigai;"ectogenesis; outside the body";n2
-対比;taihi;"contrast; comparison";n2
-体感;taikan;"bodily sensation; sense; experience";n2
-退場;taijou;"exit (from a stage); leaving; exit";n2
-体格;taikaku;"physique; constitution";n2
-体型;taikei;"figure; body shape; build; physique; form";n2
-体験;taiken;"personal experience; physical experience; one’s own experience";n2
-対抗;taikou;"opposition; antagonism";n2
+対;tai;opposite, opposition, versus, vs., v.;n2
+大別;taibetsu;general classification, broad categorization;n2
+体調;taichou;physical condition, state of health;n2
+体外;taigai;ectogenesis, outside the body;n2
+対比;taihi;contrast, comparison;n2
+体感;taikan;bodily sensation, sense, experience;n2
+退場;taijou;exit (from a stage), leaving, exit;n2
+体格;taikaku;physique, constitution;n2
+体型;taikei;figure, body shape, build, physique, form;n2
+体験;taiken;personal experience, physical experience, one’s own experience;n2
+対抗;taikou;opposition, antagonism;n2
 体内;tainai;interior of the body;n2
-対応;taiou;"correspondence (to); equivalence";n2
-対立;tairitsu;"suitability; coordination; matching; being appropriate (for)";n2
-対策;taisaku;"measure; provision; step; countermeasure; counterplan; countermove";n2
-体制;taisei;"order; system; structure; set-up; organization; organisation";n2
-対戦;taisen;"waging war; competition";n2
-退社;taisha;"resignation; leaving office; leaving work (e.g. at the end of the day)";n2
-体質;taishitsu;"constitution (physical); physical make-up; predisposition (to disease); disposition; tendency; character (of a group, organization, etc.); innate characteristics; make-up; nature; culture";n2
-対処;taisho;"dealing with; coping with";n2
-退職;taishoku;"retirement; resignation";n2
-対象外;taishougai;"not covered (by); not subject (to)";n2
-退出;taishutsu;"leaving (e.g. work at end of day); withdrawal (e.g. from a noble’s or superior’s presence); exit (e.g. from a market)";n2
-大敵;taiteki;"great rival; powerful enemy; archenemy";n2
-対等;taitou;"equality (esp. of status, on equal terms); equivalence";n2
-高まる;takamaru;"to rise; to swell; to be promoted";n2
-高め;takame;"high (e.g. ball in baseball); highish; on the high side; on the expensive side; comparatively expensive";n2
-高める;takameru;"to raise; to lift; to boost; to enhance";n2
+対応;taiou;correspondence (to), equivalence;n2
+対立;tairitsu;suitability, coordination, matching, being appropriate (for);n2
+対策;taisaku;measure, provision, step, countermeasure, counterplan, countermove;n2
+体制;taisei;order, system, structure, set-up, organization, organisation;n2
+対戦;taisen;waging war, competition;n2
+退社;taisha;resignation, leaving office, leaving work (e.g. at the end of the day);n2
+体質;taishitsu;constitution (physical), physical make-up, predisposition (to disease), disposition, tendency, character (of a group, organization, etc.), innate characteristics, make-up, nature, culture;n2
+対処;taisho;dealing with, coping with;n2
+退職;taishoku;retirement, resignation;n2
+対象外;taishougai;not covered (by), not subject (to);n2
+退出;taishutsu;leaving (e.g. work at end of day), withdrawal (e.g. from a noble’s or superior’s presence), exit (e.g. from a market);n2
+大敵;taiteki;great rival, powerful enemy, archenemy;n2
+対等;taitou;equality (esp. of status, on equal terms), equivalence;n2
+高まる;takamaru;to rise, to swell, to be promoted;n2
+高め;takame;high (e.g. ball in baseball), highish, on the high side, on the expensive side, comparatively expensive;n2
+高める;takameru;to raise, to lift, to boost, to enhance;n2
 滝;taki;waterfall;n2
 宅配;takuhai;home delivery;n2
 宅配便;takuhaibin;express home delivery service;n2
-逞しい;takumashii;"burly; strong; sturdy; indomitable; indefatigable; strong-willed; resolute; bold";n2
-蓄える;takuwaeru;"to store; to save up; to stock up on; to lay in stock; to set aside; to accumulate (e.g. knowledge); to build up (e.g. experience); to develop (e.g. one’s skills)";n2
-たくましい: burly; strong;" sturdy; indomitable; indefatigable; strong-willed; resolute; bold";n2
-溜める;tameru;"to amass; to accumulate; to store; to leave unpaid";n2
-保つ;tamotsu;"to keep; to preserve; to hold; to retain; to maintain; to sustain; to last; to endure; to keep well (food); to wear well; to be durable";n2
+逞しい;takumashii;burly, strong, sturdy, indomitable, indefatigable, strong-willed, resolute, bold;n2
+蓄える;takuwaeru;to store, to save up, to stock up on, to lay in stock, to set aside, to accumulate (e.g. knowledge), to build up (e.g. experience), to develop (e.g. one’s skills);n2
+溜める;tameru;to amass, to accumulate, to store, to leave unpaid;n2
+保つ;tamotsu;to keep, to preserve, to hold, to retain, to maintain, to sustain, to last, to endure, to keep well (food), to wear well, to be durable;n2
 多難;tanan;full of troubles, difficulties;n2
-単調;tanchou;"monotony; monotone; dullness";n2
-単純明快;tanjunmeikai;"simple and clear; plain and simple";n2
-短期間;tankikan;"short term; short time";n2
-頼もしい;tanomoshii;"reliable; trustworthy; hopeful; promising";n2
-単身;tanshin;"alone; unaided; away from home";n2
-短縮;tanshuku;"shortening; contraction; reduction; curtailment; abbreviation";n2
-担当者;tantousha;"person in charge (of an area of work); person responsible; contact (person)";n2
-たっぷり: full; in plenty; ample;n2
-多量;taryou;"large quantity; large amount";n2
-多彩;tasai;"variegated; varicoloured; varicolored; multi-coloured; multi-colored; diverse";n2
-他者;tasha;"another person; others";n2
-多種多様;tashutayou;"a great variety of; diversity";n2
-達成;tassei;"achievement; attainment; accomplishment; realization";n2
+単調;tanchou;monotony, monotone, dullness;n2
+単純明快;tanjunmeikai;simple and clear, plain and simple;n2
+短期間;tankikan;short term, short time;n2
+頼もしい;tanomoshii;reliable, trustworthy, hopeful, promising;n2
+単身;tanshin;alone, unaided, away from home;n2
+短縮;tanshuku;shortening, contraction, reduction, curtailment, abbreviation;n2
+担当者;tantousha;person in charge (of an area of work), person responsible, contact (person);n2
+多量;taryou;large quantity, large amount;n2
+多彩;tasai;variegated, varicoloured, varicolored, multi-coloured, multi-colored, diverse;n2
+他者;tasha;another person, others;n2
+多種多様;tashutayou;a great variety of, diversity;n2
+達成;tassei;achievement, attainment, accomplishment, realization;n2
 達成感;tasseikan;sense of accomplishment;n2
-多数;tasuu;"large number (of); many; majority";n2
-畳む;tatamu;"to fold (clothes, umbrella); to close (a shop, business)";n2
-立て替える;tatekaeru;"to pay for another; to pay someone else’s debt as a loan to him; to make temporary payment on a person’s behalf";n2
-頼り;tayori;"reliance; dependence";n2
-多用;tayou;"busyness; a lot of things to do; frequent use; heavy use (of); many uses";n2
-多様;tayou;"diverse; varied";n2
+多数;tasuu;large number (of), many, majority;n2
+畳む;tatamu;to fold (clothes, umbrella), to close (a shop, business);n2
+立て替える;tatekaeru;to pay for another, to pay someone else’s debt as a loan to him, to make temporary payment on a person’s behalf;n2
+頼り;tayori;reliance, dependence;n2
+多用;tayou;busyness, a lot of things to do, frequent use, heavy use (of), many uses;n2
+多様;tayou;diverse, varied;n2
 多様化;tayouka;diversification;n2
-多様性;tayousei;"diversity; variety";n2
-手が空く;te ga aku/te ga suku;"to be free; to be available";n2
-手に入れる;te ni ireru;"to obtain; to procure";n2
+多様性;tayousei;diversity, variety;n2
+手が空く;te ga aku/te ga suku;to be free, to be available;n2
+手に入れる;te ni ireru;to obtain, to procure;n2
 手に付かない;te ni tsukanai;unable to concentrate on (due to distractions, etc.);n2
-手足;teashi;"hands and feet; limbs";n2
-手早い;tebayai;"nimble; quick; agile";n2
-手帳;techou;"notebook; memo pad; (pocket) diary";n2
-手書き;tegaki;"handwriting; handwritten; hand-painted; hand-drawn";n2
-手軽;tegaru;"easy; simple; informal; offhand; cheap";n2
-手頃;tegoro;"moderate; handy; convenient; reasonable";n2
-定着;teichaku;"sticking (in one place, position, etc.); settling; fixing; adherence; becoming established (of a custom, system, etc.); taking hold; taking root";n2
-庭園;teien;"garden; park";n2
-定員;teiin;"fixed number (of people); prescribed number (of regular personnel, students, etc.); quota; numerical limit; complement";n2
-提示;teiji;"presentation; exhibit; suggest; citation";n2
-定価;teika;"list price; regular price; established price";n2
-低下;teika;"fall; decline; lowering; deterioration; degradation";n2
+手足;teashi;hands and feet, limbs;n2
+手早い;tebayai;nimble, quick, agile;n2
+手帳;techou;notebook, memo pad, (pocket) diary;n2
+手書き;tegaki;handwriting, handwritten, hand-painted, hand-drawn;n2
+手軽;tegaru;easy, simple, informal, offhand, cheap;n2
+手頃;tegoro;moderate, handy, convenient, reasonable;n2
+定着;teichaku;sticking (in one place, position, etc.), settling, fixing, adherence, becoming established (of a custom, system, etc.), taking hold, taking root;n2
+庭園;teien;garden, park;n2
+定員;teiin;fixed number (of people), prescribed number (of regular personnel, students, etc.), quota, numerical limit, complement;n2
+提示;teiji;presentation, exhibit, suggest, citation;n2
+定価;teika;list price, regular price, established price;n2
+低下;teika;fall, decline, lowering, deterioration, degradation;n2
 低価格;teikaku;low price;n2
-低気圧;teikiatsu;"low (atmospheric) pressure; low-pressure system; depression; cyclone; bad temper; foul mood; tense situation";n2
+低気圧;teikiatsu;low (atmospheric) pressure, low-pressure system, depression, cyclone, bad temper, foul mood, tense situation;n2
 低コスト;teikosuto;low cost;n2
-抵抗感;teikoukan;"antipathy; reluctance; resistance";n2
-提供;teikyou;"offer; tender; providing; supplying; making available; donating (blood, organs, etc.); sponsoring (a TV program)";n2
-定年;teinen;"retirement age; years of service in a military rank before eligibility for promotion";n2
-手入れ;teire;"care; looking after; repair; maintenance; tending; trimming; grooming; (police) raid; crackdown";n2
-停止;teishi;"stoppage; coming to a stop; halt; standstill; ceasing (movement, activity, etc.); suspension (of operations); interruption (e.g. of electricity supply); cutting off";n2
-的確;tekikaku;"precise; accurate; appropriate; exactly the right";n2
-適性;tekisei;"aptitude; aptness; suitability";n2
-手元;temoto;"at hand; on hand; nearby; close at hand; way of moving one’s arms; skill; money at hand; pocket money";n2
+抵抗感;teikoukan;antipathy, reluctance, resistance;n2
+提供;teikyou;offer, tender, providing, supplying, making available, donating (blood, organs, etc.), sponsoring (a TV program);n2
+定年;teinen;retirement age, years of service in a military rank before eligibility for promotion;n2
+手入れ;teire;care, looking after, repair, maintenance, tending, trimming, grooming, (police) raid, crackdown;n2
+停止;teishi;stoppage, coming to a stop, halt, standstill, ceasing (movement, activity, etc.), suspension (of operations), interruption (e.g. of electricity supply), cutting off;n2
+的確;tekikaku;precise, accurate, appropriate, exactly the right;n2
+適性;tekisei;aptitude, aptness, suitability;n2
+手元;temoto;at hand, on hand, nearby, close at hand, way of moving one’s arms, skill, money at hand, pocket money;n2
 店長;tenchou;shop manager;n2
-展示;tenji;"exhibition; display";n2
-転換;tenkan;"conversion; diversion; changeover; commutation; switchover";n2
-点検;tenken;"inspection; examination; checking";n2
-転勤;tenkin;"job transfer; job relocation; intra-company transfer";n2
+展示;tenji;exhibition, display;n2
+転換;tenkan;conversion, diversion, changeover, commutation, switchover;n2
+点検;tenken;inspection, examination, checking;n2
+転勤;tenkin;job transfer, job relocation, intra-company transfer;n2
 転校;tenkou;changing schools;n2
-天候不順;tenkoufujun;"unseasonable weather; fickle weather; bad weather";n2
-転校生;tenkousei;"transfer student; student changing schools";n2
-添付;tenpu;"attaching (documents, etc.); appending; affixing";n2
-手作業;tesagyou;"manual labor; manual procedures";n2
-訂正;teisei;"correction; revision; amendment";n2
-転職;tenshoku;"change of occupation; career change";n2
-天才;tenzai;"genius; prodigy; natural gift";n2
-手数料;tesuuryou;"handling charge; commission";n2
-手続き;tetsuzuki;"procedure; process; proceedings; formalities";n2
-飛び散る;tobichiru;"to fly around; to scatter";n2
-飛び回る;tobimawaru;"to fly about; to skip about; to bustle about";n2
-乏しい;toboshii;"meagre; meager; scarce; limited; destitute; hard up; lacking; scanty; poor";n2
-問い合わせ;toiawase;"enquiry; inquiry; query; interrogation";n2
-問い合わせる;toiawaseru;"to enquire; to inquire; to seek information";n2
-閉じこもる;tojikomoru;"to seclude oneself; to shut oneself away";n2
-問いかける;toikakeru;"to ask a question; to begin to ask a question";n2
-溶かす;tokasu;"to dissolve; to melt";n2
-特効薬;tokkouyaku;"specific medicine; wonder drug; silver bullet";n2
-特色;tokushoku;"characteristic; feature; idiosyncrasy; personal color";n2
-特殊;tokushu;"special; particular; peculiar; unique";n2
-特集;tokushuu;"feature (e.g. newspaper); special edition; report";n2
-特定;tokutei;"specific; particular; designated; special; specifying; designating; identifying; pinpointing";n2
-得点;tokuten;"scoring; score; points made; marks obtained; goals; runs";n2
-共働き;tomobataraki;"(husband and wife) both working; dual income";n2
-伴う;tomonau;"to accompany; to go hand in hand with; to be consequent upon; to be accompanied by; to bring with; to take with; to be involved in";n2
-遠回り;toomawari;"detour; roundabout way";n2
-取扱;toriatsukai;"treatment; service; handling; management";n2
-取り入れる;toriireru;"to harvest; to reap; to take in; to gather in; to adopt (e.g. idea); to accept (e.g. advice); to introduce";n2
-取り組み;torikumi;"bout (in sports, etc.); match; effort; initiative; dealing with; grappling with; wrestling with";n2
-取り込む;torikomu;"to take in; to bring in; to adopt (e.g. behaviour); to introduce; to win over; to please; to curry favour with; to flatter";n2
-取り消し;torikeshi;"cancellation; withdrawal; abolition; revocation; cancel";n2
-取り組む;torikumu;"to grapple with; to wrestle with; to engage in a bout; to be matched against; to tackle (e.g. a problem); to come to grips with; to work hard on";n2
-取り除く;torinozoku;"to remove; to deinstall; to take away; to set apart";n2
-取り付く;toritsuku;"to cling to; to hold on to; to hold fast to; to set about doing; to begin; to commence; to undertake";n2
-取り寄せる;toriyoseru;"to order; to send away for; to have (something) sent to one";n2
-都心;toshin;"city centre (center) (esp. capital city); urban centre; heart of city a metropolis";n2
-年取る;toshitoru;"to grow old; to age";n2
-年上;toshiue;"older; senior";n2
-整う;totonou;"to be ready; to be prepared; to be arranged; to be in order; to be put in order; to be well-ordered; to be well-proportioned; to be harmonious; to be adjusted; to be regulated; to be refined (e.g. of a face)";n2
-取っ手;totte;"handle; grip; knob";n2
-逃亡;toubou;"escape; flight; running away; elopement; fleeing";n2
-当分;toubun;"for the present; for the time being";n2
-逃避;touhi;"escape; evasion; flight";n2
-統一;touitsu;"unity; consolidation; uniformity; unification; compatible";n2
-登場;toujou;"entry (on stage); appearance (on screen); entrance; introduction (into a market)";n2
+天候不順;tenkoufujun;unseasonable weather, fickle weather, bad weather;n2
+転校生;tenkousei;transfer student, student changing schools;n2
+添付;tenpu;attaching (documents, etc.), appending, affixing;n2
+手作業;tesagyou;manual labor, manual procedures;n2
+訂正;teisei;correction, revision, amendment;n2
+転職;tenshoku;change of occupation, career change;n2
+天才;tenzai;genius, prodigy, natural gift;n2
+手数料;tesuuryou;handling charge, commission;n2
+手続き;tetsuzuki;procedure, process, proceedings, formalities;n2
+飛び散る;tobichiru;to fly around, to scatter;n2
+飛び回る;tobimawaru;to fly about, to skip about, to bustle about;n2
+乏しい;toboshii;meagre, meager, scarce, limited, destitute, hard up, lacking, scanty, poor;n2
+問い合わせ;toiawase;enquiry, inquiry, query, interrogation;n2
+問い合わせる;toiawaseru;to enquire, to inquire, to seek information;n2
+閉じこもる;tojikomoru;to seclude oneself, to shut oneself away;n2
+問いかける;toikakeru;to ask a question, to begin to ask a question;n2
+溶かす;tokasu;to dissolve, to melt;n2
+特効薬;tokkouyaku;specific medicine, wonder drug, silver bullet;n2
+特色;tokushoku;characteristic, feature, idiosyncrasy, personal color;n2
+特殊;tokushu;special, particular, peculiar, unique;n2
+特集;tokushuu;feature (e.g. newspaper), special edition, report;n2
+特定;tokutei;specific, particular, designated, special, specifying, designating, identifying, pinpointing;n2
+得点;tokuten;scoring, score, points made, marks obtained, goals, runs;n2
+共働き;tomobataraki;(husband and wife) both working, dual income;n2
+伴う;tomonau;to accompany, to go hand in hand with, to be consequent upon, to be accompanied by, to bring with, to take with, to be involved in;n2
+遠回り;toomawari;detour, roundabout way;n2
+取扱;toriatsukai;treatment, service, handling, management;n2
+取り入れる;toriireru;to harvest, to reap, to take in, to gather in, to adopt (e.g. idea), to accept (e.g. advice), to introduce;n2
+取り組み;torikumi;bout (in sports, etc.), match, effort, initiative, dealing with, grappling with, wrestling with;n2
+取り込む;torikomu;to take in, to bring in, to adopt (e.g. behaviour), to introduce, to win over, to please, to curry favour with, to flatter;n2
+取り消し;torikeshi;cancellation, withdrawal, abolition, revocation, cancel;n2
+取り組む;torikumu;to grapple with, to wrestle with, to engage in a bout, to be matched against, to tackle (e.g. a problem), to come to grips with, to work hard on;n2
+取り除く;torinozoku;to remove, to deinstall, to take away, to set apart;n2
+取り付く;toritsuku;to cling to, to hold on to, to hold fast to, to set about doing, to begin, to commence, to undertake;n2
+取り寄せる;toriyoseru;to order, to send away for, to have (something) sent to one;n2
+都心;toshin;city centre (center) (esp. capital city), urban centre, heart of city a metropolis;n2
+年取る;toshitoru;to grow old, to age;n2
+年上;toshiue;older, senior;n2
+整う;totonou;to be ready, to be prepared, to be arranged, to be in order, to be put in order, to be well-ordered, to be well-proportioned, to be harmonious, to be adjusted, to be regulated, to be refined (e.g. of a face);n2
+取っ手;totte;handle, grip, knob;n2
+逃亡;toubou;escape, flight, running away, elopement, fleeing;n2
+当分;toubun;for the present, for the time being;n2
+逃避;touhi;escape, evasion, flight;n2
+統一;touitsu;unity, consolidation, uniformity, unification, compatible;n2
+登場;toujou;entry (on stage), appearance (on screen), entrance, introduction (into a market);n2
 統計;toukei;statistics;n2
-陶器;touki;"porcelain (esp. soft-paste porcelain); china; chinaware; earthenware; pottery; ceramics; crockery";n2
-登校;toukou;"attendance (at school); going to school";n2
-透明;toumei;"transparent; clear";n2
-登録;touroku;"registration; accession; register; entry; record";n2
-討論;touron;"debate; discussion";n2
-到達;toutatsu;"reaching; attaining; arrival";n2
-到底;toutei;"by no means; not at all; (cannot) possibly; utterly; absolutely";n2
-取り上げる;toriageru;"to pick up; to adopt (e.g. a proposal); to accept; to take up (a topic, complaint, etc.); to listen to; to deal with; to feature";n2
-取り掛かる;torikakaru;"to begin; to set about; to start";n2
-取り戻す;torimodosu;"to take back; to regain; to get back; to recover";n2
-登山家;tozanka;"mountain climber; mountaineer";n2
-潰す;tsubusu;"to smash; to crush; to flatten; to kill (time); to while away (the time)";n2
-呟く;tsubuyaku;"to mutter; to murmur; to grumble";n2
-追加;tsuika;"addition; supplement; appending; appendix";n2
-追求;tsuikyuu;"pursuit (of a goal, ideal, etc.); search; chase; seeking after";n2
-追及;tsuikyuu;"investigation (e.g. into someone’s guilt); questioning; pressing; hounding; pinning down; catching up; overtaking";n2
-使い分ける;tsukaiwakeru;"to use properly; to use (different things) for different purposes";n2
+陶器;touki;porcelain (esp. soft-paste porcelain), china, chinaware, earthenware, pottery, ceramics, crockery;n2
+登校;toukou;attendance (at school), going to school;n2
+透明;toumei;transparent, clear;n2
+登録;touroku;registration, accession, register, entry, record;n2
+討論;touron;debate, discussion;n2
+到達;toutatsu;reaching, attaining, arrival;n2
+到底;toutei;by no means, not at all, (cannot) possibly, utterly, absolutely;n2
+取り上げる;toriageru;to pick up, to adopt (e.g. a proposal), to accept, to take up (a topic, complaint, etc.), to listen to, to deal with, to feature;n2
+取り掛かる;torikakaru;to begin, to set about, to start;n2
+取り戻す;torimodosu;to take back, to regain, to get back, to recover;n2
+登山家;tozanka;mountain climber, mountaineer;n2
+潰す;tsubusu;to smash, to crush, to flatten, to kill (time), to while away (the time);n2
+呟く;tsubuyaku;to mutter, to murmur, to grumble;n2
+追加;tsuika;addition, supplement, appending, appendix;n2
+追求;tsuikyuu;pursuit (of a goal, ideal, etc.), search, chase, seeking after;n2
+追及;tsuikyuu;investigation (e.g. into someone’s guilt), questioning, pressing, hounding, pinning down, catching up, overtaking;n2
+使い分ける;tsukaiwakeru;to use properly, to use (different things) for different purposes;n2
 付け加え;tsukekuwae;addition (to something);n2
-付け加える;tsukekuwaeru;"to add (one thing to another); to add (a few more words, an explanation, etc.)";n2
-作り上げる;tsukuriageru;"to build up; to complete; to construct; to create; to invent; to cook up";n2
-つまずく: to stumble; to trip; to fail;n2
-積み重なる;tsumikasanaru;"to pile up; to stack up; to accumulate";n2
-積み重ねる;tsumikasaneru;"to pile up; to accumulate";n2
-積む;tsumu;"to pile up; to stack; to load (car, ship, etc.); to pack; to acquire; to accumulate";n2
-繋がる;tsunagaru;"to be tied together; to be connected to; to be linked to; to lead to; to be related to";n2
-努める;tsutomeru;"to endeavor (endeavour); to try; to strive; to make an effort; to exert oneself; to be diligent; to be committed (to doing something)";n2
-通知;tsuuchi;"notice; notification; report; posting";n2
-通常;tsuujou;"usual; ordinary; normal; regular; general; common";n2
-通路;tsuuro;"passage; pathway; roadway; avenue; aisle";n2
-通信販売;tsuushinhanbai;"mail order; mail-order sales; shop-by-mail service; on-line shopping service (with delivery by mail)";n2
-通用;tsuuyou;"popular use; circulation; to pass as; to pass for";n2
-強火;tsuyobi;"high flame (cooking); high heat; strong heat";n2
-強気;tsuyoki;"confident; assured; self-assured; firm; strong; cocksure";n2
-強める;tsuyomeru;"to strengthen; to emphasize; to emphasise";n2
-強み;tsuyomi;"forte; strong point";n2
-打ち明ける;uchiakeru;"to confide; to reveal; to disclose; to lay bare; to speak frankly; to open (one’s heart)";n2
-打ち合わせ;uchiawase;"advance arrangements; preparatory meeting; briefing session";n2
-内側;uchigawa;"inside; interior; inner part";n2
-打ち消す;uchikesu;"to deny; to contradict; to negate (esp. a sound); to drown out";n2
-宇宙人;uchuujin;"space alien; alien; extraterrestrial being";n2
-動き;ugoki;"movement; move; motion; trend; development; change; fluctuation";n2
-浮かぶ;ukabu;"to float; to be suspended; to rise to surface; to come to mind; to have inspiration";n2
-受け入れる;ukeireru;"to accept; to receive; to agree";n2
-受け答え;ukekotae;"reply; response; answer";n2
-埋め込む;umekomu;"to bury; to embed; to implant";n2
-有無;umu;"existence or nonexistence; presence or absence; consent or refusal; yes or no";n2
+付け加える;tsukekuwaeru;to add (one thing to another), to add (a few more words, an explanation, etc.);n2
+作り上げる;tsukuriageru;to build up, to complete, to construct, to create, to invent, to cook up;n2
+積み重なる;tsumikasanaru;to pile up, to stack up, to accumulate;n2
+積み重ねる;tsumikasaneru;to pile up, to accumulate;n2
+積む;tsumu;to pile up, to stack, to load (car, ship, etc.), to pack, to acquire, to accumulate;n2
+繋がる;tsunagaru;to be tied together, to be connected to, to be linked to, to lead to, to be related to;n2
+努める;tsutomeru;to endeavor (endeavour), to try, to strive, to make an effort, to exert oneself, to be diligent, to be committed (to doing something);n2
+通知;tsuuchi;notice, notification, report, posting;n2
+通常;tsuujou;usual, ordinary, normal, regular, general, common;n2
+通路;tsuuro;passage, pathway, roadway, avenue, aisle;n2
+通信販売;tsuushinhanbai;mail order, mail-order sales, shop-by-mail service, on-line shopping service (with delivery by mail);n2
+通用;tsuuyou;popular use, circulation, to pass as, to pass for;n2
+強火;tsuyobi;high flame (cooking), high heat, strong heat;n2
+強気;tsuyoki;confident, assured, self-assured, firm, strong, cocksure;n2
+強める;tsuyomeru;to strengthen, to emphasize, to emphasise;n2
+強み;tsuyomi;forte, strong point;n2
+打ち明ける;uchiakeru;to confide, to reveal, to disclose, to lay bare, to speak frankly, to open (one’s heart);n2
+打ち合わせ;uchiawase;advance arrangements, preparatory meeting, briefing session;n2
+内側;uchigawa;inside, interior, inner part;n2
+打ち消す;uchikesu;to deny, to contradict, to negate (esp. a sound), to drown out;n2
+宇宙人;uchuujin;space alien, alien, extraterrestrial being;n2
+動き;ugoki;movement, move, motion, trend, development, change, fluctuation;n2
+浮かぶ;ukabu;to float, to be suspended, to rise to surface, to come to mind, to have inspiration;n2
+受け入れる;ukeireru;to accept, to receive, to agree;n2
+受け答え;ukekotae;reply, response, answer;n2
+埋め込む;umekomu;to bury, to embed, to implant;n2
+有無;umu;existence or nonexistence, presence or absence, consent or refusal, yes or no;n2
 運が良い;un ga yoi;lucky;n2
-促す;unagasu;"to urge; to encourage; to press; to prompt; to draw (attention to); to stimulate (e.g. growth); to hasten (e.g. development); to quicken; to accelerate; to promote";n2
-うなずく: to nod; to bow one’s head in assent; to agree;n2
-運賃;unchin;"(passenger) fare; freight rates; shipping expenses";n2
-運営;un’ei;"management; administration; operation";n2
-運送;unsou;"transport; freight; shipping";n2
-占う;uranau;"to tell someone’s fortune; to forecast; to predict; to divine";n2
-売れ行き;ureyuki;"sales; demand";n2
-売り上げ;uriage;"amount sold; sales; proceeds; takings; turnover";n2
+促す;unagasu;to urge, to encourage, to press, to prompt, to draw (attention to), to stimulate (e.g. growth), to hasten (e.g. development), to quicken, to accelerate, to promote;n2
+運賃;unchin;(passenger) fare, freight rates, shipping expenses;n2
+運営;un’ei;management, administration, operation;n2
+運送;unsou;transport, freight, shipping;n2
+占う;uranau;to tell someone’s fortune, to forecast, to predict, to divine;n2
+売れ行き;ureyuki;sales, demand;n2
+売り上げ;uriage;amount sold, sales, proceeds, takings, turnover;n2
 売り切れ;urikire;sold-out;n2
-うろうろ: restlessly; aimlessly; without purpose;n2
-薄暗い;usugurai;"dim; gloomy";n2
-薄れる;usureru;"to fade; to become dim";n2
+薄暗い;usugurai;dim, gloomy;n2
+薄れる;usureru;to fade, to become dim;n2
 雨天;uten;rainy weather;n2
-うとうと: falling into a doze; dozing off; nodding off;n2
-うつむく: to hang one’s head; to look down; to cast one’s eyes downward;n2
-移し替える;utsushikaeru;"to shift something to; to move something into; to transfer; to transplant; to transpose; to exchange; to displace";n2
-映る;utsuru;"to be reflected; to harmonize with (harmonise); to come out (photo); to be projected; to be displayed (on a screen)";n2
-器;utsuwa;"bowl; vessel; container; ability; capacity; calibre; caliber";n2
-上回る;uwamawaru;"to exceed (esp. figures: profits, unemployment rate, etc.); to surpass; to be more than; to be better than";n2
+移し替える;utsushikaeru;to shift something to, to move something into, to transfer, to transplant, to transpose, to exchange, to displace;n2
+映る;utsuru;to be reflected, to harmonize with (harmonise), to come out (photo), to be projected, to be displayed (on a screen);n2
+器;utsuwa;bowl, vessel, container, ability, capacity, calibre, caliber;n2
+上回る;uwamawaru;to exceed (esp. figures: profits, unemployment rate, etc.), to surpass, to be more than, to be better than;n2
 和風;wafuu;Japanese style;n2
-わがまま: selfish; egoist;" self-indulgent; wilful; willful";n2
-分かれる;wakareru;"to separate; to split; to divide; to disperse; to scatter";n2
-若々しい;wakawakashii;"youthful; young; young-looking";n2
-湧く;waku;"to well (up); to gush forth (of water); to spring out; to surge; to appear (esp. suddenly) (sweat, tears, etc.)";n2
-枠組み;wakugumi;"frame; framework; outline";n2
-割り込む;warikomu;"to cut into (a line, conversation, etc.); to force oneself into (e.g. a crowd); to wedge oneself into; to squeeze oneself into; to intrude on; to interrupt";n2
-脇道;wakimichi;"side road; byroad";n2
-悪者;warumono;"bad fellow; rascal; ruffian; scoundrel";n2
-和食;washoku;"Japanese food; Japanese-style meal; Japanese cuisine";n2
-忘れ去る;wasuresaru;"to forget completely; to leave behind";n2
-破れる;yabureru;"to get torn; to tear; to rip; to break; to wear out; to collapse; to fall into ruin";n2
-敗れる;yabureru;"to be defeated; to be beaten; to be unsuccessful; to lose";n2
-喧しい;yakamashii;"noisy; loud; clamorous; boisterous; much talked of; much-discussed; vexed";n2
+分かれる;wakareru;to separate, to split, to divide, to disperse, to scatter;n2
+若々しい;wakawakashii;youthful, young, young-looking;n2
+湧く;waku;to well (up), to gush forth (of water), to spring out, to surge, to appear (esp. suddenly) (sweat, tears, etc.);n2
+枠組み;wakugumi;frame, framework, outline;n2
+割り込む;warikomu;to cut into (a line, conversation, etc.), to force oneself into (e.g. a crowd), to wedge oneself into, to squeeze oneself into, to intrude on, to interrupt;n2
+脇道;wakimichi;side road, byroad;n2
+悪者;warumono;bad fellow, rascal, ruffian, scoundrel;n2
+和食;washoku;Japanese food, Japanese-style meal, Japanese cuisine;n2
+忘れ去る;wasuresaru;to forget completely, to leave behind;n2
+破れる;yabureru;to get torn, to tear, to rip, to break, to wear out, to collapse, to fall into ruin;n2
+敗れる;yabureru;to be defeated, to be beaten, to be unsuccessful, to lose;n2
+喧しい;yakamashii;noisy, loud, clamorous, boisterous, much talked of, much-discussed, vexed;n2
 夜勤;yakin;night shift;n2
-薬品;yakuhin;"medicine; chemicals";n2
-役目;yakume;"duty; role; function";n2
-約束事;yakusokugoto;"promise; vow; engagement; convention; rule; resolution";n2
-やむを得ない;yamu o enai;"cannot be helped; unavoidable";n2
+薬品;yakuhin;medicine, chemicals;n2
+役目;yakume;duty, role, function;n2
+約束事;yakusokugoto;promise, vow, engagement, convention, rule, resolution;n2
+やむを得ない;yamu o enai;cannot be helped, unavoidable;n2
 やり甲斐;yarigai;being worth doing;n2
-養う;yashinau;"to support; to maintain; to provide for; to bring up; to raise; to rear; to feed; to cultivate (a habit, a quality, etc.); to develop; to build up; to foster";n2
+養う;yashinau;to support, to maintain, to provide for, to bring up, to raise, to rear, to feed, to cultivate (a habit, a quality, etc.), to develop, to build up, to foster;n2
 安値;yasune;low price;n2
-屋台;yatai;"cart (esp. a food cart); stall; stand";n2
-野党;yatou;"opposition party; political opposition; opposition";n2
-呼びかける;yobikakeru;"to call out to; to hail; to address; to appeal";n2
-呼び止める;yobitomeru;"to challenge; to call somebody to halt";n2
-予感;yokan;"presentiment; premonition; hunch";n2
-欲求;yokkyuu;"desire; want; will; wish; urge; craving";n2
-欲張り;yokubari;"greed; avarice; covetousness; greedy person";n2
-欲張る;yokubaru;"to covet; to lust for";n2
-読み込む;yomikomu;"to read thoroughly; to read repeatedly; to read (extra meaning) into (something)";n2
+屋台;yatai;cart (esp. a food cart), stall, stand;n2
+野党;yatou;opposition party, political opposition, opposition;n2
+呼びかける;yobikakeru;to call out to, to hail, to address, to appeal;n2
+呼び止める;yobitomeru;to challenge, to call somebody to halt;n2
+予感;yokan;presentiment, premonition, hunch;n2
+欲求;yokkyuu;desire, want, will, wish, urge, craving;n2
+欲張り;yokubari;greed, avarice, covetousness, greedy person;n2
+欲張る;yokubaru;to covet, to lust for;n2
+読み込む;yomikomu;to read thoroughly, to read repeatedly, to read (extra meaning) into (something);n2
 読み手;yomite;reader (person);n2
-読み取る;yomitoru;"to read and understand; to take in; to sense from external cues; to read (someone’s) mind";n2
-よっぽど: very; greatly;" much; to a large extent; quite";n2
-寄り道;yorimichi;"dropping in on the way; stopping off at; making a side trip; going the long way round; making a detour";n2
+読み取る;yomitoru;to read and understand, to take in, to sense from external cues, to read (someone’s) mind;n2
+寄り道;yorimichi;dropping in on the way, stopping off at, making a side trip, going the long way round, making a detour;n2
 夜型;yorugata;nocturnal (person);n2
-夜遅く;yoruosoku;"late at night; at a late hour";n2
-予選;yosen;"preliminary contest; qualifying round; trial; heat; primary";n2
-寄せる;yoseru;"to come near; to let someone approach; to bring near; to bring together; to collect; to gather; to press; to push; to force";n2
-予定表;yoteihyou;"schedule; program; programme; itinerary";n2
-幼稚;youchi;"infancy; childish; infantile; immature; primitive";n2
+夜遅く;yoruosoku;late at night, at a late hour;n2
+予選;yosen;preliminary contest, qualifying round, trial, heat, primary;n2
+寄せる;yoseru;to come near, to let someone approach, to bring near, to bring together, to collect, to gather, to press, to push, to force;n2
+予定表;yoteihyou;schedule, program, programme, itinerary;n2
+幼稚;youchi;infancy, childish, infantile, immature, primitive;n2
 幼稚園;youchien;kindergarten;n2
-用具;yougu;"tool; implement; instrument; equipment";n2
-用品;youhin;"articles; supplies; parts";n2
-要因;youin;"main cause; primary factor";n2
-要件;youken;"important matter; requirement; requisite; necessary condition; sine qua non";n2
-用件;youken;"business; thing to be done; something that should be performed; information that should be conveyed";n2
-容量;youryou;"capacity; volume";n2
-養成;yousei;"training; education; development; cultivation";n2
-容姿;youshi;"(physical) appearance (of a person); one’s face and figure";n2
-要旨;youshi;"point; essentials; gist; summary; fundamentals";n2
-様式;youshiki;"style; form; pattern";n2
-要所;yousho;"important point; important position";n2
-用途;youto;"use; service; purpose";n2
-弱気;yowaki;"timid; weak-kneed; fainthearted";n2
-弱まる;yowamaru;"to abate; to weaken; to be emaciated; to be dejected; to be perplexed";n2
-弱々しい;yowayowashii;"frail; slender; feminine";n2
+用具;yougu;tool, implement, instrument, equipment;n2
+用品;youhin;articles, supplies, parts;n2
+要因;youin;main cause, primary factor;n2
+要件;youken;important matter, requirement, requisite, necessary condition, sine qua non;n2
+用件;youken;business, thing to be done, something that should be performed, information that should be conveyed;n2
+容量;youryou;capacity, volume;n2
+養成;yousei;training, education, development, cultivation;n2
+容姿;youshi;(physical) appearance (of a person), one’s face and figure;n2
+要旨;youshi;point, essentials, gist, summary, fundamentals;n2
+様式;youshiki;style, form, pattern;n2
+要所;yousho;important point, important position;n2
+用途;youto;use, service, purpose;n2
+弱気;yowaki;timid, weak-kneed, fainthearted;n2
+弱まる;yowamaru;to abate, to weaken, to be emaciated, to be dejected, to be perplexed;n2
+弱々しい;yowayowashii;frail, slender, feminine;n2
 夜空;yozora;night sky;n2
 指差す;yubisasu;to point at;n2
-油断;yudan;"negligence; carelessness; inattention; unpreparedness";n2
+油断;yudan;negligence, carelessness, inattention, unpreparedness;n2
 行方;yukue;(one’s) whereabouts;n2
-緩やか;yuruyaka;"loose; slack; gentle (slope, curve); slow (speed)";n2
-ゆったり: comfortable; easy;" calm; relaxed; loose; spacious";n2
-有害;yuugai;"harmful; hazardous";n2
-有限;yuugen;"finite; limited";n2
-夕日;yuuhi;"evening sun; setting sun";n2
-有意義;yuuigi;"significant; useful; meaningful; worthwhile; valuable; of interest";n2
-有人;yuujin;"manned; occupied; piloted";n2
-有給;yuukyuu;"salaried; with pay";n2
-有力;yuuryoku;"influential; prominent; strong; likely; plausible; potent";n2
-有力者;yuuryokusha;"influential person; man of importance";n2
-優良;yuuryou;"superior; excellent; fine";n2
-優先;yuusen;"preference; priority; precedence";n2
-郵送;yuusou;"mailing; posting";n2
-憂鬱;yuuutsu;"depression; melancholy; dejection; gloom; despondency";n2
-在学;zaigaku;"attending (school, college, etc.); being enrolled; being a student";n2
-在籍;zaiseki;"being enrolled (at a school); being registered; being a member (of a team, organization, etc.)";n2
-材質;zaishitsu;"material; material properties; quality of material";n2
-残業代;zangyoudai;"overtime pay; overtime money; overtime payment";n2
+緩やか;yuruyaka;loose, slack, gentle (slope, curve), slow (speed);n2
+有害;yuugai;harmful, hazardous;n2
+有限;yuugen;finite, limited;n2
+夕日;yuuhi;evening sun, setting sun;n2
+有意義;yuuigi;significant, useful, meaningful, worthwhile, valuable, of interest;n2
+有人;yuujin;manned, occupied, piloted;n2
+有給;yuukyuu;salaried, with pay;n2
+有力;yuuryoku;influential, prominent, strong, likely, plausible, potent;n2
+有力者;yuuryokusha;influential person, man of importance;n2
+優良;yuuryou;superior, excellent, fine;n2
+優先;yuusen;preference, priority, precedence;n2
+郵送;yuusou;mailing, posting;n2
+憂鬱;yuuutsu;depression, melancholy, dejection, gloom, despondency;n2
+在学;zaigaku;attending (school, college, etc.), being enrolled, being a student;n2
+在籍;zaiseki;being enrolled (at a school), being registered, being a member (of a team, organization, etc.);n2
+材質;zaishitsu;material, material properties, quality of material;n2
+残業代;zangyoudai;overtime pay, overtime money, overtime payment;n2
 雑草;zassou;weed;n2
-雑談;zatsudan;"chatting; idle talk";n2
-ざわざわ: noisily;e.g. from many people talking);" creating a commotion; rustling (leaves); feeling a chill; getting the chills";n2
-税関;zeikan;"customs; customs house";n2
-税込;zeikomi;"tax included (e.g. price); before tax (e.g. salary)";n2
-全額;zengaku;"total; full amount; sum";n2
+雑談;zatsudan;chatting, idle talk;n2
+税関;zeikan;customs, customs house;n2
+税込;zeikomi;tax included (e.g. price), before tax (e.g. salary);n2
+全額;zengaku;total, full amount, sum;n2
 前半;zenhan;first half;n2
-全面;zenmen;"whole surface; entire";n2
-全般;zenpan;"(the) whole; entirety; wholly; as a whole; generally; universally";n2
-前回;zenkai;"previous time; last time; previous installment; previous instalment; previous session";n2
-全面的;zenmenteki;"total; complete; all-out; general; extensive; full-scale";n2
-全力;zenryoku;"all one’s power (strength, energy, efforts); one’s utmost";n2
-前提;zentei;"condition; assumption; prerequisite; hypothesis";n2
+全面;zenmen;whole surface, entire;n2
+全般;zenpan;(the) whole, entirety, wholly, as a whole, generally, universally;n2
+前回;zenkai;previous time, last time, previous installment, previous instalment, previous session;n2
+全面的;zenmenteki;total, complete, all-out, general, extensive, full-scale;n2
+全力;zenryoku;all one’s power (strength, energy, efforts), one’s utmost;n2
+前提;zentei;condition, assumption, prerequisite, hypothesis;n2
 沿い;zoi;(suffix) along;n2
-続行;zokkou;"continuation; continuance; going on; resuming";n2
-続出;zokushutsu;"appearing one after another; cropping up one after another; occurring in succession";n2
-属する;zokusuru;"to belong to; to come under; to be affiliated with; to be subject to";n2
-続々;zokuzoku;"successively; one after another";n2
-存分;zonbun;"to one’s heart’s content; as much as one wants";n2
-増大;zoudai;"enlargement; increase";n2
-増減;zougen;"increase and decrease; fluctuation";n2
-図表;zuhyou;"chart; diagram; graph; figure";n2
-漬け;zuke;"(suffix) pickled in (something); preserved in; dipped in";n2
-頭脳;zunou;"head; brains";n2
-滑らす;zurasu;"to shift; to slide (e.g. something away from something else); to move (e.g. something out of the way); to put off; to delay; to postpone; to stagger (e.g. working hours)";n2
-図々しい;zuuzuushii;"impudent; shameless; brazen; forward; audacious; cheeky";n2
+続行;zokkou;continuation, continuance, going on, resuming;n2
+続出;zokushutsu;appearing one after another, cropping up one after another, occurring in succession;n2
+属する;zokusuru;to belong to, to come under, to be affiliated with, to be subject to;n2
+続々;zokuzoku;successively, one after another;n2
+存分;zonbun;to one’s heart’s content, as much as one wants;n2
+増大;zoudai;enlargement, increase;n2
+増減;zougen;increase and decrease, fluctuation;n2
+図表;zuhyou;chart, diagram, graph, figure;n2
+漬け;zuke;(suffix) pickled in (something), preserved in, dipped in;n2
+頭脳;zunou;head, brains;n2
+滑らす;zurasu;to shift, to slide (e.g. something away from something else), to move (e.g. something out of the way), to put off, to delay, to postpone, to stagger (e.g. working hours);n2
+図々しい;zuuzuushii;impudent, shameless, brazen, forward, audacious, cheeky;n2
 赤字;akaji;deficit;n1
 悪事;akuji;evil deed, crime;n1
 圧倒;attou;overwhelm, overpower;n1

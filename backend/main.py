@@ -56,3 +56,10 @@ async def get_user(user: schemas.User = _fastapi.Depends(services.get_current_us
 @app.get("/api")
 async def root():
     return {"message": "awesome Kanji app"}
+
+
+@app.get("/vocabulary/{level}/{learnign_type}")
+async def get_vocab(level,learnign_type, db: orm.Session = _fastapi.Depends(services.get_db)):
+
+    result = await services.get_vocabulary_by_level(level, learnign_type, db)
+    return result

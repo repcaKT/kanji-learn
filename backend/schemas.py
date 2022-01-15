@@ -25,6 +25,7 @@ class _VocabularyBase(BaseModel):
     reading: str
     translation: str
     level: str
+    times_learned: int
 
 class VocabCreate(_VocabularyBase):
     user_id: int

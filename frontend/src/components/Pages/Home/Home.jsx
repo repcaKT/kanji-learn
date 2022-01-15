@@ -59,14 +59,20 @@ const Home = ({ fetchQuestions }) => {
             onChange={(e) => setDifficulty(e.target.value)}
             value={difficulty}
           >
-            <MenuItem key="Easy" value="easy">
-              Easy
+            <MenuItem key="N5" value="n5">
+              N5
             </MenuItem>
-            <MenuItem key="Medium" value="medium">
-              Medium
+            <MenuItem key="N4" value="n4">
+              N4
             </MenuItem>
-            <MenuItem key="Hard" value="hard">
-              Hard
+            <MenuItem key="N3" value="n3">
+              N3
+            </MenuItem>
+            <MenuItem key="N2" value="n2">
+              N2
+            </MenuItem>
+            <MenuItem key="N1" value="n1">
+              N1
             </MenuItem>
           </TextField>
 

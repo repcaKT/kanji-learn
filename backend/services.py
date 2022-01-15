@@ -2,6 +2,7 @@ from typing_extensions import final
 import fastapi
 import jwt
 from sqlalchemy.orm.session import Session
+from sqlalchemy.sql.expression import func
 from sqlalchemy.sql.functions import mode
 import database as local_db
 from sqlalchemy import orm
@@ -70,3 +71,12 @@ async def get_current_user(
     except:
         raise fastapi.HTTPException(status_code=401, detail="Invalid Email or Password")
     return schemas.User.from_orm(user)
+
+async def get_vocabulary_by_level(level: int,learnign_type: str,  db: orm.Session):
+
+    result = db.query(models.Vocabulary).filter(models.Vocabulary.level == level).order_by(func.random()).limit(10).all()
+    for element in result:
+        incorrect_answers = db.query(models.Vocabulary).filter(models.Vocabulary.reading != element.reading).order_by(func.random()).limit(3).all()
+        element.__dict__["incorrect_answers"] = [answer.reading for answer in incorrect_answers]
+    
+    return {"questions":result}

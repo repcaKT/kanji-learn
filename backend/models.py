@@ -25,4 +25,5 @@ class Vocabulary(_database.Base):
     reading = sqlalchemy.Column(sqlalchemy.String(50), index=True)
     translation = sqlalchemy.Column(sqlalchemy.String(50), index=True)
     level = sqlalchemy.Column(sqlalchemy.String(16), index=True)
+    times_learned = sqlalchemy.Column(sqlalchemy.Integer, index=True)
     user_id = sqlalchemy.Column(sqlalchemy.Integer, sqlalchemy.ForeignKey('users.id'))
