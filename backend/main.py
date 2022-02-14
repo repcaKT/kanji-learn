@@ -7,7 +7,9 @@ from sqlalchemy.sql.functions import user
 import database as local_db
 from fastapi.middleware.cors import CORSMiddleware
 
-
+import httpx
+import asyncio
+import urllib.request, json 
 import services
 import schemas
 
@@ -60,6 +62,6 @@ async def root():
 
 @app.get("/vocabulary/{level}/{learnign_type}")
 async def get_vocab(level,learnign_type, db: orm.Session = _fastapi.Depends(services.get_db)):
-
-    result = await services.get_vocabulary_by_level(level, learnign_type, db)
+    result = await services.get_vocabulary_by_level(level, learnign_type, db, 1)
     return result
+

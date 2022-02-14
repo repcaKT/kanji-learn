@@ -72,11 +72,10 @@ async def get_current_user(
         raise fastapi.HTTPException(status_code=401, detail="Invalid Email or Password")
     return schemas.User.from_orm(user)
 
-async def get_vocabulary_by_level(level: int,learnign_type: str,  db: orm.Session):
-
+async def get_vocabulary_by_level(level: int,learnign_type: str,  db: orm.Session, user_id: int):
     result = db.query(models.Vocabulary).filter(models.Vocabulary.level == level).order_by(func.random()).limit(10).all()
     for element in result:
         incorrect_answers = db.query(models.Vocabulary).filter(models.Vocabulary.reading != element.reading).order_by(func.random()).limit(3).all()
-        element.__dict__["incorrect_answers"] = [answer.reading for answer in incorrect_answers]
+        element.__dict__[f"{user_id}incorrect_answers"] = [answer.reading for answer in incorrect_answers]
     
     return {"questions":result}
