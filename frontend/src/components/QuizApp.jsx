@@ -1,12 +1,24 @@
 import "./QuizApp.css";
+import axios from "axios";
 import Header from "./Header/Header";
 import Footer from "./Footer/Footer";
 import Home from "./Pages/Home/Home";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Quiz from "./Pages/Quiz/Quiz";
 import Result from "./Pages/Result/Result";
+import { useState } from "react";
 function QuizApp() {
-  const fetchQuestions = () => {};
+  const [questions, setQuestions] = useState();
+  const [score, setScore] = useState(0);
+  var userID = localStorage.getItem("id");
+  var userNickname = localStorage.getItem("nickname");
+  const fetchQuestions = async (category = "", difficulty = "") => {
+    const { data } = await axios.get(
+      `http://127.0.0.1:8000/quiz/${difficulty}/${category}/${userID}`
+    );
+
+    setQuestions(data.questions);
+  };
 
   return (
     <BrowserRouter>
@@ -14,7 +26,18 @@ function QuizApp() {
         {/* <Header /> */}
         <Routes>
           <Route path="/" element={<Home fetchQuestions={fetchQuestions} />} />
-          <Route path="/quiz" element={<Quiz />} />
+          <Route
+            path="/quiz"
+            element={
+              <Quiz
+                name={userNickname}
+                questions={questions}
+                score={score}
+                setScore={setScore}
+                setQuestions={setQuestions}
+              />
+            }
+          />
           <Route path="/result" element={<Result />} />
         </Routes>
       </div>

@@ -60,8 +60,8 @@ async def root():
     return {"message": "awesome Kanji app"}
 
 
-@app.get("/vocabulary/{level}/{learnign_type}")
-async def get_vocab(level,learnign_type, db: orm.Session = _fastapi.Depends(services.get_db)):
-    result = await services.get_vocabulary_by_level(level, learnign_type, db, 1)
+@app.get("/quiz/{level}/{learnign_type}/{user_id}")
+async def get_vocab(level,learnign_type,user_id, db: orm.Session = _fastapi.Depends(services.get_db)):
+    result = await services.get_vocabulary_by_level(level, learnign_type, db, user_id)
     return result
 

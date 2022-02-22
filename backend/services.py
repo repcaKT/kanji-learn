@@ -76,6 +76,8 @@ async def get_vocabulary_by_level(level: int,learnign_type: str,  db: orm.Sessio
     result = db.query(models.Vocabulary).filter(models.Vocabulary.level == level).order_by(func.random()).limit(10).all()
     for element in result:
         incorrect_answers = db.query(models.Vocabulary).filter(models.Vocabulary.reading != element.reading).order_by(func.random()).limit(3).all()
-        element.__dict__[f"{user_id}incorrect_answers"] = [answer.reading for answer in incorrect_answers]
+        element.__dict__["incorrect_answers"] = [answer.reading for answer in incorrect_answers]
+        element.__dict__["correct_answer"] = element.__dict__["reading"]
+    print(user_id)
     
     return {"questions":result}
