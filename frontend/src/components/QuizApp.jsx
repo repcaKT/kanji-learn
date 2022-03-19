@@ -10,6 +10,8 @@ import { useState } from "react";
 function QuizApp() {
   const [questions, setQuestions] = useState();
   const [score, setScore] = useState(0);
+  const [task, setTask] = useState();
+
   var userID = localStorage.getItem("id");
   var userNickname = localStorage.getItem("nickname");
   const fetchQuestions = async (category = "", difficulty = "") => {
@@ -18,6 +20,7 @@ function QuizApp() {
     );
 
     setQuestions(data.questions);
+    setTask(data.task);
   };
 
   return (
@@ -31,6 +34,7 @@ function QuizApp() {
             element={
               <Quiz
                 name={userNickname}
+                task={task}
                 questions={questions}
                 score={score}
                 setScore={setScore}
@@ -38,7 +42,12 @@ function QuizApp() {
               />
             }
           />
-          <Route path="/result" element={<Result />} />
+          <Route
+            path="/result"
+            element={
+              <Result score={score} questions={questions} name={userNickname} />
+            }
+          />
         </Routes>
       </div>
       <Footer />
