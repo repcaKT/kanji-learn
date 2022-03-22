@@ -43,7 +43,7 @@ function QuizApp() {
             }
           />
           <Route
-            path="/result"
+            path="/results"
             element={
               <Result score={score} questions={questions} name={userNickname} />
             }

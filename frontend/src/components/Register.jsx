@@ -1,7 +1,7 @@
 import React, { useState, useContext } from "react";
 
 import { UserContext } from "../context/UserContext";
-import ErrorMessage from "./ErrorMessage";
+import ErrorLogin from "./ErrorLogin";
 
 const Register = () => {
   const [email, setEmail] = useState("");
@@ -97,9 +97,9 @@ const Register = () => {
             />
           </div>
         </div>
-        <ErrorMessage message={errorMessage} />
+        <ErrorLogin message={errorMessage} />
         <br />
-        <button className="button is-primary" type="submit">
+        <button className="button is-black" type="submit">
           Register
         </button>
       </form>

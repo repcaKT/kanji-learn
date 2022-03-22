@@ -1,7 +1,9 @@
 import React, { useState, useContext } from "react";
 
-import ErrorMessage from "./ErrorMessage";
+import ErrorLogin from "./ErrorLogin";
 import { UserContext } from "../context/UserContext";
+
+import "./Login.css";
 
 const Login = () => {
   const [email, setEmail] = useState("");
@@ -64,9 +66,9 @@ const Login = () => {
           </div>
         </div>
 
-        <ErrorMessage message={errorMessage} />
+        <ErrorLogin message={errorMessage} />
         <br />
-        <button className="button is-primary" type="submit">
+        <button className="button is-black" type="submit">
           Login
         </button>
       </form>

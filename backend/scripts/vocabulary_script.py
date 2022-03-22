@@ -1,8 +1,7 @@
 import re
-import pandas as pd
 import sys
 from typing import List
-from bs4 import BeautifulSoup, element
+from bs4 import BeautifulSoup
 import requests
 import csv
 
