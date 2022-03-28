@@ -27,3 +27,4 @@ class Vocabulary(_database.Base):
     level = sqlalchemy.Column(sqlalchemy.String(16), index=True)
     times_learned = sqlalchemy.Column(sqlalchemy.Integer, index=True)
     user_id = sqlalchemy.Column(sqlalchemy.Integer, sqlalchemy.ForeignKey('users.id'))
+ 
