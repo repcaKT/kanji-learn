@@ -7,6 +7,14 @@ import QuizApp from "./components/QuizApp";
 const App = () => {
   const [message, setMessage] = useState("");
   const [token] = useContext(UserContext);
+  const progressdata = [
+    { name: "N5", learned: 100 },
+    { name: "N4", learned: 70 },
+    { name: "N3", learned: 40 },
+    { name: "N2", learned: 20 },
+    { name: "N1", learned: 2 },
+  ];
+  const [progressData, setProgressData] = useState(progressdata);
 
   const getWelcomeMessage = async () => {
     const requestOptions = {
@@ -39,7 +47,10 @@ const App = () => {
               <Login /> <Register />
             </div>
           ) : (
-            <QuizApp />
+            <QuizApp
+              progressData={progressData}
+              setProgressData={setProgressData}
+            />
           )}
         </div>
         <div className="column"></div>

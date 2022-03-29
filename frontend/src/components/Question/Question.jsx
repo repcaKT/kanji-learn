@@ -27,7 +27,17 @@ const Question = ({
 
   const handleCheck = (i) => {
     setSelected(i);
-    if (i === correct) setScore(score + 1);
+    questions[currQues].selected_question = i;
+    if (i === correct) {
+      setScore(score + 1);
+      // let newArr = [...questions];
+      questions[currQues].correct = 1;
+      // setQuestions(newArr);
+    } else {
+      // let newArr = [...questions];
+      questions[currQues].correct = 0;
+      // setQuestions(newArr);
+    }
     setError(false);
   };
 

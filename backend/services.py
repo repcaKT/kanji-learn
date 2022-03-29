@@ -73,7 +73,7 @@ async def get_current_user(
     return schemas.User.from_orm(user)
 
 async def get_vocabulary_by_level(level: int,learnign_type: str,  db: orm.Session, user_id: int):
-    result = db.query(models.Vocabulary).filter(models.Vocabulary.level == level).order_by(func.random()).limit(10).all()
+    result = db.query(models.Vocabulary).filter(models.Vocabulary.level == level).filter(models.Vocabulary.user_id == user_id).order_by(func.random()).limit(10).all()
     for element in result:
         incorrect_answers = db.query(models.Vocabulary).filter(models.Vocabulary.reading != element.reading).order_by(func.random()).limit(3).all()
         element.__dict__["incorrect_answers"] = [answer.reading for answer in incorrect_answers]

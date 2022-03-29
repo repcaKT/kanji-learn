@@ -7,9 +7,11 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Quiz from "./Pages/Quiz/Quiz";
 import Result from "./Pages/Result/Result";
 import { useState } from "react";
-function QuizApp() {
+
+function QuizApp({ progressData, setProgressData }) {
   const [questions, setQuestions] = useState();
   const [score, setScore] = useState(0);
+  const [questionCorrect, setQuestionCorrect] = useState([]);
   const [task, setTask] = useState();
 
   var userID = localStorage.getItem("id");
@@ -28,7 +30,15 @@ function QuizApp() {
       <div className="quizapp" style={{ backgroundImage: "url(../kanji.png)" }}>
         {/* <Header /> */}
         <Routes>
-          <Route path="/" element={<Home fetchQuestions={fetchQuestions} />} />
+          <Route
+            path="/"
+            element={
+              <Home
+                fetchQuestions={fetchQuestions}
+                progressData={progressData}
+              />
+            }
+          />
           <Route
             path="/quiz"
             element={
@@ -45,7 +55,13 @@ function QuizApp() {
           <Route
             path="/results"
             element={
-              <Result score={score} questions={questions} name={userNickname} />
+              <Result
+                score={score}
+                questions={questions}
+                name={userNickname}
+                setScore={setScore}
+                setProgressData={setProgressData}
+              />
             }
           />
         </Routes>

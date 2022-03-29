@@ -1,5 +1,6 @@
 .content {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
 }
 
@@ -17,6 +18,10 @@
   width: 55%;
   align-self: center;
   padding: 8px;
+}
+
+.stats {
+  position: relative;
 }
 
 @media (max-width: 800px) {

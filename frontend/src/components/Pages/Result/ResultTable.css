@@ -1,0 +1,11 @@
+.wrongSelected {
+  background-color: rgb(240, 142, 142);
+}
+.correctSelected {
+  background-color: rgb(194, 255, 194);
+}
+
+.tablica {
+  table-layout: "fixed";
+  width: 100%;
+}

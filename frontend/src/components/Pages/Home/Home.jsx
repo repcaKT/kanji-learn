@@ -4,12 +4,14 @@ import { Button, MenuItem, TextField } from "@material-ui/core";
 import Categories from "../../../Data/Categories";
 import { useNavigate } from "react-router-dom";
 import ErrorMessage from "../../ErrorMessage";
+import ErrorLogin from "../../ErrorLogin";
+import ChartBar from "../../Chart/ChartBar";
 
-const Home = ({ fetchQuestions }) => {
+const Home = ({ fetchQuestions, progressData }) => {
   const [category, setCategory] = useState("");
   const [difficulty, setDifficulty] = useState("");
   const [error, setError] = useState(false);
-
+  // console.log(progressData);
   const navigate = useNavigate();
 
   const handleSubmit = () => {
@@ -29,7 +31,9 @@ const Home = ({ fetchQuestions }) => {
         <span style={{ fontSize: 30 }}>Quiz Settings</span>
         <div className="settings__select">
           {error && (
-            <ErrorMessage message={"Please choose difficulty"}></ErrorMessage>
+            <ErrorLogin
+              message={"Please choose category and difficulty"}
+            ></ErrorLogin>
           )}
           {/* <TextField
             style={{ marginBottom: 25 }}
@@ -89,6 +93,7 @@ const Home = ({ fetchQuestions }) => {
       </div>
 
       <img src="/jlpt.png" className="banner" alt="learn img" />
+      <ChartBar className="stats" progressData={progressData}></ChartBar>
     </div>
   );
 };
