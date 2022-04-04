@@ -73,12 +73,54 @@ async def get_current_user(
     return schemas.User.from_orm(user)
 
 async def get_vocabulary_by_level(level: int,learnign_type: str,  db: orm.Session, user_id: int):
-    result = db.query(models.Vocabulary).filter(models.Vocabulary.level == level).filter(models.Vocabulary.user_id == user_id).order_by(func.random()).limit(10).all()
-    for element in result:
-        incorrect_answers = db.query(models.Vocabulary).filter(models.Vocabulary.reading != element.reading).order_by(func.random()).limit(3).all()
-        element.__dict__["incorrect_answers"] = [answer.reading for answer in incorrect_answers]
-        element.__dict__["correct_answer"] = element.__dict__["reading"]
-        element.__dict__["question"] = element.__dict__["kanji"]
-    print(user_id)
     
-    return {"questions":result, "task": "Select correct reading of the sign"}
+    if learnign_type == "kanji_reading":
+        result = db.query(models.Vocabulary).filter(models.Vocabulary.level == level).filter(models.Vocabulary.user_id == user_id).order_by(func.random()).limit(10).all()
+        for element in result:
+            incorrect_answers = db.query(models.Vocabulary).filter(models.Vocabulary.reading != element.reading).order_by(func.random()).limit(3).all()
+            element.__dict__["incorrect_answers"] = [answer.reading for answer in incorrect_answers]
+            element.__dict__["correct_answer"] = element.__dict__["reading"]
+            element.__dict__["question"] = element.__dict__["kanji"]
+        
+        return {"questions":result, "task": "Select correct reading of the sign: "}
+
+    elif learnign_type == "kanji_meaning":
+        result = db.query(models.Vocabulary).filter(models.Vocabulary.level == level).filter(models.Vocabulary.user_id == user_id).order_by(func.random()).limit(10).all()
+        for element in result:
+            incorrect_answers = db.query(models.Vocabulary).filter(models.Vocabulary.translation != element.translation).order_by(func.random()).limit(3).all()
+            element.__dict__["incorrect_answers"] = [answer.translation for answer in incorrect_answers]
+            element.__dict__["correct_answer"] = element.__dict__["translation"]
+            element.__dict__["question"] = element.__dict__["kanji"]
+        
+        return {"questions":result, "task": "Select correct translation of the sign: "}
+    
+    elif learnign_type == "kanji_from_reading":
+        result = db.query(models.Vocabulary).filter(models.Vocabulary.level == level).filter(models.Vocabulary.user_id == user_id).order_by(func.random()).limit(10).all()
+        for element in result:
+            incorrect_answers = db.query(models.Vocabulary).filter(models.Vocabulary.kanji != element.kanji).order_by(func.random()).limit(3).all()
+            element.__dict__["incorrect_answers"] = [answer.kanji for answer in incorrect_answers]
+            element.__dict__["correct_answer"] = element.__dict__["kanji"]
+            element.__dict__["question"] = element.__dict__["reading"]
+        
+        return {"questions":result, "task": "Select correct kanji corresponding to reading: "}
+    
+    elif learnign_type == "kanji_from_meaning":
+        result = db.query(models.Vocabulary).filter(models.Vocabulary.level == level).filter(models.Vocabulary.user_id == user_id).order_by(func.random()).limit(10).all()
+        for element in result:
+            incorrect_answers = db.query(models.Vocabulary).filter(models.Vocabulary.kanji != element.kanji).order_by(func.random()).limit(3).all()
+            element.__dict__["incorrect_answers"] = [answer.kanji for answer in incorrect_answers]
+            element.__dict__["correct_answer"] = element.__dict__["kanji"]
+            element.__dict__["question"] = element.__dict__["translation"]
+        
+        return {"questions":result, "task": "Select correct kanji corresponding to meaning: "}
+    
+    elif learnign_type == "sentence_learning":
+        result = db.query(models.Sentences).filter(models.Sentences.level == level).order_by(func.random()).limit(10).all()
+        for element in result:
+            element.__dict__["incorrect_answers"] = element.__dict__["bad_answers"].split(",")
+            element.__dict__["correct_answer"] = element.__dict__["correct_answer"]
+            element.__dict__["question"] = f"{element.__dict__['sentence']} HINT: \n{element.__dict__['word']}"
+            element.__dict__["kanji"] = element.__dict__['word']
+            element.__dict__["reading"] = element.__dict__['sentence']
+        
+        return {"questions":result, "task": "Select correct answer for kanji sign that will fill the underscored space."}

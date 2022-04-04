@@ -1,7 +1,9 @@
 const Categories = [
-  { category: "Vocabulary", value: "vocabulary" },
-  { category: "Japanese Anime", value: 31 },
-  { category: "Cartoon and Animations", value: 32 },
+  { category: "Kanji reading", value: "kanji_reading" },
+  { category: "Kanji meaning", value: "kanji_meaning" },
+  { category: "Kanji from reading", value: "kanji_from_reading" },
+  { category: "Kanji from meaning", value: "kanji_from_meaning" },
+  { category: "Sentence context learning", value: "sentence_learning" },
 ];
 
 export default Categories;
