@@ -91,8 +91,9 @@ const Home = ({ fetchQuestions, progressData }) => {
           </Button>
         </div>
       </div>
-
-      <img src="/jlpt.png" className="banner" alt="learn img" />
+      <a href="https://www.jlpt.jp/e/" className="banner">
+        <img src="/jlpt.png" alt="learn img" />
+      </a>
       <ChartBar className="stats" progressData={progressData}></ChartBar>
     </div>
   );
