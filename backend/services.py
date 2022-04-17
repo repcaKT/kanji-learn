@@ -75,7 +75,7 @@ async def get_current_user(
 async def get_vocabulary_by_level(level: int,learnign_type: str,  db: orm.Session, user_id: int):
     
     if learnign_type == "kanji_reading":
-        result = db.query(models.Vocabulary).filter(models.Vocabulary.level == level).filter(models.Vocabulary.user_id == user_id).order_by(func.min(models.Vocabulary.times_learned)).limit(10).all()
+        result = db.query(models.Vocabulary).filter(models.Vocabulary.level == level).filter(models.Vocabulary.user_id == user_id).order_by(models.Vocabulary.times_learned.asc()).limit(10).all()
         for element in result:
             incorrect_answers = db.query(models.Vocabulary).filter(models.Vocabulary.reading != element.reading).order_by(func.random()).limit(3).all()
             element.__dict__["incorrect_answers"] = [answer.reading for answer in incorrect_answers]

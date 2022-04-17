@@ -10,7 +10,7 @@ const Result = ({ score, questions, name, setScore, setProgressData }) => {
   const history = useNavigate();
   var userID = localStorage.getItem("id");
 
-  const submitRegistration = async () => {
+  const submitResults = async () => {
     const requestOptions = {
       method: "POST",
       headers: { "Content-Type": "application/json" },
@@ -20,7 +20,6 @@ const Result = ({ score, questions, name, setScore, setProgressData }) => {
     const data = await response.json();
     if (response.ok) {
       setProgressData(data.progress);
-      // localStorage.setItem("test", data.znak);
       setScore(0);
       history("/");
     } else {
@@ -30,7 +29,7 @@ const Result = ({ score, questions, name, setScore, setProgressData }) => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    submitRegistration();
+    submitResults();
   };
   console.log(questions);
   return (

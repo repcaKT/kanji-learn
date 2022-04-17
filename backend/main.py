@@ -69,9 +69,9 @@ async def get_vocab(level,learnign_type,user_id, db: orm.Session = _fastapi.Depe
 async def get_current_progress(data: dict,  db: orm.Session = _fastapi.Depends(services.get_db)):
     # result = await services.get_progress_by_id()
     return {"progress":[
-    { "name": "N5", "learned": 100 },
-    { "name": "N4", "learned": 70 },
-    { "name": "N3", "learned": 40 },
-    { "name": "N2", "learned": 20 },
-    { "name": "N1", "learned": 100 },
+    { "name": "N5", "learned": 50 },
+    { "name": "N4", "learned": 20 },
+    { "name": "N3", "learned": 10 },
+    { "name": "N2", "learned": 2 },
+    { "name": "N1", "learned": 0 },
   ]}

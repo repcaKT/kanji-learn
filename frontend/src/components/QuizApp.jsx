@@ -3,10 +3,11 @@ import axios from "axios";
 import Header from "./Header/Header";
 import Footer from "./Footer/Footer";
 import Home from "./Pages/Home/Home";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { BrowserRouter, Route, Routes, Switch } from "react-router-dom";
 import Quiz from "./Pages/Quiz/Quiz";
 import Result from "./Pages/Result/Result";
 import { useState } from "react";
+import NotFound from "./NotFound/NotFound";
 
 function QuizApp({ progressData, setProgressData }) {
   const [questions, setQuestions] = useState();
@@ -39,6 +40,7 @@ function QuizApp({ progressData, setProgressData }) {
               />
             }
           />
+          <Route path="*" element={<NotFound />} />
           <Route
             path="/quiz"
             element={
