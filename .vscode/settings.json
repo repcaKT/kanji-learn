@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\Tatahah\\Projects\\kanji-learn\\backend\\.venv\\Scripts\\python.exe",
+  "python.formatting.provider": "black",
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
